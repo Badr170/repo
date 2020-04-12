@@ -1,8 +1,8 @@
-Origin: Qiosz xMalr
-Label: Qiosz xMalr
+Origin: Badr~بيدرو
+Label:  Badr~بيدرو
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: ios11-ios13
 Architectures: iphoneos-arm
 Components: main
 Description: 
