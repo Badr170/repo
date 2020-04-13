@@ -1,0 +1,25 @@
+<package>
+	<id>kr.xsf1re.flyjb_0.2.4 ~ beta4_iphoneos-arm.deb</id>
+	<name>FlyJB</name>
+	<version>0.2.4 ~ beta4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>kr.xsf1re.flyjb</package>
+	</dependencies>
+	<shortDescription>Hido Gilprick from PUBG</shortDescription>
+	<descriptionlist>
+		<description>re formatted the correct memory correction</description>
+    <description>تم اصلاح اخطاء في الاداه/ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

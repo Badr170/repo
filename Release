@@ -1,8 +1,8 @@
-Origin: Badr~بيدرو
-Label:  Badr~بيدرو
+Origin: BadrRepo
+Label:  BadrRepo
 Suite: stable
 Version: 1.0
 Codename: ios11-ios13
 Architectures: iphoneos-arm
 Components: main
-Description:
+Description: Test repo for testing
