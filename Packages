@@ -1,25 +1,39 @@
+Package: com.Badr.rpgfarm.a-bypass
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/com.Badr.rpgfarm.a-bypass_1.0.6_iphoneos-arm.deb
+Size: 52178
+MD5sum: 53c65c25e46b6b71edc717aab6b6b11f
+SHA1: a3e827689a4da5ba7de60141d083ae0832e63b75
+SHA256: 7cf3133e5a76bc3f7b4cc2992d29f45b0227409b37b6882536c84934e5d48acc
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Badr~Baw Appie
+Installed-Size: 388
+Name: A-Bypass
+
 Package: com.cydiageek.cthulhu
 Version: 1.0.5
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: BigBoss
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./debs/com.cydiageek.cthulhu_1.0.5_iphoneos-arm.deb
-Size: 96452
-MD5sum: c076620e8b338a129df62d9a356c5032
-SHA1: 520ba271a81b7f6fda3f965c93701172b8e34884
-SHA256: 9c496d6eaba41820c904253a9b3ce8bb88fa3d3d77947049e14941460383f0f2
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 96434
+MD5sum: 753f99b779bf2e0e191436c194bf5e58
+SHA1: 928ccd5bd023ebdb9ca4c5aee568f86854ed6bb6
+SHA256: 5fa86b29f39172a42f027a0659929ea652ce76c395e1f8a030a2a008587d9622
 Section: Tweaks
 Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
-Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Author: Badr~from/CydiaGeek
+Depiction: moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Homepage: moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 Installed-Size: 588
 Name: Cthulhu
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
+Sponsor: thebigboss.org
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 dev: lucaluca86
 
@@ -34,8 +48,6 @@ Size: 59516
 MD5sum: 80a085f6c61a73e28774dd32ca0725ce
 SHA1: 1734f35c5ae2900eef544bce6d5a9b9dabf68362
 SHA256: 3c304e5b207995a5d84628c969779ee8817031591b0699571f57dadf712a7eba
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
 Section: Tweaks
 Description: macOS-style dock redesigned for touch screens
 Author: Evan Swick
@@ -46,22 +58,20 @@ Recommends: com.eswick.iconlayoutmanager
 Package: com.exile90.icleanerpro
 Version: 7.8.2
 Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.8.2_iphoneos-arm.deb
-Size: 6557578
-MD5sum: 2967fdbb6c3c65b7a1d00523136e7b58
-SHA1: 0eed6fcaf5e77dc5338e5b9da01d0e8786d662f1
-SHA256: 4e2f3600be5bc7253bdc890fe156d75a2e697a6e5404f549a01f65917d01f8c4
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 9658624
+MD5sum: 54b9c151f91a7aebf952eae0a1933997
+SHA1: 751a537d5ea81e9ef71cdf2f46c8f50c6e3f50b0
+SHA256: f24a99b0a31b987e19f1532ac5d7e67e337fbd10794cb0b809f72d56d32b8775
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Homepage: http://ib-soft.net/icleaner
+Author: Badr~from/Ivano Bilenchi <support@ib-soft.net>
+Depiction: ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Homepage: ib-soft.net/icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
@@ -71,55 +81,32 @@ Architecture: iphoneos-arm
 Maintainer: FoxfortMobile
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.0.6)
 Filename: ./debs/com.foxfort.camcontrolsx_1.0.2_iphoneos-arm.deb
-Size: 132428
-MD5sum: 04520c04149ff0143fec9bf0ac217870
-SHA1: 821815b0e6300910c6c48d9417cea3e89b4fb557
-SHA256: d73571d80f0cff1c55b28da8256d98696b5a5cb732b3da1d42f8130305a91834
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 132430
+MD5sum: 5d561a6d5568b57d1a9d327e69b6dd9a
+SHA1: 19d53b35baf7d04516c4a0019da30e54d877747c
+SHA256: f21dacdbf98af95fa5338e859f99854a86865f0d50ac79434a4cccbbcefbbb4a
 Section: Tweaks
 Description: Bottom camera controls on iphone
-Author: FoxfortMobile
+Author: Badr~FoxfortMobile
 Installed-Size: 780
 Name: CamControls X
 
-Package: com.foxfort.portraitxi
-Version: 3.1.0
-Architecture: iphoneos-arm
-Maintainer: FoxfortMobile
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.0.15), com.foxfort.libfoxfortutils (>= 1.0.12), org.swift.libswift (>= 5.0)
-Filename: ./debs/com.foxfort.portraitxi_3.1.0_iphoneos-arm.deb
-Size: 16283804
-MD5sum: f32c52e5617a3d31b808a2ea7fd0c58e
-SHA1: ce1c6a521294f791ec7e7d58d0166c0527c9c6e8
-SHA256: 8bd2614775c8a13178c8e3a675e7a4b05b55ca4e3a3263033218e9aeb27e32f2
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
-Section: Tweaks
-Description: Single camera portrait mode
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
-Installed-Size: 17028
-Name: PortraitXI
-
 Package: com.foxfort.translomatic
-Version: 2.1.7
+Version: 2.1.8.b
 Architecture: iphoneos-arm
 Maintainer: FoxfortMobile
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.0.15), applist
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.1.0), applist
 Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic
-Filename: ./debs/com.foxfort.translomatic_2.1.7_iphoneos-arm.deb
-Size: 4232476
-MD5sum: 9db298a706846b785783614d65c45e9b
-SHA1: d4b07081247d84e0e51b89a3885a993b16cd7782
-SHA256: 48442ffed8533682674e4932a455ecff85f83e2c3b1f8841b0b0220064330f3a
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Filename: ./debs/com.foxfort.translomatic_2.1.8.b_iphoneos-arm.deb
+Size: 4078762
+MD5sum: 3d4adf23624c36d33b37f9f7039087ee
+SHA1: ed74c3173c961ffb431b54cadb165638b5dcf79b
+SHA256: 9a1b26b7faeb280624aefa882732eed95a05189c7838292d614e8be726a62096
 Section: Tweaks
 Description: Quickly translate any text
-Author: FoxfortMobile
+Author: Badr~from/FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
-Installed-Size: 4452
+Installed-Size: 4196
 Name: Translomatic
 
 Package: com.hackyouriphone.pencilchargingindicator
@@ -132,20 +119,18 @@ Size: 509334
 MD5sum: 3bf343cde26db1900c7c3da07830ef2b
 SHA1: 77fe8089e6ca82896edd3481b919fa4c100c3295
 SHA256: d8b823fcad26b2fc5b974759762e67fd55b89e4091e0fdb9b7c5720397872bf6
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
 Section: HYI - Tweaks
 Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
-Author: shiftcmdk <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pencilchargingindicator
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pencilchargingindicator
+Author: Badr~shiftcmdk
+Depiction: /depiction/depiction.php?filename=pencilchargingindicator
+Homepage: /depiction/depiction.php?filename=pencilchargingindicator
 Name: PencilChargingIndicator
-SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=pencilchargingindicator
+SileoDepiction: depiction.hackyouriphone.org/sileoDepiction.php?filename=pencilchargingindicator
 
 Package: com.ikilledappl3.sareth
 Version: 1.11-1
 Architecture: iphoneos-arm
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: iKilledAppl3
 Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
@@ -154,11 +139,9 @@ Size: 2507668
 MD5sum: 5d36af532ad9859d045d64af9fcbf8bd
 SHA1: 7ff5b5756d497929da322831c1d34c5843244de1
 SHA256: e8d75b9216862f9b9a124a68b3196b561bf289bd8fe084f1cc8ae9fcfaa26d54
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
 Section: Tweaks
 Description: Take charge of your Control Center!
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: Badr~iKilledAppl3
 Installed-Size: 2900
 Name: Sareth
 
@@ -168,15 +151,13 @@ Architecture: iphoneos-arm
 Maintainer: Muirey03
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
 Filename: ./debs/com.muirey03.arc_1.0.3_iphoneos-arm.deb
-Size: 617448
-MD5sum: 66b604b424c2f22ee69d5fc1ef52be61
-SHA1: 27e918ef5fbe8d35412c56a8a7de8ad23ebe367d
-SHA256: a81335e7d656e2a3efe951cba0f37408d6b72e61c4968956ab7a8df4432fa094
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 617514
+MD5sum: 168baddacd0faaefeecfeddf5e785fd6
+SHA1: 29b25ec9faee512141305100d1118771503ff246
+SHA256: 022cce79201c2965c97eb0400957aa226554d3d62139a45e0b1f646f3b6927cc
 Section: Tweaks
-Description: Control at your fingertips.
-Author: Muirey03
+Description: Control at your fingertips.🔥تم تعريب بواسطة بيدرو
+Author: Badr~from/Muirey03
 Icon: file:///Library/PreferenceBundles/ArcPrefs.bundle/Icon-Large.png
 Installed-Size: 980
 Name: Arc
@@ -192,72 +173,45 @@ Size: 161814
 MD5sum: 0e0c7befad625839775d0f106deb4c14
 SHA1: 5b7d63fad91f3eda4b8a63d2b49dc301f0197c74
 SHA256: d54f762030bfbac23f3382c5cef1fc7d2415ddd73b9c690d18a83fa050a8ec9c
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
 Section: Tweaks
-Description: Redefine your Control Center
-Author: NoisyFlake
+Description: Redefine your Control Centerتم تعريب بواسطه بيدرو
+Author: Badr~NoisyFlake
 Installed-Size: 620
 Name: Magma Evo
 
 Package: com.opa334.choicy
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: opa334 <opa334@protonmail.com>
+Maintainer: opa334
 Depends: mobilesubstrate, applist
 Filename: ./debs/com.opa334.choicy_1.2_iphoneos-arm.deb
 Size: 147174
 MD5sum: edc98cead41b729dd4f286791331c364
 SHA1: bce315604d794508a5b6cdcf46ec735d0c1f7df1
 SHA256: 1ec198d4e2ddbb3b144d0c3bbbb9c169df7b47bbc8888cf0bede8237bdbe154f
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
 Section: Tweaks
 Description: Advanced Tweak Configuration!
-Author: opa334 <opa334@protonmail.com>
-Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: Badr~opa334
+Depiction: /depic/Choicy/index.html
 Installed-Size: 776
 Name: Choicy
 
 Package: com.p2kdev.snapper2cc
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
+Maintainer: P2KDev
 Depends: mobilesubstrate,com.opa334.ccsupport,com.jontelang.snapper2.packix
 Filename: ./debs/com.p2kdev.snapper2cc_1.0_iphoneos-arm.deb
-Size: 16300
-MD5sum: 60d44fca04ad764f2b4cd3b3acf20ebf
-SHA1: 0de9b4d3860c97e7a2cab83e41240f4fe877ba1c
-SHA256: 4a557997f68344105b29f84af761837d047b863460fa91f2ca364c9537a98d2a
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 16354
+MD5sum: f57c2d3c4b5f395d5e8a7e8c0c95dbfd
+SHA1: 295aba0ba5211ac68b503768950c692f3c705b8d
+SHA256: 26d1cd38f65b473979ce8ef8761707937477779d13b8142c602548874133a5b3
 Section: Control Center (Modules)
-Description: Invoke the Snapper2 Tweak's actions using CC Toggle!
-Author: P2KDev <p2kdev@gmail.com>
+Description: Invoke the Snapper2 Tweak's actions using CC Toggleتم تعريب بواسطة بيدرو🔥
+Author: Badr~from/P2KDev
 Icon: file:///Library/Application Support/Snapper2CC/icon.png
 Installed-Size: 156
 Name: Snapper2 CC Toggle
-
-Package: com.qiop1379.swipeextenderx
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: qwertyuiop1379 <thoffman8839@gmail.com>
-Depends: firmware (>= 12.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.qiop1379.swipeextenderx_1.0.1_iphoneos-arm.deb
-Size: 134876
-MD5sum: a72c5d6e673f2763eada4ffede57ccd0
-SHA1: 26fcf143092b1016eeecabfb8f7179d09e2091b4
-SHA256: e6e95a76bccd811c1202e9a8977eb6b517fe8ef61ec633b58f4bb945387b4c7d
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
-Section: Tweaks
-Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
-Author: qwertyuiop1379 <thoffman8839@gmail.com>
-Depiction: https://repo.chariz.com/package/com.qiop1379.swipeextenderx/
-Icon: https://chariz.com/cdn/icon/swipeextenderx/icon@3x.png
-Installed-Size: 488
-Name: SwipeExtenderX
-Tag: cydia::commercial, compatible::ios12, compatible::ios13
 
 Package: com.tapsharp.libtapsharp
 Version: 1.0.2
@@ -269,11 +223,9 @@ Size: 698052
 MD5sum: 7722e303fe01cb91d233b0904a5117ea
 SHA1: 99b58a392866c4c32623fb71cdc47795f0b468f3
 SHA256: 71130e5a55d6b3a095136f162c9a8c1c30ce2cd157205586c7c43861f3d87e8a
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
 Section: System
 Description: Shared tools for TapSharp tweaks
-Author: Neo Ighodaro
+Author: Badr~Neo Ighodaro
 Installed-Size: 860
 Name: libTapSharp
 Tag: role::developer
@@ -284,15 +236,13 @@ Architecture: iphoneos-arm
 Maintainer: Neo Ighodaro
 Depends: mobilesubstrate, firmware (>= 11.2), com.tapsharp.libtapsharp (>= 1.0.2), com.rpetrich.rocketbootstrap (>= 1.0.3), applist, ws.hbang.alderis (>= 1.0) | org.thebigboss.libcolorpicker (>= 1.6.7)
 Filename: ./debs/com.tapsharp.switcher_1.1.3.1_iphoneos-arm.deb
-Size: 137482
-MD5sum: c1c9615beff4f4d7874bc974df58c700
-SHA1: 68762d14703caa0759590567c7300520a11378ce
-SHA256: 1793f0527d96addb51d499abd20eb257fa2c22fa0010b260005f8cfb40156727
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 137552
+MD5sum: dabd8cec842556021049e0691c4aeeab
+SHA1: a17cf7e3c3796f2999553d3c9f923e5e50927309
+SHA256: 0155489a3622e4fb46c884ab66f5c83962625ed2812db0ca40b6dada36807440
 Section: Tweaks
-Description: Switch to a different application from anywhere on your iOS device.
-Author: Neo Ighodaro
+Description: Switch to a different application from anywhere on your iOS device.🔥تم تعريب بواسطة بيدرو
+Author: Badr~from/Neo Ighodaro
 Icon: file:///Library/Application Support/Switcher/icon@2x.png
 Installed-Size: 544
 Name: Switcher
@@ -300,21 +250,19 @@ Name: Switcher
 Package: com.twickd.cole.corona-status
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Cole <imbypass.pw@gmail.com>
+Maintainer: Cole
 Depends: com.matchstic.xenhtml
 Filename: ./debs/com.twickd.cole.corona-status_1.2_iphoneos-arm.deb
-Size: 129864
-MD5sum: 80a88cf490847c3f71a5ae79b472172b
-SHA1: 3c4785c72c00e4f153e23aa38c18d42880bddc09
-SHA256: 59e0c21d7da6802190b3e2c97b85302caa5ff9fc8c5fc6ec754e252c2ba0ea82
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 129850
+MD5sum: 22e0610d535e98fd5e407ea853d457f7
+SHA1: 915ff11b8bd6d9b43e195112128aabaac768e4e8
+SHA256: dc0980f3ebbb7d0bdebeeb70029c31ff4b6d275e86eaf5f8711da280ae340058
 Section: Widgets
 Description: A simple widget to display case information about COVID-19
-Author: Cole <imbypass.pw@gmail.com>
-Depiction: https://repo.twickd.com/package/com.twickd.cole.corona-status
+Author: Badr~from/Cole
+Depiction: repo.twickd.com/package/com.twickd.cole.corona-status
 Name: Corona Status
-SileoDepiction: https://repo.twickd.com/package/com.twickd.cole.corona-status/native
+SileoDepiction: repo.twickd.com/package/com.twickd.cole.corona-status/native
 Tag: compatible_min::ios9.0, compatible_max::ios13.3
 
 Package: com.twickd.mtac.lynx
@@ -328,16 +276,30 @@ Size: 487392
 MD5sum: 5063dec1e793a347771a45d1f6ff82ad
 SHA1: 4b469adcd166202c8cbf0e6d4cfe3d6e288ff041
 SHA256: 04be248faac46860f197155e06952fe7022820dd33b960032aaeea50642045a2
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
 Section: Tweaks
 Description: Ultimate device customization
-Author: MTAC <mtactheming@gmail.com>
-Depiction: https://repo.twickd.com/package/com.twickd.mtac.lynx
+Author: Badr~MTAC
+Depiction: /package/com.twickd.mtac.lynx
 Installed-Size: 2456
 Name: Lynx
-SileoDepiction: https://repo.twickd.com/package/com.twickd.mtac.lynx/native
+SileoDepiction: /package/com.twickd.mtac.lynx/native
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+
+Package: cydia.Badr.org.cydown
+Version: 7.0.7d
+Architecture: iphoneos-arm
+Maintainer: Badr
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/cydia.Badr.org.cydown_7.0.7_iphoneos-arm.deb
+Size: 3398134
+MD5sum: 6e99bfda1e3e100e73aa2ed554a1dcc9
+SHA1: 14bfe9e4a8a83a7fcc1a68c4494b7c70d11c3e15
+SHA256: 00097f1b12fa5ff232b58eb3f6ef464a1b321159154d11a7b5a63afa80f99b19
+Section: Supports iOS 13
+Author: Badr~julioverne
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+Sponsor: Badr.org
 
 Package: io.securarepo.edge
 Version: 2.1
@@ -346,56 +308,48 @@ Maintainer: Secura Repo
 Depends: mobilesubstrate, firmware (>=11.0), ws.hbang.common (>=1.14), org.thebigboss.libcolorpicker
 Conflicts: com.junesiphone.lockpluspro
 Filename: ./debs/io.securarepo.edge_2.1_iphoneos-arm.deb
-Size: 230982
-MD5sum: 3cfe5381f0ebd1a850a692b2744edc09
-SHA1: fa2434f507bc9e5ea8f206a92361a00499b3435d
-SHA256: a58d066bda864c7ab873bc4616aed604b08ccdcae080972cd68c7d6832a81b71
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Size: 231040
+MD5sum: eff892d9fed7fdf6424e9006b3c3449e
+SHA1: d7ae6023aaff5c139dc53ce1140f72c9a43e7f9c
+SHA256: 366c6f687a358262daf89ab50088f6cb671ccd05cda8753b5cb7fdf6f84b8caa
 Section: Tweaks
-Description: Bring Colour to Your Device
-Author: Max Bridgland + TylerD3V
+Description: Bring Colour to Your Device🌀تم تعريب بواسطة بيدرو
+Author: Badr~Max + TylerD3V
 Installed-Size: 560
 Name: Edge
 
 Package: kr.xsf1re.flyjb
-Version: 0.2.4~beta4
+Version: 0.2.5~b
 Architecture: iphoneos-arm
-Maintainer: XsF1re
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Filename: ./debs/kr.xsf1re.flyjb_0.2.4~beta4_iphoneos-arm.deb
-Size: 464684
-MD5sum: 641b9f1af8f1d164fb83c0230f7463f0
-SHA1: bb114e8e28f7a50479fe35f71210c0284a9dace5
-SHA256: bca79984b8d65824abbe65487368f86cf010d07bd3f41a48fb8a1d319cd979d6
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
+Filename: ./debs/kr.xsf1re.flyjb_0.2.5~b_iphoneos-arm.deb
+Size: 585808
+MD5sum: 97d57215e59fccd8a26d6e4f77825eea
+SHA1: 2ddd2bae717225650c7bb011de344c9bf3453ff5
+SHA256: a2194689b3e1695b2c5508e2992c9cd1d47494237ce1583a83f7a409ec3d9d4c
 Section: Tweaks
 Description: You can HIDE Doing jailbreak your iDevice.
-Author: XsF1re
-Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
-Installed-Size: 1160
+Author: Badr~forom/XsF1re
 Name: FlyJB
 
-Package: org.swift.libswift
-Version: 5.0
+Package: net.Badr.limneos.bioprotectxs
+Version: 4.4-4+debug.d
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 7.0)
-Filename: ./debs/org.swift.libswift_5.0_iphoneos-arm.deb
-Size: 34559404
-MD5sum: 7a5f1ce4acf4277fd5e23217d53d9c4f
-SHA1: 7b49c7cceb60d95f9aeb121b2695a38a6c7bea2a
-SHA256: d78153853892d427f7bb55281dbee97f42835c654389d27834682aceb37af88a
-Depiction: https://badr170.githud.io/repo/depictions/?p=test
-SileoDepiction:https://badr170.githud.io/repo/sileodepictions/depiction.json
-Section: Development
-Description: Swift runtime for iOS
-Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libswiftDp
-Installed-Size: 183124
-Name: libswift (stable)
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios12
-dev: kabiroberai
+Maintainer: BigBoss
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/net.Badr.limneos.bioprotectxs_4.4-4+debug.d_iphoneos-arm.deb
+Size: 808554
+MD5sum: 5369461c6510f4c5072451384a342e8f
+SHA1: 7aac207d483a9c5e293ab98701476febb542fce6
+SHA256: f354f63f45578a3eaa2e64c0742f5181eb100a27d48cc83f2a4a184d2133ab04
+Section: Tweaks
+Description: Protect your apps with Touch/Face ID!
+Author: Badr~from/Elias Limneos
+Depiction: moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectxsDp
+Homepage: moreinfo.thebigboss.org/moreinfo/depiction.php file=bioprotectxsDp
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
+Installed-Size: 2234
+Name: BioProtect XS (iOS 12/13)
+Sponsor: Badr~thebigboss.org
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: limneos

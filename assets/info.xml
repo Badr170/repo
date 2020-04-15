@@ -1,7 +1,7 @@
 <package>
-	<id>kr.xsf1re.flyjb_0.2.4 ~ beta4_iphoneos-arm.deb</id>
+	<id>kr.xsf1re.flyjb_0.2.5~b_iphoneos-arm.deb</id>
 	<name>FlyJB</name>
-	<version>0.2.4 ~ beta4</version>
+	<version>0.2.5~b</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -27,7 +27,7 @@
 <package>
 	<id>com.cydiageek.cthulhu_1.0.5_iphoneos-arm.deb</id>
 	<name>Cthulhu</name>
-	<version>_1.0.5_</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -52,8 +52,8 @@
 
 <package>
 	<id>com.eswick.harbor3_1.1.1-1_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.1.1-1_</version>
+	<name>Harbor 3</name>
+	<version>1.1.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -78,8 +78,8 @@
 
 <package>
 	<id>com.exile90.icleanerpro_7.8.2_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_7.8.2_</version>
+	<name>iCleaner Pro</name>
+	<version>7.8.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -104,8 +104,8 @@
 
 <package>
 	<id>com.foxfort.camcontrolsx_1.0.2_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.0.2_</version>
+	<name>CamControls X</name>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -129,35 +129,9 @@
 </package>
 
 <package>
-	<id>com.foxfort.portraitxi_3.1.0_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_3.1.0_</version>
-	<compatibility>
-		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies>
-		<package>com.foxfort.portraitxi</package>
-	</dependencies>
-	<shortDescription>Features of the dok</shortDescription>
-	<descriptionlist>
-		<description>re formatted correct</description>
-    <description>الاداه تم تعريب بواسطة بيدرو/ios13.0-ios13.4</description>
-	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
-	<links></links>
-</package>
-
-<package>
-	<id>com.foxfort.translomatic_2.1.7_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_2.1.7_</version>
+	<id>com.foxfort.translomatic_2.1.8.b_iphoneos-arm.deb</id>
+	<name>Translomatic</name>
+	<version>2.1.8.b</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -182,8 +156,8 @@
 
 <package>
 	<id>com.hackyouriphone.pencilchargingindicator_1.2~b7_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.2~b7_</version>
+	<name>PencilChargingIndicator</name>
+	<version>1.2~b7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -208,8 +182,8 @@
 
 <package>
 	<id>com.ikilledappl3.sareth_1.11-1_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.11-1_</version>
+	<name>Sareth</name>
+	<version>1.11-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -234,8 +208,8 @@
 
 <package>
 	<id>com.muirey03.arc_1.0.3_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.0.3_</version>
+	<name>Arc</name>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -244,7 +218,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.shiftcmdk.pencilchargingindicator</package>
+		<package>com.muirey03.arc</package>
 	</dependencies>
 	<shortDescription>Features of the dok</shortDescription>
 	<descriptionlist>
@@ -260,8 +234,8 @@
 
 <package>
 	<id>com.noisyflake.magmaevo_1.2.4_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.2.4_</version>
+	<name>Magma Evo</name>
+	<version>1.2.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -286,8 +260,8 @@
 
 <package>
 	<id>com.opa334.choicy_1.2_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.2_</version>
+	<name>Choicy</name>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -312,8 +286,8 @@
 
 <package>
 	<id>com.p2kdev.snapper2cc_1.0_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.0_</version>
+	<name>Snapper2 CC Toggle</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -336,36 +310,11 @@
 	<links></links>
 </package>
 
-<package>
-	<id>com.qiop1379.swipeextenderx_1.0.1_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.0.1_</version>
-	<compatibility>
-		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies>
-		<package>com.qiop1379.swipeextenderx</package>
-	</dependencies>
-	<shortDescription>Features of the dok</shortDescription>
-	<descriptionlist>
-		<description>re formatted correct</description>
-    <description>الاداه تم تعريب بواسطة بيدرو/ios13.0-ios13.4</description>
-	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
-	<links></links>
-</package>
 
 <package>
 	<id>com.tapsharp.libtapsharp_1.0.2_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.0.2_</version>
+	<name>libTapSharp</name>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -390,8 +339,8 @@
 
 <package>
 	<id>com.tapsharp.switcher_1.1.3.1_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.1.3.1_</version>
+	<name>Switcher</name>
+	<version>1.1.3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -416,8 +365,8 @@
 
 <package>
 	<id>com.twickd.cole.corona-status_1.2_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.2_</version>
+	<name>Corona Status</name>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -441,9 +390,9 @@
 </package>
 
 <package>
-	<id>com.twickd.mtac.lynx_1.2.4-2_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_1.2.4-2_</version>
+	<id>com.Badr.twickd.mtac.lynx_1.2.4-2_iphoneos-arm.deb</id>
+	<name>Lynx</name>
+	<version>1.2.4-2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -468,8 +417,8 @@
 
 <package>
 	<id>io.securarepo.edge_2.1_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_2.1_</version>
+	<name>Edge</name>
+	<version>2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -493,9 +442,9 @@
 </package>
 
 <package>
-	<id>org.swift.libswift_5.0_iphoneos-arm.deb</id>
-	<name>Cthulhu</name>
-	<version>_5.0_</version>
+	<id>net.Badr.limneos.bioprotectxs_4.4-4+debug.d_iphoneos-arm.deb</id>
+	<name>BioProtect XS (iOS 12/13)</name>
+	<version>4.4-4+debug.d</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -504,12 +453,64 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>org.swift.libswift</package>
+		<package>net.limneos.bioprotectxs</package>
 	</dependencies>
 	<shortDescription>Features of the dok</shortDescription>
 	<descriptionlist>
 		<description>re formatted correct</description>
-    <description>الاداه مساعد ليPortraitXl/ios13.0-ios13.4</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.Badr.rpgfarm.a-bypass_1.0.6_iphoneos-arm.deb</id>
+	<name>A-Bypass</name>
+	<version>1.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.Badr.rpgfarm.a-bypass</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>cydia.Badr.org.cydown_7.0.7_iphoneos-arm.deb</id>
+	<name>CyDown</name>
+	<version>7.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>cydia.Badr.org.cydown</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
