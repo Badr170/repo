@@ -37,7 +37,7 @@ dev: hurouftech
 Package: co.repo.classic.cracktool4
 Version: 4.0~beta9c
 Architecture: iphoneos-arm
-Maintainer: Repo
+Maintainer: Repo 
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Filename: ./debs/co.repo.classic.cracktool4_4.0~beta9c_iphoneos-arm.deb
 Size: 516588
@@ -69,7 +69,7 @@ Name: A-Bypass
 Package: com.Badr.WAUnlimitedSend
 Version: 1.1-8-1
 Architecture: iphoneos-arm
-Maintainer: https://www.sarhne.com/badr170
+Maintainer: https://www.sarhne.com/badr170 
 Depends: mobilesubstrate
 Filename: ./debs/com.Badr.waunlimitedsend_1.1.8.1_iphoneos-arm.deb
 Size: 539992
@@ -102,7 +102,7 @@ Icon: file:///Library/PreferenceBundles/itranslate.bundle/icon.png
 Installed-Size: 133
 Name: iTranslate(ios13~ترجمه)
 Priority: optional
-Sponsor: thebigboss.org
+Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios10, compatible::ios11
 dev: teunstrik
 
@@ -142,7 +142,7 @@ SHA1: 31c33f9ff1a4e966ad5791a9bc513e8028c1e51c
 SHA256: 171cde08312d3223a924f02b16a99d96b02bef9dc87642fdad7a88d2011f2a2d
 Section: Tweaks
 Description: Custom Text below Press Home to Open/Swipe up to Unlock & Mor
-Author: Badr~from/CydiaGeek
+Author: Badr~from/CydiaGeek 
 Depiction: mofo.thebs.org/moreinfo/depiction.php?file=cthulhuDp
 Homepage: monfo.tboss.org/moreinfo/depiction.php?file=cthulhuDp
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
@@ -174,20 +174,20 @@ Recommends: com.eswick.iconlayoutmanager
 Package: com.exile90.icleanerpro
 Version: 7.8.2
 Architecture: iphoneos-arm
-Maintainer: Bilenchi <https://www.sarhne.com/badr170>
+Maintainer: Blenchi <https://www.sarhne.com/badr170>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altesta.eilecom.icleaner
 Replaces: org.altsta.eilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.8.2_iphoneos-arm.deb
-Size: 9658638
-MD5sum: c3b9b2cc1bbcd3f862b72ab9ad02ab76
-SHA1: 7b569d63159aaff0b0e8415003dda54b3298a62e
-SHA256: 94c887c952a3d6fe11d865ff2dc228119f334acafc8199090c03d94ec50ed74c
+Size: 9658598
+MD5sum: 5c378faaaa09805ba735823fbad7398d
+SHA1: 56dc56af9e07eeb641977409a00cc1912fc311dd
+SHA256: 471251ef62c8027dd882f9096c346ab165abb64946381365439a8292b32b2933
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
-Author: Badr~from/Bilenchi <https://www.sarhne.com/badr170>
-Depiction: ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Homepage: ib-soft.net/icleaner
+Author: Badr~Bilenchi 
+Depiction: com.exile90.icleanerpro
+Homepage: icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
@@ -227,21 +227,21 @@ Sponsor: https://www.sarhne.com/badr170
 Package: com.fouadraheb.watusi
 Version: 1.2.37
 Architecture: iphoneos-arm
-Maintainer: Fouad Raheb
+Maintainer: Badr~ Raheb 
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.19), com.rpetrich.rocketbootstrap, applist
 Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/com.fouadraheb.watusi_1.2.37_iphoneos-arm.deb
-Size: 4837738
-MD5sum: 60e36ea42b0ee5e1f0bb0edfd800ceb0
-SHA1: 621aae20f44b6d6e168c1a2cd297675f4069f2ae
-SHA256: 6bceb2ca3ea3e6a38c4e1996af9723113060e280c8045928e9b51bbf05555afc
+Size: 4837734
+MD5sum: 52a94953a752f04248545c85075d6047
+SHA1: 57cedc6e01e4589de2a122bb131c87e52ba667cb
+SHA256: 71a1b55df9a37675a969e5b38ed2f32b60100f67fa357e62984ee8d177ef031f
 Section: Tweaks
-Description: The all-in-one tweak for WhatsApp Messenger
-Author: Badr~Fouad Raheb
-Depiction: apt.fouadraheb.com/package/com.fouadraheb.watusi
+Description: The all-in-one tweak for WhatsApp Messengerواتسي
+Author: Badr~Raheb
+Depiction: com.fouadraheb.watusi
 Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
 Name: Watusi 2 for WhatsApp
-SileoDepiction: apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
+SileoDepiction: com.fouadraheb.watusi/sileo
 
 Package: com.foxfort.camcontrolsx
 Version: 1.0.2
@@ -280,38 +280,38 @@ Name: Translomatic
 Package: com.hackyouriphone.pencilchargingindicator
 Version: 1.2~b7
 Architecture: iphoneos-arm
-Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Maintainer: Badr~iPhone
 Depends: mobilesubstrate
 Filename: ./debs/com.hackyouriphone.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
-Size: 509334
-MD5sum: 3bf343cde26db1900c7c3da07830ef2b
-SHA1: 77fe8089e6ca82896edd3481b919fa4c100c3295
-SHA256: d8b823fcad26b2fc5b974759762e67fd55b89e4091e0fdb9b7c5720397872bf6
-Section: HYI - Tweaks
+Size: 509296
+MD5sum: e14d6b29269e867629d20ac4b6e77633
+SHA1: 9475a54628c3c33c60432b380f22bf97a1b2f519
+SHA256: 9c4602027ca45d4a743ac1fe8ef11e591475be392023c0493c16ef95d5a50880
+Section: Tweaks
 Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
-Author: shiftcmdk <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pencilchargingindicator
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pencilchargingindicator
+Author: Badr~shift
+Depiction: depiction depiction.php filename gingindicator
+Homepage: depiction depiction. filenameingindicator
 Name: PencilChargingIndicator
-SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=pencilchargingindicator
+SileoDepiction: Depiction.php filename ingindicator
 
 Package: com.ichitaso.batteryx
 Version: 0.0.4
 Architecture: iphoneos-arm
-Maintainer: ichitas
+Maintainer: Badr~ichis
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
 Replaces: com.ichitaso.batteryx
 Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
-Size: 67638
-MD5sum: 0407aa7c7b124c41adf7893ed3dd2b9d
-SHA1: 108021c9fed653d3dfbd9299ad621300c2ab2e6a
-SHA256: 761befae9eabee7590965aedde459828f1f761fbfedc9dba68df9ccd24b3b5f5
+Size: 67630
+MD5sum: 84af9c30efa125f77ca78ae9317a8c27
+SHA1: e0a946231113076a37dd5596ddff7576e9c6fa6f
+SHA256: a15088ef2e42d573aed0235f50109a3d15cd266161318e49facb20062271dd93
 Section: Tweaks
 Description: Show Battery Percentege for iPhone X Series
-Author: Badr~ichitaso <https://www.sarhne.com/badr170>
-Depiction: cy.iitaso.com/depiction/batteryx.html
-Homepage: https://www.sarhne.com/badr170
+Author: Badr~ichi
+Depiction: com/depiction/batteryx.html
+Homepage: Badr/https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
 Installed-Size: 340
 Name: BatteryPercentageX
@@ -322,7 +322,7 @@ dev: ichitaso
 Package: com.ichitaso.icontweak
 Version: 1.0.9
 Architecture: iphoneos-arm
-Maintainer: Packix
+Maintainer: Packix 
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
 Replaces: com.ichitaso.icontweak
@@ -345,53 +345,53 @@ dev: ichitaso
 Package: com.ichitaso.networkdisabler
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: ichitaso
+Maintainer: Badr/ichitaso
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
 Filename: ./debs/com.ichitaso.networkdisabler_1.0.0_iphoneos-arm.deb
-Size: 277524
-MD5sum: 3c04fe5247e796d7d82f6e6e2ea5dac7
-SHA1: 90b5f9552a6a903c824b5b03099fc5b211128e82
-SHA256: 94941db811a20c343c875e2e5d24865e1749a2d18df36e59ddef3b903c2c1a75
+Size: 277516
+MD5sum: 2896845e61703f2e6555b880799b07a6
+SHA1: 41e1bf8c9b715c65a7eaf2a1c91767498e88840f
+SHA256: 397b0d2249513e65daa1cc80d69d1aad1e7b4e3b4a62d8d4d164e3a4f80ce8bf
 Section: Tweaks
 Description: Control your network when using apps
-Author: Badr~ichitaso
-Depiction: cydia.ichitaso.com/depiction/networkdisabler.html
-Homepage: ichitaso.com
+Author: Badr
+Depiction: depiction networkdisabler.html
+Homepage: Badr~ichitaso.com
 Icon: file:///Library/PreferenceBundles/NetworkDisablerSettings.bundle/icon@2x.png
 Installed-Size: 1044
 Name: NetworkDisabler (ios11.0-ios13.4)
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-dev: ichitaso
+dev: Badr~ichitaso
 
 Package: com.ichitaso.powerselector11
 Version: 1.2.6
 Architecture: iphoneos-arm
-Maintainer: ichitaso
+Maintainer: Badr~ichita
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
 Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
-Size: 355352
-MD5sum: e9159b9721f5b6b8f6cca1a4b57b5b88
-SHA1: e8e02e614b66bf9a90a14e043665c474f07cb9a3
-SHA256: 7b9cf6bc86648fd6e7bf9b285a2f82ec725001c944a6fd2090dfb368d1ec3acb
+Size: 355340
+MD5sum: 0d9f896a3de85905ad4b7f1cb3b7ff7f
+SHA1: ff82545ab0db69dbe7c6e2e62d5241fd9b921875
+SHA256: 0c68ff49d8fe653fc4a79885cc6df28961e918ee09567dcc36ea2c05f1ab0e83
 Section: Utilities
 Description: The power supply relation of a device is operated.
-Author: Badr~ichitaso
-Depiction: cydia.com/depiction/powerselector11.html
-Homepage: cydia.com/depiction/powerselector11.html
+Author: Badr 
+Depiction: depiction powerselector11.html
+Homepage: depiction powerselector11.html
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Installed-Size: 1860
 Name: PowerSelector (iOS 11 to 13)
 Pre-Depends: firmware (>= 11.0)
-Sponsor: thebigboss.org https://www.sarhne.com/badr170
+Sponsor: Badr/https://www.sarhne.com/badr170
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-dev: ichitaso
+dev: Badr~ichitaso
 
 Package: com.ikilledappl3.sareth
 Version: 1.11-1
 Architecture: iphoneos-arm
-Maintainer: iKilledAppl3
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
@@ -402,25 +402,25 @@ SHA1: 7ff5b5756d497929da322831c1d34c5843244de1
 SHA256: e8d75b9216862f9b9a124a68b3196b561bf289bd8fe084f1cc8ae9fcfaa26d54
 Section: Tweaks
 Description: Take charge of your Control Center!
-Author: iKilledAppl3
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 2900
 Name: Sareth
 
 Package: com.julioverne.celldia
 Version: 0.0~beta5
 Architecture: iphoneos-arm
-Maintainer: Julio
+Maintainer: Badr~Julio
 Depends: mobilesubstrate, cydia
 Filename: ./debs/com.julioverne.celldia_0.0~beta5_iphoneos-arm.deb
 Size: 20052
-MD5sum: ac6373f488e807fb568bb4cb8a7ea512
-SHA1: 913d9248db1796805f936160b808df16d51a4697
-SHA256: 80e600f267f9c3223a3c736cf0a405be2cecc72caee0dd330ae9968e5cf11538
+MD5sum: c2c373f34558b07089606a5889600493
+SHA1: 586c350b1539ef7cae0becb9908edf2c27047ec1
+SHA256: 6237258b3adf1fb4ed06247747ff79a686dac27293ea8c34892203547e1c27b6
 Section: Tweaks
 Description: Redesigned Cell Cydia🏂تغيير شكل سيديا
-Author: Badr~julioverne
+Author: Badr
 Depiction: juli.github.io/description.html?id=com.julioverne.celldia
-Homepage: https://www.sarhne.com/badr170
+Homepage: Badr/https://www.sarhne.com/badr170
 Name: CellDia
 
 Package: com.julioverne.goodwifi
@@ -429,31 +429,31 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.goodwifi_0.0~beta5a_iphoneos-arm.deb
-Size: 97838
-MD5sum: db455cbcfb13fa32da5e54e126a844a2
-SHA1: fc3114bc373cd1c96cfe7bb69934d449cce674ec
-SHA256: 50264a7fafbede99d935eae82d1ab9ec4063262b5d0cb9e5c81330e501ec6c34
+Size: 97836
+MD5sum: 4d06b1084df9a7559ca07045c10d70b7
+SHA1: 97a6c50e5759ddec15284519e5c0ff012113560e
+SHA256: 47d5a65959ced319775d55c1f0714dc42c6185710115e9a965ee90a138f5f28c
 Section: Tweaks
 Description: Better WiFi Preferences
-Author: Badr~julioverne
+Author: Badr
 Depiction: julioverne.github.io/description.html?id=com.julioverne.goodwifi
-Homepage: https://www.sarhne.com/badr170
+Homepage: Badr/https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi(ios12.0-ios13.4)
 
 Package: com.julioverne.mimport
 Version: 0.0~beta36a
 Architecture: iphoneos-arm
-Maintainer: Julio
+Maintainer: Badr~Julio
 Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
 Filename: ./debs/com.julioverne.mimport_0.0~beta36a_iphoneos-arm.deb
-Size: 887966
-MD5sum: 0eb5def561990309cd213d5c41e55baf
-SHA1: 6fba376c6e5036f24c587f039490913de869d5f4
-SHA256: 26bce02f57dfff65620257f122441c233f517d7db49738631140fc225007cc66
+Size: 887954
+MD5sum: 8be44ec9fe10f9f8f5154129cc5eef4f
+SHA1: c24a40907bd3cec16ea20d749045e689c81098af
+SHA256: 29c5d6565ee546bd0211eb638adea2c5e30266f0671325fde974f6b1b8f2395e
 Section: Tweaks
-Description: Media Importer Directly From Music/ تحميل من يوتيوب نقل الى موسيقى
-Author: Badr~julioverne
+Description: Media Importer Directly From Music/تحميل من يوتيوب نقل الى موسيقى
+Author: Badr 
 Depiction: juerne.github.io/description.html?id=com.julioverne.mimport
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
@@ -478,16 +478,16 @@ Name: Amandus
 Package: com.muirey03.arc
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: Muirey03
+Maintainer: Badr~Muirey03
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
 Filename: ./debs/com.muirey03.arc_1.0.3_iphoneos-arm.deb
-Size: 617514
-MD5sum: 168baddacd0faaefeecfeddf5e785fd6
-SHA1: 29b25ec9faee512141305100d1118771503ff246
-SHA256: 022cce79201c2965c97eb0400957aa226554d3d62139a45e0b1f646f3b6927cc
+Size: 617512
+MD5sum: 9925fbb5bfeeae298511feea1e562288
+SHA1: ae82505593f1c15809236ee446d3ca548a008aab
+SHA256: 300d36abac51d3bd1d84c2bfcd4c5497bd3c305c5fd35f414e2655130e7fda32
 Section: Tweaks
 Description: Control at your fingertips.🔥تم تعريب بواسطة بيدرو
-Author: Badr~from/Muirey03
+Author: Badr~Muirey03
 Icon: file:///Library/PreferenceBundles/ArcPrefs.bundle/Icon-Large.png
 Installed-Size: 980
 Name: Arc
@@ -537,21 +537,21 @@ Architecture: iphoneos-arm
 Maintainer: BigBos
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.opa334.safariplus_1.7.12_iphoneos-arm.deb
-Size: 1873528
-MD5sum: 752d5987a4489f1722b237765087efe6
-SHA1: cfe78bb5d76b30496a1980102773eac98515177b
-SHA256: 9278d11a03733457a128211b0598aa16de4edd409459a92d78226303e8338b05
+Size: 1873544
+MD5sum: a8c2da7e42c99001f15beb7b991b4d35
+SHA1: 79126dbdbf18605a5e00ed9b69a684c7a27da9d4
+SHA256: 7a06e93f6027b3b538ef5ff9aa6d37f14adaf13c83aea677fab55b7615d3e172
 Section: Tweaks
-Description: Various enhancements to Safari!
+Description: Various enhancements to Safari!🔱سفاري بلس
 Author: Badr~opa3344
-Depiction: moreinf.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
-Homepage: moreinf.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Depiction: moreinfo depiction.php file=safariplusDp
+Homepage: moreinfo depiction.php file=safariplusDp
 Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
 Installed-Size: 5114
 Name: Safari Plus
-Sponsor: thebigboss.org https://www.sarhne.com/badr170
+Sponsor: Badr.https://www.sarhne.com/badr170
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-dev: opa334
+dev: Badr~opa334
 
 Package: com.p2kdev.snapper2cc
 Version: 1.0
@@ -564,7 +564,7 @@ MD5sum: f57c2d3c4b5f395d5e8a7e8c0c95dbfd
 SHA1: 295aba0ba5211ac68b503768950c692f3c705b8d
 SHA256: 26d1cd38f65b473979ce8ef8761707937477779d13b8142c602548874133a5b3
 Section: Control Center (Modules)
-Description: Invoke the Snapper2 Tweak's actions using CC Toggleتم تعريب بواسطة بيدرو🔥
+Description: Invoke the Snapper2 Tweak's actions using CC Toggleتم تعريب بواسطة بيدرو🔥 
 Author: Badr~from/P2KDev
 Icon: file:///Library/Application Support/Snapper2CC/icon.png
 Installed-Size: 156
@@ -589,7 +589,7 @@ Name: ActionBar
 Package: com.rpgfarm.a-font
 Version: 1.7.1
 Architecture: iphoneos-arm
-Maintainer: Baw Appie
+Maintainer: Baw Appie 
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
 Filename: ./debs/com.rpgfarm.a-font_1.7.1_iphoneos-arm.deb
 Size: 825880
@@ -598,7 +598,7 @@ SHA1: ff588dfef2d7b6354c64de4a7423089fae482971
 SHA256: ca5238863fc09f24484d2f6cebc80aefebfc9731ee9d86f62bb8b3041244809b
 Section: Tweaks
 Description: Change your font!🔥تغيير خط ايفون بالكامل
-Author: Badr~Baw Appie
+Author: Badr~Baw Appie 
 Installed-Size: 2332
 Name: A-Font
 
@@ -686,7 +686,7 @@ Name: Apps Manager
 Package: com.twickd.cole.corona-status
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Cole
+Maintainer: Cole 
 Depends: com.matchstic.xenhtml
 Filename: ./debs/com.twickd.cole.corona-status_1.2_iphoneos-arm.deb
 Size: 129852
@@ -706,7 +706,7 @@ Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: MTAC <https://www.sarhne.com/badr170>
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.rpetrich.rocketbootstrap, org.thebigboss.libcolorpicker
-Conflicts:
+Conflicts: 
 Filename: ./debs/com.twickd.mtac.lynx_1.2.5_iphoneos-arm.deb
 Size: 596382
 MD5sum: ac827f7505463489929957a946e676c0
@@ -733,7 +733,7 @@ SHA1: ab95e02b869e7b668b583d6663cef832bb4bc16a
 SHA256: 850d874626cc1efae775c3919c2abea15d236012b261d44999b6e797a2c650f4
 Section: Tweaks
 Description: Add the copied URL to Cydia sources automatically
-Author: Badr~yuosaf01 & 3bod_syr
+Author: Badr~yuosaf01 & 3bod_syr 
 Depiction: moreino.tigboss.org/moreinfo/depiction.php?file=addsourceDp
 Homepage: moreino.thgboss.org/moreinfo/depiction.php?file=addsourceDp
 Installed-Size: 565
@@ -776,17 +776,17 @@ Website: https://www.sarhne.com/badr170
 Package: io.securarepo.edge
 Version: 2.1
 Architecture: iphoneos-arm
-Maintainer: Secura Repo
+Maintainer: Badr~Repo
 Depends: mobilesubstrate, firmware (>=11.0), ws.hbang.common (>=1.14), org.thebigboss.libcolorpicker
-Conflicts: com.junesiphone.lockpluspro
+Conflicts: com.Badr
 Filename: ./debs/io.securarepo.edge_2.1_iphoneos-arm.deb
-Size: 231040
-MD5sum: eff892d9fed7fdf6424e9006b3c3449e
-SHA1: d7ae6023aaff5c139dc53ce1140f72c9a43e7f9c
-SHA256: 366c6f687a358262daf89ab50088f6cb671ccd05cda8753b5cb7fdf6f84b8caa
+Size: 231022
+MD5sum: 52d1eed555f695396e782fd1fe0428da
+SHA1: 5cb92709dc8e02f3e5659b0d6b10b16ac25351f3
+SHA256: dc612fdbb5e4a82d45e31385f40960684537257dc370af7c013d5be60717cd03
 Section: Tweaks
 Description: Bring Colour to Your Device🌀تم تعريب بواسطة بيدرو
-Author: Badr~Max + TylerD3V
+Author: Badr~TD3V
 Installed-Size: 560
 Name: Edge
 
@@ -866,3 +866,4 @@ Installed-Size: 1948
 Name: System Info
 Tags: settings, specs, system data
 Targets: {"Settings App":["About View"]}
+
