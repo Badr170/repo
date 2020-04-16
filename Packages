@@ -102,7 +102,7 @@ Icon: file:///Library/PreferenceBundles/itranslate.bundle/icon.png
 Installed-Size: 133
 Name: iTranslate(ios13~ترجمه)
 Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
+Sponsor: thebigboss.org
 Tag: purpose::extension, compatible::ios10, compatible::ios11
 dev: teunstrik
 
@@ -391,7 +391,7 @@ dev: ichitaso
 Package: com.ikilledappl3.sareth
 Version: 1.11-1
 Architecture: iphoneos-arm
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: iKilledAppl3
 Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
@@ -402,7 +402,7 @@ SHA1: 7ff5b5756d497929da322831c1d34c5843244de1
 SHA256: e8d75b9216862f9b9a124a68b3196b561bf289bd8fe084f1cc8ae9fcfaa26d54
 Section: Tweaks
 Description: Take charge of your Control Center!
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3
 Installed-Size: 2900
 Name: Sareth
 
@@ -493,38 +493,43 @@ Installed-Size: 980
 Name: Arc
 
 Package: com.noisyflake.magmaevo
-Version: 1.2.4
+Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: NoisyFlake
-Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
 Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
-Filename: ./debs/com.noisyflake.magmaevo_1.2.4_iphoneos-arm.deb
-Size: 161814
-MD5sum: 0e0c7befad625839775d0f106deb4c14
-SHA1: 5b7d63fad91f3eda4b8a63d2b49dc301f0197c74
-SHA256: d54f762030bfbac23f3382c5cef1fc7d2415ddd73b9c690d18a83fa050a8ec9c
+Filename: ./debs/com.noisyflake.magmaevo_2.0.0_iphoneos-arm.deb
+Size: 1456766
+MD5sum: ad77b3c0847aa8d99ba1aeb224160b84
+SHA1: 3b9606c440a56e969db7e5ef5f8e2db51325f9b0
+SHA256: 20e51a5f7b9569a1598c2d7254ab87b32722e51823c38cd2b3c05efa8c2e1370
 Section: Tweaks
-Description: Redefine your Control Center
-Author: NoisyFlake
-Installed-Size: 620
+Description: Redefine your Control Center👻تم تعريب بواسطة بيدرو
+Author: Badr~NoisyFlake
+Installed-Size: 2056
 Name: Magma Evo
 
 Package: com.opa334.choicy
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: opa334 <opa334@protonmail.com>
-Depends: mobilesubstrate, applist
+Maintainer: BigBoss <https://www.sarhne.com/badr170>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Filename: ./debs/com.opa334.choicy_1.2_iphoneos-arm.deb
-Size: 147174
-MD5sum: edc98cead41b729dd4f286791331c364
-SHA1: bce315604d794508a5b6cdcf46ec735d0c1f7df1
-SHA256: 1ec198d4e2ddbb3b144d0c3bbbb9c169df7b47bbc8888cf0bede8237bdbe154f
+Size: 147346
+MD5sum: abfedd133a0d2e26415cd4be406cee3c
+SHA1: e1d22f79f988c650b6357ca30e89c31067d317e9
+SHA256: ad5844e92e77db24213e4e59d9043780da7443af8ae663110901f9656b62920c
 Section: Tweaks
 Description: Advanced Tweak Configuration!
-Author: BADR~opa334
-Depiction: opa334.github.io/depic/Choicy/index.html
-Installed-Size: 776
+Author: Badr~opa334
+Depiction: moreinfo/depiction.phpfile=choicyDp
+Homepage: moreinfo/depiction.phpfile=choicyDp
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Installed-Size: 734
 Name: Choicy
+Sponsor: thebigboss.org <https://www.sarhne.com/badr170>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: opa334
 
 Package: com.opa334.safariplus
 Version: 1.7.12
@@ -603,12 +608,12 @@ Architecture: iphoneos-arm
 Maintainer: Ryan Nair
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 Filename: ./debs/com.ryannair05.cask_1.0.1_iphoneos-arm.deb
-Size: 32354
-MD5sum: 7cd2503aeaffe071a339665a2bba2860
-SHA1: 94d7b8139602404d4dfa0a056fdfe994d06461e3
-SHA256: a217e12f34c37010086712ef58ae5e12ffc45bfaee91540f0f8c76e22ff79c20
+Size: 32542
+MD5sum: 1f19e878b815fc2f327cf54516ee4970
+SHA1: bd24436cc4d6c68c924cf9085b5a6dc9480f9532
+SHA256: 98c99f89fe124e47e35c6d4951057ef55200601843508b9ae0a4794c9d7ac6ac
 Section: Tweaks
-Description: Animated table scrolling
+Description: Animated table scrolling🌀تم تعريب بواسطة بيدرو
 Author: Badr~Ryan Nair
 Installed-Size: 360
 Name: Cask 2
@@ -736,21 +741,21 @@ Name: addsource
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: yuosaf01
 
-Package: cydia.Badr.org.cydown
-Version: 7.0.7d
+Package: cydia.kiiimo.org.cydown
+Version: 7.0.8
 Architecture: iphoneos-arm
-Maintainer: Badr
+Maintainer: Badr <https://www.sarhne.com/badr170>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/cydia.Badr.org.cydown_7.0.7_iphoneos-arm.deb
-Size: 3398134
-MD5sum: 6e99bfda1e3e100e73aa2ed554a1dcc9
-SHA1: 14bfe9e4a8a83a7fcc1a68c4494b7c70d11c3e15
-SHA256: 00097f1b12fa5ff232b58eb3f6ef464a1b321159154d11a7b5a63afa80f99b19
+Filename: ./debs/cydia.Badr.org.cydown_7.0.8_iphoneos-arm.deb
+Size: 3398212
+MD5sum: 5d84bf5bf3b37c3395c5f170a223e083
+SHA1: a27e1818419f0f3a983f7562833f2ed00d88d83b
+SHA256: 213bd6b3a6551b8bdc069d46ca62317b6f3a8d152d431a09ef60f8dda540e978
 Section: Supports iOS 13
-Author: julioverne <julioverne@me.com>
+Author: Badr~ julioverne
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
-Sponsor: Badr.org
+Sponsor: Badr.org <https://www.sarhne.com/badr170>
 
 Package: cydia.com.ipc.crackerxi
 Version: 1.1.16

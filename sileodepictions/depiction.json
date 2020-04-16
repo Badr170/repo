@@ -890,7 +890,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.2.4",
+				"text": "2.0.0",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -943,7 +943,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.2.4",
+				"title": "2.0.0",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -1851,7 +1851,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "7.0.7",
+				"text": "7.0.8",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -1904,7 +1904,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "7.0.7",
+				"title": "7.0.8",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
