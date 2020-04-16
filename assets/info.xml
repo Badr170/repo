@@ -390,9 +390,9 @@
 </package>
 
 <package>
-	<id>com.Badr.twickd.mtac.lynx_1.2.4-2_iphoneos-arm.deb</id>
+	<id>com.Badr.twickd.mtac.lynx_1.2.5_iphoneos-arm.deb</id>
 	<name>Lynx</name>
-	<version>1.2.4-2</version>
+	<version>1.2.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -506,6 +506,708 @@
 	</compatibility>
 	<dependencies>
 		<package>cydia.Badr.org.cydown</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.fouadraheb.watusi_1.2.37_iphoneos-arm.deb</id>
+	<name>Watusi 2 for WhatsApp</name>
+	<version>1.2.37</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.fouadraheb.watusi</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios12.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.f0u4d.watusitools_2.1.19k_iphoneos-arm.deb</id>
+	<name>WatusiTools</name>
+	<version>2.1.19k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.f0u4d.watusitools</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios12.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>ca.infiniteoptions_1.0_iphoneos-arm.deb</id>
+	<name>iNfiniteOptions</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>ca.infiniteoptions</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>co.hurouftech.safarifeatures_1.0_iphoneos-arm.deb</id>
+	<name>Safari Features</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>co.hurouftech.safarifeatures</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>co.repo.classic.cracktool4_4.0~beta9c_iphoneos-arm.deb</id>
+	<name>CrackTool4</name>
+	<version>4.0~beta9c</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>co.repo.classic.cracktool4</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.Badr.waunlimitedsend_1.1.8.1_iphoneos-arm.deb</id>
+	<name>WAUnlimitedSend</name>
+	<version>1.1.8.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>co.repo.classic.cracktool4</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.browncoconut.itranslate_0.0.1-6_iphoneos-arm.deb</id>
+	<name>iTranslate</name>
+	<version>0.0.1-6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.browncoconut.itranslate</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.f0u4d.onlinenotify_3.2.1_iphoneos-arm.deb</id>
+	<name>OnlineNotify</name>
+	<version>3.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.f0u4d.onlinenotify</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb</id>
+	<name>BatteryPercentageX</name>
+	<version>0.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.ichitaso.batteryx</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.ichitaso.icontweak_1.0.9_iphoneos-arm.deb</id>
+	<name>IconTweak</name>
+	<version>1.0.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.ichitaso.icontweak</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.ichitaso.networkdisabler_1.0.0_iphoneos-arm.deb</id>
+	<name>NetworkDisabler</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.ichitaso.networkdisabler</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb</id>
+	<name>PowerSelector(iOS 11 to 13)</name>
+	<version>1.2.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.ichitaso.powerselector11</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.julioverne.celldia_0.0~beta5_iphoneos-arm.deb</id>
+	<name>CellDia</name>
+	<version>0.0~beta5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.julioverne.celldia</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.julioverne.goodwifi_0.0~beta5a_iphoneos-arm.deb</id>
+	<name>GoodWiFi</name>
+	<version>0.0~beta5a</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.julioverne.goodwifi</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.julioverne.mimport_0.0~beta36a_iphoneos-arm.deb</id>
+	<name>MImport</name>
+	<version>0.0~beta36a</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.julioverne.mimport</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.muirey03.amandus_1.0.1_iphoneos-arm.deb</id>
+	<name>Amandus</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.muirey03.amandus</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.opa334.safariplus_1.7.12_iphoneos-arm.deb</id>
+	<name>Safari Plus</name>
+	<version>1.7.12</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.opa334.safariplus</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.rpgfarm.a-font_1.7.1_iphoneos-arm.deb</id>
+	<name>A-Font</name>
+	<version>1.7.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.rpgfarm.a-font</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.spark.bundley_1.0.0_iphoneos-arm.deb</id>
+	<name>Bundley</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.bundley</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.tigisoftware.appdatamanager_1.5.1-10_iphoneos-arm.deb</id>
+	<name>Apps Manager</name>
+	<version>1.5.1-10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.tigisoftware.appdatamanager</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.yuosaf01.addsource_2.3.1_iphoneos-arm.deb</id>
+	<name>addsource</name>
+	<version>2.3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.yuosaf01.addsource</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>cydia.com.ipc.crackerxi_1.1.16_iphoneos-arm.deb</id>
+	<name>CrackerXI</name>
+	<version>1.1.16</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>cydia.com.ipc.crackerxi</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>jp.r-plus.deletecut_0.4_iphoneos-arm.deb</id>
+	<name>DeleteCut</name>
+	<version>0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>jp.r-plus.deletecut</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+ <package>
+	<id>xyz.xninja.systeminfo_2.3.4-5+debug_iphoneos-arm.deb</id>
+	<name>System Info</name>
+	<version>2.3.4-5+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>xyz.xninja.systeminfo</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.cannathea.pasithea2_2.2.4.1_iphoneos-arm.deb</id>
+	<name>Pasithea 2 (iOS 10 to 13)</name>
+	<version>2.2.4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.cannathea.pasithea2</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.restiveconch.actionbar_1.3.7_iphoneos-arm.deb</id>
+	<name>ActionBar</name>
+	<version>1.3.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.restiveconch.actionbar</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.ryannair05.cask_1.0.1_iphoneos-arm.deb</id>
+	<name>Cask 2</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.ryannair05.cask</package>
 	</dependencies>
 	<shortDescription>Features of the dok</shortDescription>
 	<descriptionlist>

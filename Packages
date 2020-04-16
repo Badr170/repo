@@ -1,3 +1,55 @@
+Package: ca.infiniteoptions
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CA Team
+Depends: firmware (>= 10.0), wget, apt | apt7
+Filename: ./debs/ca.infiniteoptions_1.0_iphoneos-arm.deb
+Size: 16390186
+MD5sum: ca78ef102d2cdf995d905bdc5129630d
+SHA1: 4c7522a18fae6e118adcd39f117b3c3c2702d399
+SHA256: 4e36b347bc0958a2f238c2103eed0e553e1e4f9d283406bbbab47e2e50d58775
+Section: Tweaks ( CA )
+Description: ca.infiniteoptions
+Author: Badr~CA Team
+Name: iNfiniteOptions
+
+Package: co.hurouftech.safarifeatures
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBo,,
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/co.hurouftech.safarifeatures_1.0_iphoneos-arm.deb
+Size: 4956
+MD5sum: cf341ac042a9e707068ee96e852b8690
+SHA1: a7b1b779432e83b7dfb741ad1c6eb45fcc614005
+SHA256: 7a837f7e6efd36e3b5a3cfb09d7af6c40e7f4bb1f2f0684097078881653089c1
+Section: Tweaks
+Description: Enabled iPad Safari TabBar in iPhone only iOS 13/تتفعل تلقائي بدون اعدادات زي تصفح ايباد😍
+Author: Badr~HuroufTech
+Depiction: morefo.theoss.org/moreinfo/depiction.phpfile=safarifeaturesDp
+Homepage: mornfo.theboss.org/moreinfo/depiction.phpfile=safarifeaturesDp
+Installed-Size: 106
+Name: Safari Features
+Sponsor: thebgboss.org <https://www.sarhne.com/badr170>
+Tag: purpose::extension, compatible::ios13
+dev: hurouftech
+
+Package: co.repo.classic.cracktool4
+Version: 4.0~beta9c
+Architecture: iphoneos-arm
+Maintainer: Repo
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/co.repo.classic.cracktool4_4.0~beta9c_iphoneos-arm.deb
+Size: 516588
+MD5sum: 303f92f08cfc88100f2ed4d871a1b067
+SHA1: 41d18b2533e5543603a7ec5b41c7798bbfca8351
+SHA256: 1d918b1816f42a528d4d5c15b1d1e54d0bc0ed4c736ed0603d109ff4785d97a6
+Section: Utilities
+Author: Badr~julioverne
+Name: CrackTool4 (ios12.0-ios13.4)
+SileoDepiction: https://www.sarhne.com/badr170
+Sponsor: Repo.co
+
 Package: com.Badr.rpgfarm.a-bypass
 Version: 1.0.6
 Architecture: iphoneos-arm
@@ -14,21 +66,85 @@ Author: Badr~Baw Appie
 Installed-Size: 388
 Name: A-Bypass
 
+Package: com.Badr.WAUnlimitedSend
+Version: 1.1-8-1
+Architecture: iphoneos-arm
+Maintainer: https://www.sarhne.com/badr170
+Depends: mobilesubstrate
+Filename: ./debs/com.Badr.waunlimitedsend_1.1.8.1_iphoneos-arm.deb
+Size: 539992
+MD5sum: d21e8574d4f98c4c7f3d706440a90aa5
+SHA1: 6a99c8d238dc70250b60ddae8b7b6d7546186fc3
+SHA256: 813faa185d08286d7cbc82b562a27371b0574cc4bd423eb5022ded37d4eb5ee0
+Section: Tweak_
+Description: الأرسال المقاطع الطويلة او الكبير حجمها في محادثات الواتس اب
+Author: Badr~BandarHL
+Name: WAUnlimitedSend
+Priority: optional
+Sponsor: Badr~ <https://www.sarhne.com/badr170>
+
+Package: com.browncoconut.itranslate
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: BigBoss.,
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.browncoconut.itranslate_0.0.1-6_iphoneos-arm.deb
+Size: 6430
+MD5sum: 28fa4433b057830e93a7b99b451ab6a5
+SHA1: 69564dc3d663d908c87da12042ac789e3d8620ac
+SHA256: 79a12579935872c391985d774831982e641697a10d1f0eb5b1dc9ee6140b5111
+Section: Tweaks
+Description: adds 'translate' for words in Safari
+Author: Badr~Teun Strik
+Depiction: moreino.thebiboss.org/moreinfo/depiction.php?file=itranslateDp
+Homepage: moreino.thebiboss.org/moreinfo/depiction.php?file=itranslateDp
+Icon: file:///Library/PreferenceBundles/itranslate.bundle/icon.png
+Installed-Size: 133
+Name: iTranslate(ios13~ترجمه)
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+dev: teunstrik
+
+Package: com.cannathea.pasithea2
+Version: 2.2.4.1
+Architecture: iphoneos-arm
+Maintainer: Packix <https://www.sarhne.com/badr170>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
+Replaces: com.cannathea.pasithea2
+Filename: ./debs/com.cannathea.pasithea2_2.2.4.1_iphoneos-arm.deb
+Size: 794208
+MD5sum: 8075c3e4b655ccad06133b2c02a2ac7d
+SHA1: 8987f438a29c94a5ba1d67bf92821ecadd746d01
+SHA256: 657dd85c0210beb4ab7142582a8f062f57689b493a661d5e342fa235f46ba1a2
+Section: Tweaks
+Description: Manage the iOS pasteboard history
+Author: Badr~Cannathea <https://www.sarhne.com/badr170>
+Depiction: com.cannathea.pasithea2/
+Homepage: com.cannathea.pasithea2/
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Installed-Size: 2736
+Name: Pasithea 2 (iOS 10 to 13)
+Sponsor: Packix1
+Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: Cannathea
+
 Package: com.cydiageek.cthulhu
 Version: 1.0.5
 Architecture: iphoneos-arm
-Maintainer: BigBoss
+Maintainer: BigBoo9
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./debs/com.cydiageek.cthulhu_1.0.5_iphoneos-arm.deb
-Size: 96434
-MD5sum: 753f99b779bf2e0e191436c194bf5e58
-SHA1: 928ccd5bd023ebdb9ca4c5aee568f86854ed6bb6
-SHA256: 5fa86b29f39172a42f027a0659929ea652ce76c395e1f8a030a2a008587d9622
+Size: 96442
+MD5sum: bab530c41c006702cf145782228adb8c
+SHA1: 31c33f9ff1a4e966ad5791a9bc513e8028c1e51c
+SHA256: 171cde08312d3223a924f02b16a99d96b02bef9dc87642fdad7a88d2011f2a2d
 Section: Tweaks
-Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
+Description: Custom Text below Press Home to Open/Swipe up to Unlock & Mor
 Author: Badr~from/CydiaGeek
-Depiction: moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
-Homepage: moreinfo.thebigboss.org/moreinfo/depiction.php?file=cthulhuDp
+Depiction: mofo.thebs.org/moreinfo/depiction.php?file=cthulhuDp
+Homepage: monfo.tboss.org/moreinfo/depiction.php?file=cthulhuDp
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 Installed-Size: 588
 Name: Cthulhu
@@ -58,22 +174,74 @@ Recommends: com.eswick.iconlayoutmanager
 Package: com.exile90.icleanerpro
 Version: 7.8.2
 Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi
+Maintainer: Bilenchi <https://www.sarhne.com/badr170>
 Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
+Conflicts: org.altesta.eilecom.icleaner
+Replaces: org.altsta.eilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.8.2_iphoneos-arm.deb
-Size: 9658624
-MD5sum: 54b9c151f91a7aebf952eae0a1933997
-SHA1: 751a537d5ea81e9ef71cdf2f46c8f50c6e3f50b0
-SHA256: f24a99b0a31b987e19f1532ac5d7e67e337fbd10794cb0b809f72d56d32b8775
+Size: 9658638
+MD5sum: c3b9b2cc1bbcd3f862b72ab9ad02ab76
+SHA1: 7b569d63159aaff0b0e8415003dda54b3298a62e
+SHA256: 94c887c952a3d6fe11d865ff2dc228119f334acafc8199090c03d94ec50ed74c
 Section: Utilities
 Description: The first real iOS system cleaner & optimizer
-Author: Badr~from/Ivano Bilenchi <support@ib-soft.net>
+Author: Badr~from/Bilenchi <https://www.sarhne.com/badr170>
 Depiction: ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Homepage: ib-soft.net/icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
+
+Package: com.f0u4d.onlinenotify
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <https://www.sarhne.com/badr170>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.18), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.f0u4d.onlinenotify_3.2.1_iphoneos-arm.deb
+Size: 657578
+MD5sum: 24573aa78d4e6c4b87a7468da621bd7c
+SHA1: 10e2f4e8e1a6bbfbcefe22204d03598f9439e912
+SHA256: 2ee598964a9f274f0f411be0c6d52753b640ec60560fb064506badb43b9d405c
+Section: Tweaks
+Description: Track your friends on WhatsApp Messenger!
+Author: Badr~Fouad Raheb <https://www.sarhne.com/badr170>
+Depiction: ap.fouaheb.com/page/com.f0u4d.onlinenotify
+Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
+Name: OnlineNotify
+
+Package: com.f0u4d.watusitools
+Version: 2.1.19k
+Architecture: iphoneos-arm
+Maintainer: Badr~ <https://www.sarhne.com/badr170>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.19k_iphoneos-arm.deb
+Size: 13853042
+MD5sum: 3a1b68424e47aaaaad17ec36743953e0
+SHA1: 6f80d2023ae7645b0e4659d7338ac71e71200f86
+SHA256: 0a030084acc13e3d6d69bd9547d69fde83c0fb4cb5a71e499660bc0c9ce8dd78
+Section: Development
+Author: Badr~Fouad Raheb
+Name: WatusiTools Cracked
+Sponsor: https://www.sarhne.com/badr170
+
+Package: com.fouadraheb.watusi
+Version: 1.2.37
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.19), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.37_iphoneos-arm.deb
+Size: 4837738
+MD5sum: 60e36ea42b0ee5e1f0bb0edfd800ceb0
+SHA1: 621aae20f44b6d6e168c1a2cd297675f4069f2ae
+SHA256: 6bceb2ca3ea3e6a38c4e1996af9723113060e280c8045928e9b51bbf05555afc
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Badr~Fouad Raheb
+Depiction: apt.fouadraheb.com/package/com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp
+SileoDepiction: apt.fouadraheb.com/package/com.fouadraheb.watusi/sileo
 
 Package: com.foxfort.camcontrolsx
 Version: 1.0.2
@@ -104,7 +272,7 @@ SHA1: ed74c3173c961ffb431b54cadb165638b5dcf79b
 SHA256: 9a1b26b7faeb280624aefa882732eed95a05189c7838292d614e8be726a62096
 Section: Tweaks
 Description: Quickly translate any text
-Author: Badr~from/FoxfortMobile
+Author: Badr~from/ FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Installed-Size: 4196
 Name: Translomatic
@@ -121,16 +289,109 @@ SHA1: 77fe8089e6ca82896edd3481b919fa4c100c3295
 SHA256: d8b823fcad26b2fc5b974759762e67fd55b89e4091e0fdb9b7c5720397872bf6
 Section: HYI - Tweaks
 Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
-Author: Badr~shiftcmdk
-Depiction: /depiction/depiction.php?filename=pencilchargingindicator
-Homepage: /depiction/depiction.php?filename=pencilchargingindicator
+Author: shiftcmdk <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pencilchargingindicator
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pencilchargingindicator
 Name: PencilChargingIndicator
-SileoDepiction: depiction.hackyouriphone.org/sileoDepiction.php?filename=pencilchargingindicator
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=pencilchargingindicator
+
+Package: com.ichitaso.batteryx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: ichitas
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Replaces: com.ichitaso.batteryx
+Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
+Size: 67638
+MD5sum: 0407aa7c7b124c41adf7893ed3dd2b9d
+SHA1: 108021c9fed653d3dfbd9299ad621300c2ab2e6a
+SHA256: 761befae9eabee7590965aedde459828f1f761fbfedc9dba68df9ccd24b3b5f5
+Section: Tweaks
+Description: Show Battery Percentege for iPhone X Series
+Author: Badr~ichitaso <https://www.sarhne.com/badr170>
+Depiction: cy.iitaso.com/depiction/batteryx.html
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+Installed-Size: 340
+Name: BatteryPercentageX
+Pre-Depends: firmware (>= 12.0)
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: ichitaso
+
+Package: com.ichitaso.icontweak
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Packix
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
+Replaces: com.ichitaso.icontweak
+Filename: ./debs/com.ichitaso.icontweak_1.0.9_iphoneos-arm.deb
+Size: 165326
+MD5sum: 6c946346c1b530df52323d85e9655eb8
+SHA1: 24825a6af14aae56c3e83be18a33d4c3dc567ea6
+SHA256: 3a3584fc6d4978815877e19a35d5ae79ef9110813e9732ddfe7cf042748e4599
+Section: Tweaks
+Description: Swipe icons to show control menu and more!
+Author: Badr~ichitaso https://www.sarhne.com/badr170
+Depiction: repo/package/com.ichitaso.icontweak/
+Homepage: ichitaso.com
+Icon: file:///Library/PreferenceBundles/IconTweakSettings.bundle/icon@2x.png
+Installed-Size: 532
+Name: IconTweak
+Tag: cydia::commercial, purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: ichitaso
+
+Package: com.ichitaso.networkdisabler
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.ichitaso.networkdisabler_1.0.0_iphoneos-arm.deb
+Size: 277524
+MD5sum: 3c04fe5247e796d7d82f6e6e2ea5dac7
+SHA1: 90b5f9552a6a903c824b5b03099fc5b211128e82
+SHA256: 94941db811a20c343c875e2e5d24865e1749a2d18df36e59ddef3b903c2c1a75
+Section: Tweaks
+Description: Control your network when using apps
+Author: Badr~ichitaso
+Depiction: cydia.ichitaso.com/depiction/networkdisabler.html
+Homepage: ichitaso.com
+Icon: file:///Library/PreferenceBundles/NetworkDisablerSettings.bundle/icon@2x.png
+Installed-Size: 1044
+Name: NetworkDisabler (ios11.0-ios13.4)
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: ichitaso
+
+Package: com.ichitaso.powerselector11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 355352
+MD5sum: e9159b9721f5b6b8f6cca1a4b57b5b88
+SHA1: e8e02e614b66bf9a90a14e043665c474f07cb9a3
+SHA256: 7b9cf6bc86648fd6e7bf9b285a2f82ec725001c944a6fd2090dfb368d1ec3acb
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Author: Badr~ichitaso
+Depiction: cydia.com/depiction/powerselector11.html
+Homepage: cydia.com/depiction/powerselector11.html
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 1860
+Name: PowerSelector (iOS 11 to 13)
+Pre-Depends: firmware (>= 11.0)
+Sponsor: thebigboss.org https://www.sarhne.com/badr170
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: ichitaso
 
 Package: com.ikilledappl3.sareth
 Version: 1.11-1
 Architecture: iphoneos-arm
-Maintainer: iKilledAppl3
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
@@ -141,9 +402,78 @@ SHA1: 7ff5b5756d497929da322831c1d34c5843244de1
 SHA256: e8d75b9216862f9b9a124a68b3196b561bf289bd8fe084f1cc8ae9fcfaa26d54
 Section: Tweaks
 Description: Take charge of your Control Center!
-Author: Badr~iKilledAppl3
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 2900
 Name: Sareth
+
+Package: com.julioverne.celldia
+Version: 0.0~beta5
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, cydia
+Filename: ./debs/com.julioverne.celldia_0.0~beta5_iphoneos-arm.deb
+Size: 20052
+MD5sum: ac6373f488e807fb568bb4cb8a7ea512
+SHA1: 913d9248db1796805f936160b808df16d51a4697
+SHA256: 80e600f267f9c3223a3c736cf0a405be2cecc72caee0dd330ae9968e5cf11538
+Section: Tweaks
+Description: Redesigned Cell Cydia🏂تغيير شكل سيديا
+Author: Badr~julioverne
+Depiction: juli.github.io/description.html?id=com.julioverne.celldia
+Homepage: https://www.sarhne.com/badr170
+Name: CellDia
+
+Package: com.julioverne.goodwifi
+Version: 0.0~beta5a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta5a_iphoneos-arm.deb
+Size: 97838
+MD5sum: db455cbcfb13fa32da5e54e126a844a2
+SHA1: fc3114bc373cd1c96cfe7bb69934d449cce674ec
+SHA256: 50264a7fafbede99d935eae82d1ab9ec4063262b5d0cb9e5c81330e501ec6c34
+Section: Tweaks
+Description: Better WiFi Preferences
+Author: Badr~julioverne
+Depiction: julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi(ios12.0-ios13.4)
+
+Package: com.julioverne.mimport
+Version: 0.0~beta36a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0~beta36a_iphoneos-arm.deb
+Size: 887966
+MD5sum: 0eb5def561990309cd213d5c41e55baf
+SHA1: 6fba376c6e5036f24c587f039490913de869d5f4
+SHA256: 26bce02f57dfff65620257f122441c233f517d7db49738631140fc225007cc66
+Section: Tweaks
+Description: Media Importer Directly From Music/ تحميل من يوتيوب نقل الى موسيقى
+Author: Badr~julioverne
+Depiction: juerne.github.io/description.html?id=com.julioverne.mimport
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport
+
+Package: com.muirey03.amandus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.muirey03.amandus_1.0.1_iphoneos-arm.deb
+Size: 55892
+MD5sum: a569c64d1476032c9161e6f633c9ac39
+SHA1: f80d4d2b9c646cf94ebb8df8f491c977f1b26d9e
+SHA256: beea7acb9aa6997a82ec3345444f0969484168a0ce0dd3e48b78f7da5509f504
+Section: Tweaks
+Description: Apple Pay redesigned!🔥تغيير واجهه البطاقات ابل باي
+Author: Badr~Muirey03
+Installed-Size: 360
+Name: Amandus
 
 Package: com.muirey03.arc
 Version: 1.0.3
@@ -174,15 +504,15 @@ MD5sum: 0e0c7befad625839775d0f106deb4c14
 SHA1: 5b7d63fad91f3eda4b8a63d2b49dc301f0197c74
 SHA256: d54f762030bfbac23f3382c5cef1fc7d2415ddd73b9c690d18a83fa050a8ec9c
 Section: Tweaks
-Description: Redefine your Control Centerتم تعريب بواسطه بيدرو
-Author: Badr~NoisyFlake
+Description: Redefine your Control Center
+Author: NoisyFlake
 Installed-Size: 620
 Name: Magma Evo
 
 Package: com.opa334.choicy
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: opa334
+Maintainer: opa334 <opa334@protonmail.com>
 Depends: mobilesubstrate, applist
 Filename: ./debs/com.opa334.choicy_1.2_iphoneos-arm.deb
 Size: 147174
@@ -191,10 +521,32 @@ SHA1: bce315604d794508a5b6cdcf46ec735d0c1f7df1
 SHA256: 1ec198d4e2ddbb3b144d0c3bbbb9c169df7b47bbc8888cf0bede8237bdbe154f
 Section: Tweaks
 Description: Advanced Tweak Configuration!
-Author: Badr~opa334
-Depiction: /depic/Choicy/index.html
+Author: BADR~opa334
+Depiction: opa334.github.io/depic/Choicy/index.html
 Installed-Size: 776
 Name: Choicy
+
+Package: com.opa334.safariplus
+Version: 1.7.12
+Architecture: iphoneos-arm
+Maintainer: BigBos
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.opa334.safariplus_1.7.12_iphoneos-arm.deb
+Size: 1873528
+MD5sum: 752d5987a4489f1722b237765087efe6
+SHA1: cfe78bb5d76b30496a1980102773eac98515177b
+SHA256: 9278d11a03733457a128211b0598aa16de4edd409459a92d78226303e8338b05
+Section: Tweaks
+Description: Various enhancements to Safari!
+Author: Badr~opa3344
+Depiction: moreinf.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Homepage: moreinf.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Installed-Size: 5114
+Name: Safari Plus
+Sponsor: thebigboss.org https://www.sarhne.com/badr170
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: opa334
 
 Package: com.p2kdev.snapper2cc
 Version: 1.0
@@ -213,6 +565,70 @@ Icon: file:///Library/Application Support/Snapper2CC/icon.png
 Installed-Size: 156
 Name: Snapper2 CC Toggle
 
+Package: com.restiveconch.actionbar
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: RestiveConch <https://www.sarhne.com/badr170>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.restiveconch.actionbar_1.3.7_iphoneos-arm.deb
+Size: 71714
+MD5sum: 444894e3341a8da7119d1acba9a65cf8
+SHA1: be451e86a882c7cd1042128b58aeb4e3f74e66b1
+SHA256: f32831244f4db287e25f974ffc36be375870f7ad9ed653b5489d033e7304d904
+Section: Tweaks
+Description: Undo, redo, select all, copy, cut and paste actions on bottom of keyboard.
+Author: Badr~RestiveConch <https://www.sarhne.com/badr170>
+Installed-Size: 416
+Name: ActionBar
+
+Package: com.rpgfarm.a-font
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/com.rpgfarm.a-font_1.7.1_iphoneos-arm.deb
+Size: 825880
+MD5sum: b397838a4f4288c3831705b8b5cfda2b
+SHA1: ff588dfef2d7b6354c64de4a7423089fae482971
+SHA256: ca5238863fc09f24484d2f6cebc80aefebfc9731ee9d86f62bb8b3041244809b
+Section: Tweaks
+Description: Change your font!🔥تغيير خط ايفون بالكامل
+Author: Badr~Baw Appie
+Installed-Size: 2332
+Name: A-Font
+
+Package: com.ryannair05.cask
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./debs/com.ryannair05.cask_1.0.1_iphoneos-arm.deb
+Size: 32354
+MD5sum: 7cd2503aeaffe071a339665a2bba2860
+SHA1: 94d7b8139602404d4dfa0a056fdfe994d06461e3
+SHA256: a217e12f34c37010086712ef58ae5e12ffc45bfaee91540f0f8c76e22ff79c20
+Section: Tweaks
+Description: Animated table scrolling
+Author: Badr~Ryan Nair
+Installed-Size: 360
+Name: Cask 2
+
+Package: com.spark.bundley
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: com.spark.libsparkapplist
+Filename: ./debs/com.spark.bundley_1.0.0_iphoneos-arm.deb
+Size: 3887736
+MD5sum: c70dd751b8fb7ed0dee74175544e8e5a
+SHA1: 4e54687b503b5fb01b01fc159a58e2d64ca7490e
+SHA256: 8bb374db8e985b1e25c2e898ab423a0c49f816719aa9a75f2f4083168d41d145
+Section: Utilities
+Description: An awesome application!نسخ الابندل لتطبيقات
+Author: Badr~Spark
+Installed-Size: 5000
+Name: Bundley
+
 Package: com.tapsharp.libtapsharp
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -225,7 +641,7 @@ SHA1: 99b58a392866c4c32623fb71cdc47795f0b468f3
 SHA256: 71130e5a55d6b3a095136f162c9a8c1c30ce2cd157205586c7c43861f3d87e8a
 Section: System
 Description: Shared tools for TapSharp tweaks
-Author: Badr~Neo Ighodaro
+Author: Neo Ighodaro
 Installed-Size: 860
 Name: libTapSharp
 Tag: role::developer
@@ -247,43 +663,78 @@ Icon: file:///Library/Application Support/Switcher/icon@2x.png
 Installed-Size: 544
 Name: Switcher
 
+Package: com.tigisoftware.appdatamanager
+Version: 1.5.1-10
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Filename: ./debs/com.tigisoftware.appdatamanager_1.5.1-10_iphoneos-arm.deb
+Size: 3624438
+MD5sum: 3dc3ae7a8e5446a33ce334f06df4c400
+SHA1: d4255b0427c1063b483f8473cc9f6cd7902ef8a7
+SHA256: 5683a43d9f47be1d7f207568383637780b600fe78e0da030a8b7506b94f1e781
+Section: Utilities
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: Badr~TIGI Software
+Installed-Size: 8864
+Name: Apps Manager
+
 Package: com.twickd.cole.corona-status
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Cole
 Depends: com.matchstic.xenhtml
 Filename: ./debs/com.twickd.cole.corona-status_1.2_iphoneos-arm.deb
-Size: 129850
-MD5sum: 22e0610d535e98fd5e407ea853d457f7
-SHA1: 915ff11b8bd6d9b43e195112128aabaac768e4e8
-SHA256: dc0980f3ebbb7d0bdebeeb70029c31ff4b6d275e86eaf5f8711da280ae340058
+Size: 129852
+MD5sum: 5998530a8d49f2e3d20e2247e9525a5f
+SHA1: 6493e1a3440aa806ef8bc31dd01e594a6246e7e6
+SHA256: 41a58c08b0ab4c19bfeb070a647b08ea008a00454461b6925219bf046d7b90a8
 Section: Widgets
 Description: A simple widget to display case information about COVID-19
 Author: Badr~from/Cole
-Depiction: repo.twickd.com/package/com.twickd.cole.corona-status
+Depiction: repo/com.twi.cole.corona-status
 Name: Corona Status
 SileoDepiction: repo.twickd.com/package/com.twickd.cole.corona-status/native
 Tag: compatible_min::ios9.0, compatible_max::ios13.3
 
 Package: com.twickd.mtac.lynx
-Version: 1.2.4-2
+Version: 1.2.5
 Architecture: iphoneos-arm
-Maintainer: MTAC <mtactheming@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist, org.thebigboss.libcolorpicker
+Maintainer: MTAC <https://www.sarhne.com/badr170>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.rpetrich.rocketbootstrap, org.thebigboss.libcolorpicker
 Conflicts:
-Filename: ./debs/com.twickd.mtac.lynx_1.2.4-2_iphoneos-arm.deb
-Size: 487392
-MD5sum: 5063dec1e793a347771a45d1f6ff82ad
-SHA1: 4b469adcd166202c8cbf0e6d4cfe3d6e288ff041
-SHA256: 04be248faac46860f197155e06952fe7022820dd33b960032aaeea50642045a2
+Filename: ./debs/com.twickd.mtac.lynx_1.2.5_iphoneos-arm.deb
+Size: 596382
+MD5sum: ac827f7505463489929957a946e676c0
+SHA1: 7aa01b745921414cd2963a836385fb02bf8104ea
+SHA256: c8ab8f113144a14a5c20b9b54924892f6f7aa11e3dd29d522a2e3d30487244c0
 Section: Tweaks
 Description: Ultimate device customization
-Author: Badr~MTAC
-Depiction: /package/com.twickd.mtac.lynx
-Installed-Size: 2456
+Author: Badr~MTAC <https://www.sarhne.com/badr170>
+Depiction: com.twickd.mtac.lynx
+Installed-Size: 2468
 Name: Lynx
-SileoDepiction: /package/com.twickd.mtac.lynx/native
+SileoDepiction: com.twickd.mtac.lynx/native
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+
+Package: com.yuosaf01.addsource
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: BigBos1
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.yuosaf01.addsource_2.3.1_iphoneos-arm.deb
+Size: 77836
+MD5sum: 7dd8d2909717428f2807b4c841cd2037
+SHA1: ab95e02b869e7b668b583d6663cef832bb4bc16a
+SHA256: 850d874626cc1efae775c3919c2abea15d236012b261d44999b6e797a2c650f4
+Section: Tweaks
+Description: Add the copied URL to Cydia sources automatically
+Author: Badr~yuosaf01 & 3bod_syr
+Depiction: moreino.tigboss.org/moreinfo/depiction.php?file=addsourceDp
+Homepage: moreino.thgboss.org/moreinfo/depiction.php?file=addsourceDp
+Installed-Size: 565
+Name: addsource
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: yuosaf01
 
 Package: cydia.Badr.org.cydown
 Version: 7.0.7d
@@ -296,10 +747,26 @@ MD5sum: 6e99bfda1e3e100e73aa2ed554a1dcc9
 SHA1: 14bfe9e4a8a83a7fcc1a68c4494b7c70d11c3e15
 SHA256: 00097f1b12fa5ff232b58eb3f6ef464a1b321159154d11a7b5a63afa80f99b19
 Section: Supports iOS 13
-Author: Badr~julioverne
+Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 Sponsor: Badr.org
+
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: Badr~c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/cydia.com.ipc.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9960996
+MD5sum: c6ef77e283312b9199cdb509f3c0cff4
+SHA1: e79953f438333e10e3f01d0dcb3e0dfbb98f0f4a
+SHA256: 316c6e841018e88517d13ae4c5dab03c607595daf8d880b25e17b5d6a600c40a
+Section: System
+Description: Decrypts iOS Apps ~ipa الاداه استخراج تطبيقات ولادوات بصيغة
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI+
+Website: https://www.sarhne.com/badr170
 
 Package: io.securarepo.edge
 Version: 2.1
@@ -317,6 +784,29 @@ Description: Bring Colour to Your Device🌀تم تعريب بواسطة بيد�
 Author: Badr~Max + TylerD3V
 Installed-Size: 560
 Name: Edge
+
+Package: jp.r-plus.deletecut
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss,
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Conflicts: jp.r-plus.shiftdelword
+Replaces: jp.r-plus.shiftdelword
+Filename: ./debs/jp.r-plus.deletecut_0.4_iphoneos-arm.deb
+Size: 118830
+MD5sum: 61f24f9c34ae51c0a38d79ed52b9ee6e
+SHA1: 6a155b7260097c3e62a784c309031dc090c817ac
+SHA256: cb78663e6d11405d54ce7e42067dc4752e41fb7eb3805a343d39b857d062da7a
+Section: Tweaks
+Description: Delete word mode while holding shift.🔥حذف اسرع من كيبورد
+Author: Badr~plus https://www.sarhne.com/badr170
+Depiction: moreinf.thebgboss.org/moreinfo/depiction.php?file=deletecutDp
+Homepage: moreinf.thebgboss.org/moreinfo/depiction.php?file=deletecutDp
+Icon: file:///Library/PreferenceBundles/DeleteCutSettings.bundle/DeleteCut@2x.png
+Installed-Size: 511
+Name: DeleteCut
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: rplus
 
 Package: kr.xsf1re.flyjb
 Version: 0.2.5~b
@@ -353,3 +843,21 @@ Name: BioProtect XS (iOS 12/13)
 Sponsor: Badr~thebigboss.org
 Tag: purpose::extension, compatible::ios12, compatible::ios13
 dev: limneos
+
+Package: xyz.xninja.systeminfo
+Version: 2.3.4-5+debug
+Architecture: iphoneos-arm
+Maintainer: ARX8x
+Depends: mobilesubstrate
+Filename: ./debs/xyz.xninja.systeminfo_2.3.4-5+debug_iphoneos-arm.deb
+Size: 583448
+MD5sum: c94fcb1beee956f99dc69b8d85d09429
+SHA1: 188ffde2010b423c275a98165895b7c20c137e53
+SHA256: 1242c396a48a4e39bd127effa5dc4e5f13642acf35c6ff8a4650b6f1cc9d5cb8
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
+Author: Badr~ARX8x
+Installed-Size: 1948
+Name: System Info
+Tags: settings, specs, system data
+Targets: {"Settings App":["About View"]}
