@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.2.5~b</version>
+		<version>0.2.6</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -20,7 +20,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>2.1.8.b</version>
+		<version>2.1.8</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -36,7 +36,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>2.0.0</version>
+		<version>2.0.1</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -56,11 +56,11 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.2</version>
+		<version>1.3</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.2.5</version>
+		<version>1.2.6</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -68,7 +68,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>4.4-4+debug.d</version>
+		<version>4.4.4</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -76,7 +76,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>7.0.8</version>
+		<version>7.0.9</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -92,7 +92,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.0</version>
+		<version>1.1-1</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -100,7 +100,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.1.8.1</version>
+		<version>1.1.9.0</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -180,11 +180,91 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.3.7</version>
+		<version>1.3.8</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
 		<version>1.0.1</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>0.0~beta1a</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>2.3-75</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0-3</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.16~beta6</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.1.0</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.5</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.3</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.18</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>0.0.5</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>0.0.5</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.2.6</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.7.1</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>2.1</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>0.1-1</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>0.6</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.1.5~release</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>2.2.9</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.3</version>
 		<change>Initial release</change>
 	</changes>
 </changelog>

@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.2.5~b",
+					"text": "0.2.6",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -78,7 +78,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.2.5~b",
+					"title": "0.2.6",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
@@ -506,7 +506,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "2.1.8.b",
+				"text": "2.1.8",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -559,7 +559,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "2.1.8.b",
+				"title": "2.1.8",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -890,7 +890,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "2.0.0",
+				"text": "2.0.1",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -943,7 +943,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "2.0.0",
+				"title": "2.0.1",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -1371,7 +1371,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.2",
+				"text": "1.3",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -1424,7 +1424,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.2",
+				"title": "1.3",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -1467,7 +1467,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.2.5",
+				"text": "1.2.6",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -1520,7 +1520,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.2.5",
+				"title": "1.2.6",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -1659,7 +1659,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "4.4-4+debug.d",
+				"text": "4.4.4",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -1712,7 +1712,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "4.4-4+debug.d",
+				"title": "4.4.4",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -1744,7 +1744,7 @@
 			},
 			{
 				"class": "DepictionMarkdownView",
-				"markdown": "bypass"
+				"markdown": "A-Bypass"
 			},
 			{
 				"class": "DepictionSeparatorView"
@@ -1851,7 +1851,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "7.0.8",
+				"text": "7.0.9",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -1904,7 +1904,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "7.0.8",
+				"title": "7.0.9",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -2235,7 +2235,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.0",
+				"text": "1.1-1",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -2288,7 +2288,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.0",
+				"title": "1.1-1",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -2427,7 +2427,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.1.8.1",
+				"text": "1.1.9.0",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -2480,7 +2480,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.1.8.1",
+				"title": "1.1.9.0",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -4347,7 +4347,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.3.7",
+				"text": "1.3.8",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -4400,7 +4400,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.3.7",
+				"title": "1.3.8",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -4497,6 +4497,1926 @@
 		"views": [
 			{
 				"title": "1.0.1",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "CacheWipe"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "0.0~beta1a",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "0.0~beta1a",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "CallBar XS (iOS 12/13)"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "2.3-75",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "2.3-75",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "Color Switch"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0-3",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0-3",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "Compatimark"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0.1",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0.1",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "Flipswitch"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0.16~beta6",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0.16~beta6",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "FoxFort Tools"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.1.0",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.1.0",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "KarenLocalizer"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0.5",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0.5",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "libCSColorPicker"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0.3",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0.3",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "libfoxfortutils"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0.18",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0.18",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "libsparkcolourpicker"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0.0",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0.0",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "MyiapCracker2"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "0.0.5",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "0.0.5",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "NoreVoke"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "0.0.5",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "0.0.5",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "PrefixUI"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.2.6",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.2.6",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "Prysm"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.7.1",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.7.1",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "PullOver Pro"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "2.1",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "2.1",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "SimpleActivationActions"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "0.1-1",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "0.1-1",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "TweakReviewsDB"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "0.6",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "0.6",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "Xen HTML"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.1.5~release",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.1.5~release",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "XenInfo"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "2.2.9",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "2.2.9",
+				"useBoldText": true,
+				"useBottomMargin": true,
+				"class": "DepictionSubheaderView"
+			},
+			{
+				"markdown": "\t\n\u2022 Added new features",
+				"useSpacing": false,
+				"class": "DepictionMarkdownView"
+			}
+		],
+		"class": "DepictionStackView"
+	}
+],
+"class": "DepictionTabView"
+}
+
+"minVersion": "0.1",
+"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+"tintColor": "#ffae8e",
+"tabs": [
+	{
+		"tabname": "Details",
+		"views": [
+			{
+				"class": "DepictionHeaderView",
+				"title": "BADR-BEDRRO",
+				"useBoldText": true,
+				"useBottomMargin": false
+			},
+			{
+				"class": "DepictionMarkdownView",
+				"markdown": "ArabicFontsBytaFontTweakMode"
+			},
+			{
+				"class": "DepictionSeparatorView"
+			},
+			{
+				"title": "Information",
+				"class": "DepictionHeaderView"
+			},
+			{
+				"title": "Version",
+				"text": "1.0.3",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Last Updated",
+				"text": "14, 2020",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "License",
+				"text": "free",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Compatibility",
+				"text": "ios13.0 - 13.4",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Developer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Maintainer",
+				"text": "BADR-BEDRRO",
+				"class": "DepictionTableTextView"
+			},
+			{
+				"title": "Contact Developer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"title": "Contact Maintainer",
+				"action": "mailto:midofellay@gmail.com",
+				"class": "DepictionTableButtonView"
+			},
+			{
+				"spacing": 16,
+				"class": "DepictionSpacerView"
+			},
+			{
+				"spacing": 20,
+				"class": "DepictionSpacerView"
+			}
+		],
+		"class": "DepictionStackView"
+	},
+	{
+		"tabname": "Changelog",
+		"views": [
+			{
+				"title": "1.0.3",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
