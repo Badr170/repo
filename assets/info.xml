@@ -389,9 +389,9 @@
 </package>
 
 <package>
-	<id>com.BADR.lynx_1.2.6_iphoneos-arm.deb</id>
+	<id>com.BADR.lynx_1.2.6-2_iphoneos-arm.deb</id>
 	<name>Lynx</name>
-	<version>1.2.6</version>
+	<version>1.2.6-2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1559,9 +1559,9 @@
 </package>
 
 <package>
-	<id>com.BADR.prysm_1.7.1_iphoneos-arm.deb</id>
+	<id>com.BADR.prysm_1.7.2_iphoneos-arm.deb</id>
 	<name>Prysm</name>
-	<version>1.7.1</version>
+	<version>1.7.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
