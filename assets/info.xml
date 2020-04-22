@@ -467,9 +467,9 @@
 </package>
 
 <package>
-	<id>com.BADR.a-bypass_1.0.6_iphoneos-arm.deb</id>
+	<id>com.BADR.a-bypass_1.0.7_iphoneos-arm.deb</id>
 	<name>A-Bypass</name>
-	<version>1.0.6</version>
+	<version>1.0.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -519,9 +519,9 @@
 </package>
 
 <package>
-	<id>com.BADR.watusi_1.2.37_iphoneos-arm.deb</id>
+	<id>com.BADR.watusi_1.2.39_iphoneos-arm.deb</id>
 	<name>Watusi 2 for WhatsApp</name>
-	<version>1.2.37</version>
+	<version>1.2.39</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -545,9 +545,9 @@
 </package>
 
 <package>
-	<id>com.BADR.watusitools_2.1.19k_iphoneos-arm.deb</id>
+	<id>com.BADR.watusitools_2.1.20_iphoneos-arm.deb</id>
 	<name>WatusiTools</name>
-	<version>2.1.19k</version>
+	<version>2.1.20</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1247,9 +1247,9 @@
 </package>
 
 <package>
-	<id>com.BADR.callbarxs_2.3-75_iphoneos-arm.deb</id>
+	<id>com.BADR.callbarxs_3.0-28_iphoneos-arm.deb</id>
 	<name>CallBar XS (iOS 12/13)</name>
-	<version>2.3-75</version>
+	<version>3.0-28</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1559,9 +1559,9 @@
 </package>
 
 <package>
-	<id>com.BADR.prysm_1.7.2_iphoneos-arm.deb</id>
+	<id>com.BADR.prysm_1.7.4_iphoneos-arm.deb</id>
 	<name>Prysm</name>
-	<version>1.7.2</version>
+	<version>1.7.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1727,6 +1727,526 @@
 	</compatibility>
 	<dependencies>
 		<package>com.BADR.arabicfontsbytafonttweakmode</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.3dtools_1.0.5_iphoneos-arm.deb</id>
+	<name>3DTools</name>
+	<version>1.0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.3dtools</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.albumhider_0.0~beta3_iphoneos-arm.deb</id>
+	<name>AlbumHider</name>
+	<version>0.0~beta3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.albumhider</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.blots_0.0.6_iphoneos-arm.deb</id>
+	<name>Blots</name>
+	<version>0.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.blots</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.cacheclearerx_1.1_iphoneos-arm.deb</id>
+	<name>CacheClearerX</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.cacheclearerx</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.cozybadges_1.2.0_iphoneos-arm.deb</id>
+	<name>CozyBadges</name>
+	<version>1.2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.cozybadges</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.downloadbar13_1.0_iphoneos-arm.deb</id>
+	<name>DownloadBar13</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.downloadbar13</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.grabberex_0.9.5_iphoneos-arm.deb</id>
+	<name>GrabberEX</name>
+	<version>0.9.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.grabberex</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.hidekbsettings_1.0.5_iphoneos-arm.deb</id>
+	<name>HideKBSettings (iOS 11 to 13)</name>
+	<version>1.0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.hidekbsettings</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.instagramautoscroll_0.0.1_iphoneos-arm.deb</id>
+	<name>Instagram AutoScroll</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.instagramautoscroll</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.noctis13_1.2.4_iphoneos-arm.deb</id>
+	<name>Noctis Neo</name>
+	<version>1.2.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.noctis13</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.perfecttimexs_0.2.1-2_iphoneos-arm.deb</id>
+	<name>PerfectTimeXS</name>
+	<version>0.2.1-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.perfecttimexs</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.prysmdevycc_1.8_iphoneos-arm.deb</id>
+	<name>Prysm DevyCC</name>
+	<version>1.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.prysmdevycc</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.roundprefs_1.0.3_iphoneos-arm.deb</id>
+	<name>roundPrefs</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.roundprefs</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.selectionplus_1.1_iphoneos-arm.deb</id>
+	<name>SelectionPlus</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.selectionplus</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.setcol_1.0-9_iphoneos-arm.deb</id>
+	<name>SetCol</name>
+	<version>1.0-9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.setcol</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.topphone2_1.0-3_iphoneos-arm.deb</id>
+	<name>TOPphone</name>
+	<version>1.0-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.topphone2</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.twicol_1.0-7_iphoneos-arm.deb</id>
+	<name>TwiCol</name>
+	<version>1.0-7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.twicol</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.videoswipes_1.4-1_iphoneos-arm.deb</id>
+	<name>VideoSwipes</name>
+	<version>1.4-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.videoswipes</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.wanosuggestions_0.0.2_iphoneos-arm.deb</id>
+	<name>WA NoSuggestions</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.wanosuggestions</package>
+	</dependencies>
+	<shortDescription>Features of the dok</shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.whatcol_1.0-4_iphoneos-arm.deb</id>
+	<name>WhatCol</name>
+	<version>1.0-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.whatcol</package>
 	</dependencies>
 	<shortDescription>Features of the dok</shortDescription>
 	<descriptionlist>
