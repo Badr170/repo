@@ -555,6 +555,28 @@ Name: CrackTool4 (ios12.0-ios13.4)
 SileoDepiction: Sileo.BADR.repo
 Sponsor: BADR
 
+Package: com.BADR.ctf
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BADR~<https://badr170.github.io/repo>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.BADR.ctf_1.0.1_iphoneos-arm.deb
+Size: 10602
+MD5sum: eb26b970467798da089740b467b7c708
+SHA1: 941ac9354f9ceefdb2703b54f99025a0ecf8182a
+SHA256: 1b4e8c6720eef6a9fcf9080c5443ce123894b0344bdd51c716f3cf794a0d5c81
+Section: Tweaks
+Description: أوقف خطأ سلسلة العلم🔥 الإيطالي من تجميد جهازك باتش يحل مشكله اعاده تشغيل مفاجئ و ريسبرنق في كل ماتتصفح تويتر تيك توك ريسبرنق مستمر وعند كتابه ايضا هذا باتش يحل المشكله خاص في اصدار 13 هناك رسالة تسبب تجمد للايفون هذا باتش لايقافها ios13 فقط
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 198
+Name: CaptureTheFlag
+Priority: optional
+Sponsor: BADT
+Tag: purpose::extension, compatible::ios13
+dev: BADR
+
 Package: com.BADR.cthulhu
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -737,19 +759,6 @@ Name: Flipswitch
 Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
 Tag: purpose::extension, role::developer
 dev: flipswitch
-
-Package: com.BADR.flyjb
-Version: 0.2.6
-Architecture: iphoneos-arm
-Filename: ./debs/com.BADR.flyjb_0.2.6_iphoneos-arm.deb
-Size: 585920
-MD5sum: dfc658d10f72eb77f0c680e09864b517
-SHA1: 50596fd2279e606027ae14d4bd158a7a7eb5476b
-SHA256: 2630e566b67742a599931e51c1a0e926aa507fa248f43af25ca2da60f3457d13
-Section: Tweaks
-Description: الاداه اخفاء جلبريك تم حل مشكله تحديث تصحيح الذاكرة  تم حلها بواسطة بيدرو🔥
-Author: BADR
-Name: FlyJB
 
 Package: com.BADR.foxforttools
 Version: 1.1.0

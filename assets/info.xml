@@ -1,21 +1,21 @@
 <package>
-	<id>com.BADR.flyjb_0.2.6_iphoneos-arm.deb</id>
-	<name>FlyJB</name>
-	<version>0.2.6</version>
+	<id>com.BADR.ctf_1.0.1_iphoneos-arm.deb</id>
+	<name>CaptureTheFlag</name>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.4.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.BADR.flyjb</package>
+		<package>com.BADR.ctf</package>
 	</dependencies>
 	<shortDescription>Hido Gilprick from PUBG</shortDescription>
 	<descriptionlist>
   <description>reformatted the correct memory correction</description>
-  <description>اخفاء جلبريك للبرامج بواسطة بيدرو/ios13.0-ios13.4</description>
+  <descriptionpg>حل مشاكل الاصدار 13/ios13.0-ios13.4.1</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
