@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: BADR~<https://badr170.github.io/repo>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.BADR.3dtools_1.0.5_iphoneos-arm.deb
-Size: 1205940
-MD5sum: 013024a0c9a20a5548cd17bb5b8f9ae9
-SHA1: 15fe3f366ae69fc1fc2bbcab7608019eec0d05e4
-SHA256: fbc22ef8f3b44b1bc0aca91818fc0a67e48d477915da029d939bdd5a7aef5184
+Size: 1205938
+MD5sum: c4a2fe6364eb027ba25cb948e6978b89
+SHA1: 95817c6a400961f0a1b27fb3aaaa1d4482ff5ef3
+SHA256: fbe3db165887ab406755c72ec9a4c7043d89d07e99468561d8ca7dc8d2c00c3f
 Section: Tweaks
 Description: اضافة مميزات لـ مثل حذف التطبيق .. إيقاف الاشعارات .. قفل التطبيق .. وغيرها من كثير المميزات انصح فيها ضغطه مطوله على كل تطبيق اظهار خيارات😍
 Author: BADR~
@@ -49,15 +49,15 @@ Installed-Size: 2332
 Name: A-Font
 
 Package: com.BADR.actionbar
-Version: 1.3.8
+Version: 1.3.7
 Architecture: iphoneos-arm
 Maintainer: BADR~<https://www.sarhne.com/badr170>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.BADR.actionbar_1.3.8_iphoneos-arm.deb
-Size: 71820
-MD5sum: 9a42719fc09794e1b34eb0514c14b65c
-SHA1: 51bf237c5a09b0ce3ead43a1c830d220d1c84325
-SHA256: 50726a2af8466303de485775ab5bb42973be1d2f9f87285050b9468f884d9d92
+Filename: ./debs/com.BADR.actionbar_1.3.7_iphoneos-arm.deb
+Size: 71822
+MD5sum: 32390e9c4c33c56e1e1339547a5dbcec
+SHA1: 8be36a4508a07024d64232bb3d02ce1749c9c993
+SHA256: a2216afd7099e5a19bb8bc4a2bf656e83aecb665b96b4a18578546530c86b0c4
 Section: Tweaks
 Description: التراجع عن الإجراءات وإعاده وتحديد الكل ونسخها وقصها ولصقها أسفل لوحة المفاتيح للاجهزة القديمه ولجديده👻
 Author: BADR~
@@ -86,6 +86,31 @@ Name: addsource
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: BADR
 
+Package: com.BADR.afc2d-arm64
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/com.BADR.afc2d-arm64_1.1_iphoneos-arm.deb
+Size: 27372
+MD5sum: 58ca8c94a8c50d9ea54ddc9a10e6919f
+SHA1: 128f5c70f45e086c81aba7db2aa2a8f399da9778
+SHA256: 6f6f39168ae0a7c346233f79c1a33620211c25d4c1682d791858b45a756c59c8
+Section: System
+Description: السماح بالوصول الكامل لنظام الملفات عبرالكمبيوترUSBلأجهزة arm64،خاصة لأولئك الذين يستخدمون جلبريك😍
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 672
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Pre-Depends: dpkg (>= 1.14.25-8)
+Provides: com.BADR.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Sponsor: BADR
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
+dev: cannathea
+
 Package: com.BADR.albumhider
 Version: 0.0~beta3
 Architecture: iphoneos-arm
@@ -103,16 +128,39 @@ Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: AlbumHider
 
+Package: com.BADR.alderis
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Conflicts: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Filename: ./debs/com.BADR.alderis_1.0_iphoneos-arm.deb
+Size: 848944
+MD5sum: e953ae6a5b7cb71b8b1f9845d9fd309e
+SHA1: b0afd58de6c11cd76f6e94bc97eba6e9034020dc
+SHA256: c0b5c6d21c81c9d3143adf1c1c2deb13d4208af368198fe52c474c86b9aa7576
+Section: Development
+Description: مكتبة دعم منتقي الألوان لإجراء يجب تبديل من الاداه Switcher تعديلات لـ libcolorpicker-nepetaالافضل ستقرار لـ 
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 2172
+Name: Alderis Color Picker
+Provides: org.thebigboss.libcolorpicker (= 1.6.7), me.nepeta.libcolorpicker (= 1.6.2-3)
+Tag: role::developer, compatible::ios12, compatible::ios13
+dev: hbang
+
 Package: com.BADR.amandus
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: BADR~https://badr170.github.io/repo/
 Depends: mobilesubstrate
 Filename: ./debs/com.BADR.amandus_1.0.1_iphoneos-arm.deb
-Size: 55878
-MD5sum: 0a612a9cc6b60bdada5e368684415019
-SHA1: 75c047342a5f1ce863a7013fc63f3b4555e281f9
-SHA256: ea55e8578cae7b7b3b705c367820a746eb5daca5d53fab3289c7bda0c71d074f
+Size: 55896
+MD5sum: f3fe002d6233d04497798429bd6cabba
+SHA1: 4e3930bbbde2b57111abf3552bc079cf30650785
+SHA256: aed0a61ce59d6e0bd48be3f76122bfb5740486311e4acb5072c9f97364ee2c61
 Section: Tweaks
 Description: Apple Pay redesigned!🔥تغيير واجهه البطاقات ابل باي
 Author: BADR~
@@ -379,10 +427,10 @@ Architecture: iphoneos-arm
 Maintainer: BADR~https://badr170.github.io/repo/
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
 Filename: ./debs/com.BADR.cask_1.0.1_iphoneos-arm.deb
-Size: 43044
-MD5sum: 78bb995bee352c78d689663296801c94
-SHA1: 29834e37c1dc367f6345b3e1af945fcab0575378
-SHA256: 4609bb9d056637c5dc63215dca3be69b49920beee156d545a87ef472d686d157
+Size: 43088
+MD5sum: f6e4432bb7e20910690327c2df197a12
+SHA1: aec923a2719a4e8b1384bc0b3f43318744b915a8
+SHA256: eb623d2dd6fbdf89fb35ed1930480470304f5446dfc7973f792a475695cc997e
 Section: Tweaks
 Description: التمرير متحرك الجدول على صفحات بتحكم في طلوع ونزول 🔥
 Author: BADR~
@@ -555,28 +603,6 @@ Name: CrackTool4 (ios12.0-ios13.4)
 SileoDepiction: Sileo.BADR.repo
 Sponsor: BADR
 
-Package: com.BADR.ctf
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: BADR~<https://badr170.github.io/repo>
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.BADR.ctf_1.0.1_iphoneos-arm.deb
-Size: 10602
-MD5sum: eb26b970467798da089740b467b7c708
-SHA1: 941ac9354f9ceefdb2703b54f99025a0ecf8182a
-SHA256: 1b4e8c6720eef6a9fcf9080c5443ce123894b0344bdd51c716f3cf794a0d5c81
-Section: Tweaks
-Description: أوقف خطأ سلسلة العلم🔥 الإيطالي من تجميد جهازك باتش يحل مشكله اعاده تشغيل مفاجئ و ريسبرنق في كل ماتتصفح تويتر تيك توك ريسبرنق مستمر وعند كتابه ايضا هذا باتش يحل المشكله خاص في اصدار 13 هناك رسالة تسبب تجمد للايفون هذا باتش لايقافها ios13 فقط
-Author: BADR
-Depiction: Cydia.BADR.repo
-Homepage: https://www.sarhne.com/badr170
-Installed-Size: 198
-Name: CaptureTheFlag
-Priority: optional
-Sponsor: BADT
-Tag: purpose::extension, compatible::ios13
-dev: BADR
-
 Package: com.BADR.cthulhu
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -700,22 +726,22 @@ SileoDepiction: Sileo.BADR.repo
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
 
 Package: com.BADR.edge
-Version: 2.1
+Version: 2.2.1
 Architecture: iphoneos-arm
 Maintainer: BADR~https://badr170.github.io/repo/
-Depends: mobilesubstrate, firmware (>=11.0), ws.hbang.common (>=1.14), org.thebigboss.libcolorpicker
+Depends: mobilesubstrate, firmware (>=11.0), com.spark.libsparkcolourpicker
 Conflicts: com.junesiphone.lockpluspro
-Filename: ./debs/com.BADR.edge_2.1_iphoneos-arm.deb
-Size: 231098
-MD5sum: 00a75fee7aed81a665c866eb626cbdbd
-SHA1: 1df15500b7969c11333751710fafc6f19433cc63
-SHA256: 8004d5af634fc25cbd112b7735331b341e69a88b67431175062a8b219b29275e
+Filename: ./debs/com.BADR.edge_2.2.1_iphoneos-arm.deb
+Size: 269832
+MD5sum: 0691ff586c1b9ef682e0ad8d597165dd
+SHA1: 2a772b158ddf70a42d1c0b4d017de062415326e1
+SHA256: 8f130313fc76e8722ef9f1fb433e1201b616c74fe549174aa6fad371736a24c8
 Section: Tweaks
-Description: 👻 إضفاء اللون على جهازك تم تعريب بواسطة بيدرو
-Author: BADR~
+Description: إضافة اطار الوان على شاشتك👻📱
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
-Installed-Size: 560
+Installed-Size: 628
 Name: Edge
 
 Package: com.BADR.fixappadmin
@@ -735,48 +761,6 @@ Depiction: cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: aFixToAppAdmin
 Sponsor: BADR
-
-Package: com.BADR.flipswitch
-Version: 1.0.16~beta6
-Architecture: iphoneos-arm
-Maintainer: BADR~<https://badr170.github.io/repo>
-Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
-Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
-Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
-Filename: ./debs/com.BADR.flipswitch_1.0.16~beta6_iphoneos-arm.deb
-Size: 469248
-MD5sum: bf8af6e9087ca51c92c45d5a93d44f7e
-SHA1: 1b348af71048ac4eacb18c0fde8d02232a49bddf
-SHA256: 194091d18350fa69e381cc12d6b3e3af67f4215f73e45ab03293bd3ad2c2c26f
-Section: System
-Description: iOS نظام تبديل مركزي لنظام
-Author: BADR~
-Depiction: Cydia.BADR.repo
-Homepage: https://www.sarhne.com/badr170
-Icon: file:///Applications/Preferences.app/icon-table.png
-Installed-Size: 2380
-Name: Flipswitch
-Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
-Tag: purpose::extension, role::developer
-dev: flipswitch
-
-Package: com.BADR.foxforttools
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.0.18), com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools
-Filename: ./debs/com.BADR.foxforttools_1.1.0_iphoneos-arm.deb
-Size: 947276
-MD5sum: ca839fb3b2e2401ea5b92bbd81256206
-SHA1: ba1038fff77f0737c2035e4d81f22500a3ded4f8
-SHA256: a3c080d1773de12605b18d7bd7e116ec5cc188a440d93596ff19652b92441e96
-Section: System
-Description: Foxfort أدوات مساعدة لتعديلات
-Author: BADR~
-Installed-Size: 2288
-Name: FoxFort Tools
-Tag: role::developer
 
 Package: com.BADR.gasolina
 Version: 0.3.1
@@ -997,18 +981,18 @@ Architecture: iphoneos-arm
 Maintainer: BADR~https://badr170.github.io/repo/
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.BADR.itranslate_0.0.1-6_iphoneos-arm.deb
-Size: 6454
-MD5sum: d0a560a1d844c29d65465f857ff031b1
-SHA1: 72a0fbf3ce2f72cbe49658bee8640ef7f1e086bb
-SHA256: 1334884241b95cf50633e5d2e237cd8f70858aa5c8f65c0e453234d313d5fc84
+Size: 6444
+MD5sum: 2f42b4a9c50db7f9cb3bb02c830576de
+SHA1: b30743d3886c45a1b39edf9e52c50999ad5f9d5d
+SHA256: da0e0c95a185b25f66a14f1d6bc93cc6e064f538c065b039397fbd2c6f05d2e9
 Section: Tweaks
-Description: ترجمه اي كلمه من اي متصفح اي محادثات في كل مكان يمكن ترجمه🤩
-Author: BADR~
+Description: ترجمة في متصفح سفاري فقط🤩من مشاركه ثم ترجمه
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/itranslate.bundle/icon.png
 Installed-Size: 133
-Name: iTranslate(ios13-12~ترجمه)
+Name: iTranslate(ترجمه في سفاري)
 Priority: optional
 Sponsor: BADR
 Tag: purpose::extension, compatible::ios10, compatible::ios11
@@ -1034,6 +1018,25 @@ Name: KarenLocalizer
 Sponsor: BADR
 Tag: purpose::library, cydia::obsolete, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: Pasithea 2 (iOS 10 to 13)
+
+Package: com.BADR.lastlook
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12.0)
+Filename: ./debs/com.BADR.lastlook_1.0.1_iphoneos-arm.deb
+Size: 131934
+MD5sum: b0b78cfc79ab7955cc962b7c93912dcb
+SHA1: a9c5c09fca77ce15de9b4533f7db672a6c1a16c2
+SHA256: 96ec3604d92f83fcd9a72fec67759a7a8728e9dcb438870bab850d318d9fc719
+Section: Tweaks
+Description: نظرة أخيرة على مركز الإشعارات الخاص بك عندما تقوم بقفل هاتفك 😁
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/PreferenceBundles/LastLookPrefs.bundle/icon@2x.png
+Installed-Size: 472
+Name: LastLook
 
 Package: com.BADR.libcscolorpicker
 Version: 1.0.3
@@ -1107,23 +1110,45 @@ Installed-Size: 860
 Name: libTapSharp
 Tag: role::developer
 
-Package: com.BADR.lynx
-Version: 1.2.6-2
+Package: com.BADR.locationservicecc
+Version: 0.1-4-1
 Architecture: iphoneos-arm
-Maintainer: BADR~<https://badr170.github.io/repo>
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Conflicts: 
-Filename: ./debs/com.BADR.lynx_1.2.6-2_iphoneos-arm.deb
-Size: 593744
-MD5sum: 543f43738f70968ecc36ad662e76cb13
-SHA1: 7155dcc8dc168b2bcc1dd01b28e6a8238b87fa2f
-SHA256: 43450173dafb4d6952bfbf62de5c367ca7c1a67059ff2ede0574b416feab3c4c
-Section: Tweaks
-Description: جميع التخصيص المطلق للجهاز 🔥
-Author: BADR~
+Maintainer: BADR~https://badr170.github.io/repo/
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: ./debs/com.BADR.locationservicecc_0.1-4-1_iphoneos-arm.deb
+Size: 51482
+MD5sum: 4734fce946500cd7e7fd1221c26c1736
+SHA1: 8596b49ab0fe4738698b74fe89a6afb83d943661
+SHA256: c279076a19c51257ac0597f5d84f0a839a51f6650283844d4f5368abeb7a6a87
+Section: Addons (ControlCenter)
+Description: قم بتشغيل / إيقاف تشغيل خدمة الموقع من مركز التحكم😍
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
-Installed-Size: 2472
+Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
+Installed-Size: 180
+Name: LocationService (CCSupport)
+Pre-Depends: firmware (>= 11.0)
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: BADR
+
+Package: com.BADR.lynx
+Version: 1.2.7
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Conflicts: 
+Filename: ./debs/com.BADR.lynx_1.2.7_iphoneos-arm.deb
+Size: 604176
+MD5sum: 87aec1ad628d3929f16dcdfb2e988ac3
+SHA1: bfed104c588521026877c023de0507f8b7f0003f
+SHA256: 2106760a819db84c5941f82eb673b22c340596f1fd1477d0023910eee3bbbc9c
+Section: Tweaks
+Description: جميع التخصيص المطلق للجهازك تغنيك عن اكثر من الادوات 🔥
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 2504
 Name: Lynx
 SileoDepiction: Sileo.BADR.repo
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
@@ -1513,6 +1538,24 @@ Homepage: https://www.sarhne.com/badr170/
 Installed-Size: 1148
 Name: SelectionPlus
 
+Package: com.BADR.selector
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: BADR~https://badr170.github.io/repo/
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/com.BADR.selector_0.1.3_iphoneos-arm.deb
+Size: 45132
+MD5sum: feafeac3491c027afe2e6613a6c1de8c
+SHA1: 2754e81b1056a98a8709c903f63e216da2858122
+SHA256: 271c4f62782a8b1a966f2a99abc408270dfc61aa1d2c4fe18e11f66d04fe2166
+Section: Tweaks
+Description: ترجمه اي كلمه من اي متصفح اي محادثات في كل مكان يمكنك ترجمه🤩افضل ترجمة جربته 😍على اطلاق
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 336
+Name: Selector (ترجمة)
+
 Package: com.BADR.setcol
 Version: 1.0-9
 Architecture: iphoneos-arm
@@ -1625,24 +1668,6 @@ Installed-Size: 2388
 Name: TOPphone
 Priority: optional
 dev: BADR
-
-Package: com.BADR.translomatic
-Version: 2.1.8
-Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.1.0), applist
-Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic
-Filename: ./debs/com.BADR.translomatic_2.1.8_iphoneos-arm.deb
-Size: 4078898
-MD5sum: ee00c3e8b4f6b40f4c537a8f3149b99f
-SHA1: d96f9b4c17f0a7fd6739fa351c8e024b47f26787
-SHA256: 78bf4fb399b66c667aba6d5b115648823cd5d7b4f3216d4b896700d17a9cefe5
-Section: Tweaks
-Description: ترجمة أي نص بسرع لاكن انتبه توجد اخطاء سوفا احلا في وقت القادم 👻مشكلتها في سفاري وفي ترجمه تويتر ⚠️
-Author: Badr~
-Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
-Installed-Size: 4196
-Name: Translomatic
 
 Package: com.BADR.tweakreviews-db
 Version: 0.6
