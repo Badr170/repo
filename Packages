@@ -66,6 +66,20 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 416
 Name: ActionBar
 
+Package: com.BADR.adb
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.adb_1.4-1_iphoneos-arm.deb
+Size: 16088
+MD5sum: 081dad949ba881a37d3379b93650a528
+SHA1: 59c14001b78e3b38068dba0036866198ed597f54
+SHA256: 09ef4217c86a0fb9e16e13e2882aa95f004c6d9ba1ee6fe35f2ff6af24661c03
+Section: Tweaks
+Description: اداه مساعد لي اداهYoutubekiller👻
+Author: BADR
+Name: YKAdb
+
 Package: com.BADR.addsource
 Version: 2.3.1
 Architecture: iphoneos-arm
@@ -233,21 +247,43 @@ Installed-Size: 548
 Name: Arch
 
 Package: com.BADR.arc
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: mobilesubstrate
-Filename: ./debs/com.BADR.arc_1.0.3_iphoneos-arm.deb
-Size: 617466
-MD5sum: dd8aaeb5d2393444e7f83fd0375bc7d4
-SHA1: 9e0b2442ae0cb2154bc16758606620e2764bb6b1
-SHA256: e09b71aee8ec1c32d0276dd321d7eb440cbe005c3244a2788de46861947ea883
+Maintainer: BADR https://badr170.github.io/repo/
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Filename: ./debs/com.BADR.arc_1.0.4_iphoneos-arm.deb
+Size: 617640
+MD5sum: e6d57887ac940446f084e0e19294d15f
+SHA1: 96e5b2307275067d0bbe710880e2f95895dd67f3
+SHA256: 79c5b3e3eb905068e9a425ce62de65d88f5d1c079b3ae1af8a2245386f8525c2
 Section: Tweaks
 Description: انشاء اختصارات في شاشة القفل🔥
-Author: BADR~
+Author: BADR
 Icon: file:///Library/PreferenceBundles/ArcPrefs.bundle/Icon-Large.png
 Installed-Size: 980
 Name: Arc
+
+Package: com.BADR.banavoider
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, applist
+Filename: ./debs/com.BADR.banavoider_1.1_iphoneos-arm.deb
+Size: 16300
+MD5sum: 1829582d36c9e51a14190e35ac5ce6e0
+SHA1: ffb52555eccadd06c75f4e42473d7335153e6468
+SHA256: a02d575fc798385c101cfc5a510c32cbfef4833ff935365e4035878419e9c186
+Section: Tweaks
+Description: يذكرك بتعطيل كسر الحماية قبل لعب الألعاب! مثل ببجي وفري فاير وغيرها كثيرا😍
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 205
+Name: BanAvoider
+Priority: optional
+Sponsor: BADR
+Tag: purpose::extension, compatible::ios13
+dev: greg0109
 
 Package: com.BADR.batteryx
 Version: 0.0.4
@@ -386,23 +422,23 @@ Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
 Name: CacheWipe
 
 Package: com.BADR.callbarxs
-Version: 3.0-28
+Version: 3.1-173
 Architecture: iphoneos-arm
-Maintainer: BADR~<https://badr170.github.io/repo>
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12)
 Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/com.BADR.callbarxs_3.0-28_iphoneos-arm.deb
-Size: 460338
-MD5sum: f320e9af4b567beac665ec085cc35b83
-SHA1: d9d643a5bf4146fc55fcef40e2d5e6e8a6676879
-SHA256: 70af10ddc5bf34c023b86546a878ef29f9365ae4abb10a0d31c3e940f7e9bb31
+Filename: ./debs/com.BADR.callbarxs_3.1-173_iphoneos-arm.deb
+Size: 482812
+MD5sum: 4877792ab8d14647ebce2472c650bfa9
+SHA1: e17d5618fc69e61cf6ec519321257655a9079b9c
+SHA256: 049359a26b5728c24a5f631b07bdc4af5aa57881bb51136185a340238fc94acc
 Section: Tweaks
 Description: لاتدع المكالمات الواردة تقاطعك ! في شاشتك او متصفك او عندما تتصفح تويتر🔥
-Author: BADR~
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Installed-Size: 1468
+Installed-Size: 1516
 Name: CallBar XS (iOS 12/13)
 
 Package: com.BADR.camcontrolsx
@@ -422,18 +458,18 @@ Installed-Size: 780
 Name: CamControls X
 
 Package: com.BADR.cask
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
+Maintainer: BADR https://badr170.github.io/repo/
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Filename: ./debs/com.BADR.cask_1.0.1_iphoneos-arm.deb
-Size: 43088
-MD5sum: f6e4432bb7e20910690327c2df197a12
-SHA1: aec923a2719a4e8b1384bc0b3f43318744b915a8
-SHA256: eb623d2dd6fbdf89fb35ed1930480470304f5446dfc7973f792a475695cc997e
+Filename: ./debs/com.BADR.cask_1.0.2_iphoneos-arm.deb
+Size: 45684
+MD5sum: e28bc00939e06e7f66c8f485969c1c69
+SHA1: 72d7f513a6a74263f42640440a7a9cc1b6e1bfb5
+SHA256: d7158548e687366a1690710d3dacb44d17a3367a3b1ebbf37e9a1a811e4b583a
 Section: Tweaks
 Description: التمرير متحرك الجدول على صفحات بتحكم في طلوع ونزول 🔥
-Author: BADR~
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Installed-Size: 300
@@ -474,6 +510,28 @@ Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: CellDia
 
+Package: com.BADR.cercube
+Version: 5.1.17
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.BADR.cercube_5.1.17_iphoneos-arm.deb
+Size: 5632194
+MD5sum: 3f7b14cd791e035d4aaf5c8e141bfbbe
+SHA1: 6132d635262046473c48d8f63651105b11d41766
+SHA256: c2dae10de51e94a1904cfd4b024ba51ced0370dded752a298d08bcdbc882116e
+Section: Tweaks
+Description: قم بتنزيل مقاطع فيديو YouTube والمزيد! الاداه مساعد لي الاداهYouTubeKiller
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Installed-Size: 15104
+Name: Cercube for YouTube
+Priority: optional
+SileoDepiction: Sileo.BADR.repo
+
 Package: com.BADR.choicy
 Version: 1.2
 Architecture: iphoneos-arm
@@ -497,18 +555,20 @@ Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 dev: BADR
 
 Package: com.BADR.colorswitch
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.BADR.colorswitch_1.0-3_iphoneos-arm.deb
-Size: 1578156
-MD5sum: dc7ea1a7342b4ee884be3b803bd060b9
-SHA1: 50812fd8b8d47c42855db5a5a266be0f54aadc00
-SHA256: 91d94f441ea62c7eabc8b867971fe16602f1b89b7d8bc1c6271ff3b12236ea9f
+Filename: ./debs/com.BADR.colorswitch_1.0-4_iphoneos-arm.deb
+Size: 1202140
+MD5sum: d405236c4fb9bae9dbc8a972d601cda9
+SHA1: cb81c10649a456d8eaf5b91008f185ef9b9f68df
+SHA256: 4f3ce89ca030e5127a230f4e497b90282461f497be886168b1a1c42b8dfbd631
 Section: Tweaks
 Description: تخصيص ألوان التبديل افضل اداه تخصيص 🔥
-Author: BADR~
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
 Installed-Size: 1780
 Name: Color Switch
 Priority: optional
@@ -567,6 +627,25 @@ Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170/
 Installed-Size: 388
 Name: CozyBadges
+
+Package: com.BADR.CPUTool
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
+Conflicts: org.cydia.kiimo.cracktool4, com.julioverne.cracktool4
+Filename: ./debs/com.BADR.CPUTool_1.7_iphoneos-arm.deb
+Size: 276664
+MD5sum: 9d7947afa2347160be92d055d4099e82
+SHA1: f15a34ec31b042803728d5b6e9cd3ada3cc2d12c
+SHA256: de78f2c8b730f41c09351060c36aa697841fb2dd8ca2da1dbc08c0da812c97e4
+Section: Tweaks
+Description: CPUTool ، قرص توفير البطارية الفائق ، هو أول قرص وحدة المعالجة المركزية / وحدة معالجة الرسومات قيد التشغيل لنظام!🙂
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Name: CPUTool
+Recommends: com.opa334.ccsupport
 
 Package: com.BADR.crackerxi
 Version: 1.1.16
@@ -761,6 +840,27 @@ Depiction: cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: aFixToAppAdmin
 Sponsor: BADR
+
+Package: com.BADR.GameGem
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.BADR.GameGem_1.5_iphoneos-arm.deb
+Size: 4000202
+MD5sum: b9e41e8760c1def58cf880194851028f
+SHA1: 0e85b6445633cffb8741cae3c46375bee334fceb
+SHA256: 2aa163099f394b70a37b3c8ae1e34ef67f93c96a0d8a2a76878123681cee6221
+Section: Utilities
+Description: لتهكير نقاط الالعاب ولمجوهرات ولكثير من خيارات تم تعريبه بالكامل👻🔥
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+Installed-Size: 10613
+Name: GameGem (iOS11-iOS13)
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: BADR
 
 Package: com.BADR.gasolina
 Version: 0.3.1
@@ -1019,6 +1119,23 @@ Sponsor: BADR
 Tag: purpose::library, cydia::obsolete, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: Pasithea 2 (iOS 10 to 13)
 
+Package: com.BADR.KarlaDiazCircle13
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.4_iphoneos-arm.deb
+Size: 21615378
+MD5sum: 72e6db45a58c51f53f6fa62fcc3ea143
+SHA1: 45dc462ecafc0ef40224cb1d744cd79206c8973b
+SHA256: befd059632456a7eb7d8c44f45894fdc50290bd5cd5997a078c7f271c217fb8b
+Section: Themes
+Description: موضوع بسيط وحديث خلفية جميل والوضع داكن😍🔥
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/Themes/KarlaDiaz Circle 13.theme/icon@3x.png
+Name: KarlaDiaz Circle 13
+
 Package: com.BADR.lastlook
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1074,6 +1191,24 @@ Description: Foxfort المرافق الأساسية لتعديلات
 Author: BADR~
 Installed-Size: 4368
 Name: libfoxfortutils
+Tag: role::developer
+
+Package: com.BADR.libmryipc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.libmryipc_1.0_iphoneos-arm.deb
+Size: 20828
+MD5sum: 52b66fca62f64271aaf2b5cc98af30f2
+SHA1: 970d858ae32651945ab553e4de09077660fd2565
+SHA256: 349a0a51853972718c9f4fd4856d50ada8a65b313d1c53b950917671a55f3507
+Section: System
+Description: Scorpionيجب تنزله مع الاداه🤔🔥
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 196
+Name: libMRYIPC
 Tag: role::developer
 
 Package: com.BADR.libsparkcolourpicker
@@ -1189,6 +1324,26 @@ Depiction: Cydia.Badr.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Name: MImport
+
+Package: com.BADR.multipla
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.imkpatil.floatingdock, com.bengiannis.primo, com.imkpatil.floatingdockplus, com.p2kdev.floatingdockplus13, com.synnyg.floatydock
+Filename: ./debs/com.BADR.multipla_1.0.0_iphoneos-arm.deb
+Size: 995880
+MD5sum: cc564bd055533fd71e5177a1b229aa6c
+SHA1: 3bb501312f9960085a99495c3e70a3411e6bfebe
+SHA256: 1e670952ffd811bfd0b5b5c6c55326d195a6a4d33c1a4f1c013745c7891a27c9
+Section: Tweaks
+Description: القوة إلى قفص الاتهام الخاص بك اختصارات لي دوك سفلي😍🔥
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Name: Multipla
+Tag: cydia::commercial, compatible::ios11, compatible::ios12, compatible::ios13
 
 Package: com.BADR.myiapcracker2
 Version: 0.0.5
@@ -1460,21 +1615,22 @@ Homepage: https://www.sarhne.com/badr170
 Name: roundPrefs
 
 Package: com.BADR.safarifeatures
-Version: 1.1-1
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.BADR.safarifeatures_1.1-1_iphoneos-arm.deb
-Size: 5088
-MD5sum: 9e214ee64ca7e5f69fda81fd8b823f64
-SHA1: e0086b0f8e38a220dd7bd0c49f352557b686f1a3
-SHA256: c34b1d57c51092018ae4e7507bd73768a3210953c7e5aa56aa3f5ee408cd0408
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.BADR.safarifeatures_1.2_iphoneos-arm.deb
+Size: 44988
+MD5sum: 1236413de7e1d73211c4609897d449a0
+SHA1: 6ca8219720d4844e7ab1f3b34f7df6e094c5f0ce
+SHA256: 5279a3538b8c1574b8f5600af9e25159b0f6d4f436ed06ac5db01ec515f5d441
 Section: Tweaks
 Description: تتفعل تلقائي بدون اعدادات زي تصفح ايباد😍
-Author: BADR~
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
-Installed-Size: 100
+Icon: file:///Library/PreferenceBundles/SafariFeatures.bundle/Icons/Safari@3x.png
+Installed-Size: 251
 Name: Safari Features
 Sponsor: BADR
 Tag: purpose::extension, compatible::ios13
@@ -1519,6 +1675,24 @@ Description: يمكنك ضع صوره في مركز التحكم الخاص بك
 Author: BADR~
 Installed-Size: 2900
 Name: Sareth
+
+Package: com.BADR.scorpion
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist
+Filename: ./debs/com.BADR.scorpion_1.1_iphoneos-arm.deb
+Size: 953676
+MD5sum: f2f439114e6f6f2d447a1fa7fbed9147
+SHA1: 72ac6fc9ed1ed103e68e19d610232c4b6225f727
+SHA256: f9c1292c7f039c16e832d687ac0f2c9faf429a65986f5280c15c606b3d70480a
+Section: Tweaks
+Description: لاتدع المكالمات الواردة تقاطعك ! في شاشتك او متصفك او عندما تتصفح تويتر🔥(مطوره) افضل من الاداه CallBar 
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 2012
+Name: Scorpion
 
 Package: com.BADR.selectionplus
 Version: 1.1
@@ -1575,6 +1749,23 @@ Installed-Size: 10704
 Name: SetCol
 Priority: optional
 dev: BADR
+
+Package: com.BADR.shadow13
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.shadow13_1.3.7_iphoneos-arm.deb
+Size: 40838130
+MD5sum: 7fe8ff6b2990185035a04ad946c1a505
+SHA1: 74252ed55b3e05663d749cdce37a0317b1dcb0cf
+SHA256: 6fa651d180afcf14da6ef7bdb91c6f527175d4aea2fcdbb15b7ab5ba7bfb3345
+Section: Themes
+Description: موضوع بسيط وحديث خلفية جميل الوضع داكن😍🔥
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/Themes/Shadow 13.theme/icon@3x.png
+Name: Shadow 13
 
 Package: com.BADR.simpleactivationactions
 Version: 0.1-1
@@ -1650,21 +1841,21 @@ Tags: settings, specs, system data
 Targets: {"Settings App":["About View"]}
 
 Package: com.BADR.topphone2
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, org.thebigboss.libcolorpicker
-Filename: ./debs/com.BADR.topphone2_1.0-3_iphoneos-arm.deb
-Size: 1588602
-MD5sum: 3f5622b4a761e79b55cdf9a2545f22ed
-SHA1: 9e5ae54279c5364f42c4ac3dd0029aea065126f0
-SHA256: 1736ac942913a4920b61ce1136de48c3edd9f47ead6e4dabad8e675a0ab91596
+Filename: ./debs/com.BADR.topphone2_1.0-4_iphoneos-arm.deb
+Size: 1593530
+MD5sum: dab6bb2b32dd43bfb76620b1baf0a8ad
+SHA1: 18260f8531d288d647d8a7302d38f89928ab60c6
+SHA256: 836430f4b1d7ab522fe20a724f9d5a324b404f9a5610fb66c8dfaee06f7f533b
 Section: Tweaks
 Description: تخصيص ألوان هاتفك ولكثير من مميزات😍🔥
-Author: BADR~
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
-Installed-Size: 2388
+Installed-Size: 2408
 Name: TOPphone
 Priority: optional
 dev: BADR
@@ -1706,6 +1897,23 @@ Name: TwiCol
 Priority: optional
 dev: BADR
 
+Package: com.BADR.unalkuru
+Version: 3.7.6
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.unalkuru_3.7.6_iphoneos-arm.deb
+Size: 12751108
+MD5sum: 4e023e65c5db4c54d98509fcd3ce8acb
+SHA1: 0fe75d00b94b0b8adce017c00cf69f98b8d5967c
+SHA256: 5a9930d500b90fb39edb55416362b4577b5862ead848daa1984dbf725cc51e14
+Section: Themes
+Description: موضوع لي شاشتك بسيط وحديث خلفية جميل 😍شكل داكن
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/Themes/Darkx.theme/icon@3x.png
+Name: KarlaDiaz
+
 Package: com.BADR.videoswipes
 Version: 1.4-1
 Architecture: iphoneos-arm
@@ -1745,36 +1953,38 @@ Installed-Size: 152
 Name: WA NoSuggestions
 
 Package: com.BADR.watusitools
-Version: 2.1.20
+Version: 2.1.21
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: firmware (>= 9.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/com.BADR.watusitools_2.1.20_iphoneos-arm.deb
-Size: 13853124
-MD5sum: d86b30ed901030a419cdff483e3dd7fd
-SHA1: c298b3687398f5a3a7c78deaa0dd3de770cb2801
-SHA256: 6d9064e7c0eea5ada77c0cf9709360e134d214bd4a61a89a9774eb498494f275
+Filename: ./debs/com.BADR.watusitools_2.1.21_iphoneos-arm.deb
+Size: 13853140
+MD5sum: bf6e42ede584e2b684234bedf0ba5976
+SHA1: 38ea2c0bc212d7356e7cb9dfa53d02b113b988a6
+SHA256: addc55ca1c7123e65dc189067b0a58a01a54f495776cccdd09da45372ae41306
 Section: Development
 Description: اداه مساعد لي اداه واتسي لكي تشتغل الاداه واتسي بصوره صحيح🔥
-Author: BADR~
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
 Name: WatusiTools
-Sponsor: BADR
+Sponsor: BADR~
 
 Package: com.BADR.watusi
-Version: 1.2.39
+Version: 1.2.40
 Architecture: iphoneos-arm
-Maintainer: BADR~<https://badr170.github.io/repo>
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.20), com.rpetrich.rocketbootstrap, applist
+Maintainer: BADR<https://badr170.github.io/repo>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.21), com.rpetrich.rocketbootstrap, applist
 Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.BADR.watusi_1.2.39_iphoneos-arm.deb
-Size: 4956508
-MD5sum: 2476b6bc4d94edc9982b9a501c11be63
-SHA1: c586b82022b75944a94a1ea5700396e5f1c1b900
-SHA256: 5508c6a9adf5a9dbe86958185f9e4caccb4846292af642280f38f0ffdc5afa9e
+Filename: ./debs/com.BADR.watusi_1.2.40_iphoneos-arm.deb
+Size: 4964582
+MD5sum: 6918c419c054f90035c6e8da8f63e11d
+SHA1: df841e83f0d8b0a396dc11728fc3c014efb01db9
+SHA256: 0ed7aa263db715c54c4c7946ad60a4b60559fae621b0464a380d34bf9af7a5cb
 Section: Tweaks
 Description: الاداه واتسي لي تطبيق الوتساب كثيررا من مميزات🔥👻
-Author: BADR~
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
@@ -1820,6 +2030,23 @@ Name: WhatCol
 Priority: optional
 dev: BADR
 
+Package: com.BADR.Wheel13
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.Wheel13_1.3.3_iphoneos-arm.deb
+Size: 100915880
+MD5sum: 9307540ab1801687e16066175b07b04f
+SHA1: 9d4fb868ea52c47fbe062de189efbf50bc43e2fe
+SHA256: 5f90e109ec5bf109f5ea65898fa47ed1cf2ee17e166d34c1ba599fa6fdc97e7a
+Section: Themes
+Description: موضوع بسيط وحديث خلفية جميل الوضع داكن🔥😍(مطوره)
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/Themes/Wheel 13.theme/icon@3x.png
+Name: Wheel 13
+
 Package: com.BADR.xenhtml
 Version: 1.1.5~release
 Architecture: iphoneos-arm
@@ -1858,4 +2085,21 @@ Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Installed-Size: 1072
 Name: XenInfo
+
+Package: com.BADR.youtubekiller
+Version: 2.8.2-1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, preferenceloader, com.yourepo.ikghd.adb, me.alfhaily.cercube
+Filename: ./debs/com.BADR.youtubekiller_2.8.2-1_iphoneos-arm.deb
+Size: 205956
+MD5sum: 4f976b30698ccb229de417de04da38bd
+SHA1: 269bdee53026664ebf38c1917f8948c7a6ade36a
+SHA256: e37d1e27787723caa00f7694a3add0b240f75380c319fce4c05cd595685f2ff6
+Section: Tweaks
+Description: تطبيق يوتيوب بدون إعلانات وتشغيل الخلفية وأسلوب واجهة مستخدم ايباد!😍ولكثير من مميزات
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Name: YouTubeKiller
 
