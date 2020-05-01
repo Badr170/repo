@@ -1159,22 +1159,22 @@ Icon: file:///Library/Themes/KarlaDiaz Circle 13.theme/icon@3x.png
 Name: KarlaDiaz Circle 13
 
 Package: com.BADR.lastlook
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: BADR<https://badr170.github.io/repo>
+Maintainer: BADR <https://badr170.github.io/repo/>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12.0)
-Filename: ./debs/com.BADR.lastlook_1.0.1_iphoneos-arm.deb
-Size: 131934
-MD5sum: b0b78cfc79ab7955cc962b7c93912dcb
-SHA1: a9c5c09fca77ce15de9b4533f7db672a6c1a16c2
-SHA256: 96ec3604d92f83fcd9a72fec67759a7a8728e9dcb438870bab850d318d9fc719
+Filename: ./debs/com.BADR.lastlook_1.1_iphoneos-arm.deb
+Size: 146164
+MD5sum: cd0365899a68c2c6ad8b1eabd48f0211
+SHA1: 4dc7a559254964995bd44cdb41edfd28c13184f8
+SHA256: 2db90ae8294f43fb09c05ba296617eb1ba2c2a278cd23b89a651183d75558be0
 Section: Tweaks
-Description: نظرة أخيرة على مركز الإشعارات الخاص بك عندما تقوم بقفل هاتفك 😁
+Description: نظرةأخيرة على مركز الإشعارات الخاص بك عندما تقوم بقفل هاتفك 😁
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/LastLookPrefs.bundle/icon@2x.png
-Installed-Size: 472
+Installed-Size: 576
 Name: LastLook
 
 Package: com.BADR.libcscolorpicker

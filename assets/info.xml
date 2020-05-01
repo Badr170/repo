@@ -2521,9 +2521,9 @@
 </package>
 
 <package>
-	<id>com.BADR.lastlook_1.0.1_iphoneos-arm.deb</id>
+	<id>com.BADR.lastlook_1.1_iphoneos-arm.deb</id>
 	<name>LastLook</name>
-	<version>1.0.1</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
