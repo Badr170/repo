@@ -422,23 +422,23 @@ Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
 Name: CacheWipe
 
 Package: com.BADR.callbarxs
-Version: 3.1-173
+Version: 3.2-17
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12)
 Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/com.BADR.callbarxs_3.1-173_iphoneos-arm.deb
-Size: 482812
-MD5sum: 4877792ab8d14647ebce2472c650bfa9
-SHA1: e17d5618fc69e61cf6ec519321257655a9079b9c
-SHA256: 049359a26b5728c24a5f631b07bdc4af5aa57881bb51136185a340238fc94acc
+Filename: ./debs/com.BADR.callbarxs_3.2-17_iphoneos-arm.deb
+Size: 491408
+MD5sum: 23f1c00e4e5b94081125c054f94a2352
+SHA1: af9cea7de9a8d3ef850f42cabbb6ce3e95e4ad14
+SHA256: cf1cdae37078127eb13cec2ab75cf7478a87d6231877eb7f5e27d1a3916e9f6d
 Section: Tweaks
 Description: لاتدع المكالمات الواردة تقاطعك ! في شاشتك او متصفك او عندما تتصفح تويتر🔥
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Installed-Size: 1516
+Installed-Size: 1520
 Name: CallBar XS (iOS 12/13)
 
 Package: com.BADR.camcontrolsx
@@ -509,6 +509,28 @@ Author: BADR~
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: CellDia
+
+Package: com.BADR.cephei
+Version: 1.15
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: com.rpetrich.rocketbootstrap, firmware (>= 13.0) | jp.ashikase.techsupport
+Filename: ./debs/com.BADR.cephei_1.15_iphoneos-arm.deb
+Size: 363290
+MD5sum: cfa1b9610fdf652db7b1fc210e011384
+SHA1: 0e37eebd22944d35bf6ac62f13a15ec8c25b9d58
+SHA256: c7fddc89632e13ea1a45f1c55572578474e6ff061bccf604b49f492ab6d2aa0f
+Section: Development
+Description: مكتبة دعم القرص الادوات🖌
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Installed-Size: 1928
+Name: Cephei
+Support: BADR
+Tag: role::developer, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: BADR
 
 Package: com.BADR.cercube
 Version: 5.1.17
@@ -708,16 +730,16 @@ dev: lucaluca86
 Package: com.BADR.cydown
 Version: 7.0.9
 Architecture: iphoneos-arm
-Maintainer: BADR~https://www.sarhne.com/badr170
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/com.BADR.cydown_7.0.9_iphoneos-arm.deb
-Size: 1080
-MD5sum: 1c3b891911a068e34cf8c01c092564ed
-SHA1: 8f5b4fd7f9eb5c12294c9cab18021cc740b3f0ea
-SHA256: bccc7124ae24e5973a5918d42346a301b5798dcdade7b097005b7bce60101247
+Size: 3398626
+MD5sum: e9d10c559b55378ade1ebe4ac7329663
+SHA1: 4a6e338d54f398a1d6e27b0adddd74fbbfa2fa34
+SHA256: 97e37f20dd1e748ef40ccfc943221615ff268a760891bc84e2a092e2dfd424af
 Section: Tweaks
-Description: الاداه اي اداه بفلوس تحملها بلاش بعض الادوات تقبل
-Author: BADR~
+Description: الاداه اي اداه بفلوس تحملها بلاش بعض الادوات تقبل وتقدر من خلالها اصلاح سيديا🤔
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
@@ -1120,16 +1142,16 @@ Tag: purpose::library, cydia::obsolete, compatible::ios9, compatible::ios10, com
 dev: Pasithea 2 (iOS 10 to 13)
 
 Package: com.BADR.KarlaDiazCircle13
-Version: 1.1.4
+Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.4_iphoneos-arm.deb
-Size: 21615378
-MD5sum: 72e6db45a58c51f53f6fa62fcc3ea143
-SHA1: 45dc462ecafc0ef40224cb1d744cd79206c8973b
-SHA256: befd059632456a7eb7d8c44f45894fdc50290bd5cd5997a078c7f271c217fb8b
+Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.5_iphoneos-arm.deb
+Size: 22037098
+MD5sum: eaf3144ec34b134b336a9f932f6b1e0e
+SHA1: faf70c5cb979025bd7f10fda1161039ac191bece
+SHA256: 2c39dd89dcb1d5d0d023d1ae6c6ed678208374d77cb75af0781e8bcc9b4dff07
 Section: Themes
-Description: موضوع بسيط وحديث خلفية جميل والوضع داكن😍🔥
+Description: موضوع بسيط وحديث خلفية جميل والوضع داكن🌟
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
@@ -1229,19 +1251,21 @@ Name: libsparkcolourpicker
 Tag: role::developer
 
 Package: com.BADR.libtapsharp
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: mobilesubstrate, firmware (>= 11.2), applist
-Filename: ./debs/com.BADR.libtapsharp_1.0.2_iphoneos-arm.deb
-Size: 703798
-MD5sum: ff8b0a0493ce65a2dd0a1877b4ba9a79
-SHA1: a49e3e887ca60503f643a5d6836219f23985717a
-SHA256: 19f2e15dab59251d4dbd7fa7cd3d55de0c2ca9daed7e7e6293a057e32788e0b7
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, firmware (>= 11.2)
+Filename: ./debs/com.BADR.libtapsharp_1.0.3_iphoneos-arm.deb
+Size: 737150
+MD5sum: 52750295382057939645e5bf19dbd549
+SHA1: af7c334fa656e1eed6ed2331b2099b6c907b54a9
+SHA256: b24ecefce95f59c17a5af749acf9be460a4e90c7b87675cf57bb7258328d6df9
 Section: System
-Description: Switcher أدوات مشتركة لسطح متوهج هذا مساعد لي الاداه
-Author: BADR~
-Installed-Size: 860
+Description: Switcher أدوات مشتركة لسطح متوهج هذا مساعد لي الاداه🙂
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 944
 Name: libTapSharp
 Tag: role::developer
 
@@ -1615,22 +1639,22 @@ Homepage: https://www.sarhne.com/badr170
 Name: roundPrefs
 
 Package: com.BADR.safarifeatures
-Version: 1.2
+Version: 1.2-1
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.BADR.safarifeatures_1.2_iphoneos-arm.deb
-Size: 44988
-MD5sum: 1236413de7e1d73211c4609897d449a0
-SHA1: 6ca8219720d4844e7ab1f3b34f7df6e094c5f0ce
-SHA256: 5279a3538b8c1574b8f5600af9e25159b0f6d4f436ed06ac5db01ec515f5d441
+Filename: ./debs/com.BADR.safarifeatures_1.2-1_iphoneos-arm.deb
+Size: 45106
+MD5sum: 6e69a9cda784ee2ea503a82c8d6218a5
+SHA1: d15c29b81b2dc0270742527787ea4424e10a7575
+SHA256: 7d80a6d16d0aa2e6cca29064b9ff1a396c99d6d8d8d0e9adfc5a0d546b6db3eb
 Section: Tweaks
-Description: تتفعل تلقائي بدون اعدادات زي تصفح ايباد😍
+Description: تتفعل تلقائي بدون اعدادات زي تصفح ايباد🔥
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/SafariFeatures.bundle/Icons/Safari@3x.png
-Installed-Size: 251
+Installed-Size: 239
 Name: Safari Features
 Sponsor: BADR
 Tag: purpose::extension, compatible::ios13
@@ -1806,18 +1830,18 @@ Installed-Size: 156
 Name: Snapper2 CC Toggle
 
 Package: com.BADR.switcher
-Version: 1.1.3.1
+Version: 1.1.4
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: mobilesubstrate, firmware (>= 11.2), com.tapsharp.libtapsharp (>= 1.0.2), com.rpetrich.rocketbootstrap (>= 1.0.3), applist, ws.hbang.alderis (>= 1.0) | org.thebigboss.libcolorpicker (>= 1.6.7)
-Filename: ./debs/com.BADR.switcher_1.1.3.1_iphoneos-arm.deb
-Size: 137564
-MD5sum: ad1c9525f80086b7d9b76584a568a314
-SHA1: 25181071b7e645caa92197daf6d52c2a09d7b472
-SHA256: 95cf17659d533fbcb376f847ed0a0fe6071b0d5c63114f070949cfce9ef7dfb0
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, firmware (>= 11.2), com.tapsharp.libtapsharp (>= 1.0.3), com.rpetrich.rocketbootstrap (>= 1.0.3), applist, ws.hbang.alderis (>= 1.0) | org.thebigboss.libcolorpicker (>= 1.6.7)
+Filename: ./debs/com.BADR.switcher_1.1.4_iphoneos-arm.deb
+Size: 144200
+MD5sum: 5f7274e7b70bbc9429b03e6c9170e051
+SHA1: 002ca9fcf2f5e49375de70b3d4f7aa47e6ea2cbe
+SHA256: 6bff8abbdc605774258bb7c041ff0515c8fe17f0e873c593ed980214b316507a
 Section: Tweaks
-Description: قم بالتبديل إلى تطبيق مختلف من أي مكان على جهاز iOS الخاص بك🔥
-Author: BADR~
+Description: قم بالتبديل إلى تطبيق مختلف من أي مكان على جهاز iOS الخاص بك👻
+Author: BADR
 Icon: file:///Library/Application Support/Switcher/icon@2x.png
 Installed-Size: 544
 Name: Switcher

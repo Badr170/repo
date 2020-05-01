@@ -311,9 +311,9 @@
 </package>
 
 <package>
-	<id>com.BADR.libtapsharp_1.0.2_iphoneos-arm.deb</id>
+	<id>com.BADR.libtapsharp_1.0.3_iphoneos-arm.deb</id>
 	<name>libTapSharp</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -337,9 +337,9 @@
 </package>
 
 <package>
-	<id>com.BADR.switcher_1.1.3.1_iphoneos-arm.deb</id>
+	<id>com.BADR.switcher_1.1.4_iphoneos-arm.deb</id>
 	<name>Switcher</name>
-	<version>1.1.3.1</version>
+	<version>1.1.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -597,9 +597,9 @@
 </package>
 
 <package>
-	<id>com.BADR.safarifeatures_1.2_iphoneos-arm.deb</id>
+	<id>com.BADR.safarifeatures_1.2-1_iphoneos-arm.deb</id>
 	<name>Safari Features</name>
-	<version>1.2</version>
+	<version>1.2-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1247,9 +1247,9 @@
 </package>
 
 <package>
-	<id>com.BADR.callbarxs_3.1-173_iphoneos-arm.deb</id>
+	<id>com.BADR.callbarxs_3.2-17_iphoneos-arm.deb</id>
 	<name>CallBar XS (iOS 12/13)</name>
-	<version>3.1-173</version>
+	<version>3.2-17</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2677,9 +2677,9 @@
 </package>
 
 <package>
-	<id>com.BADR.KarlaDiazCircle13_1.1.4_iphoneos-arm.deb</id>
+	<id>com.BADR.KarlaDiazCircle13_1.1.5_iphoneos-arm.deb</id>
 	<name>KarlaDiaz Circle 13</name>
-	<version>1.1.4</version>
+	<version>1.1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2871,6 +2871,32 @@
 	</compatibility>
 	<dependencies>
 		<package>com.BADR.youtubekiller</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.cephei_1.15_iphoneos-arm.deb</id>
+	<name>Cephei</name>
+	<version>1.15</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.cephei</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
