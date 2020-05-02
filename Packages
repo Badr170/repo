@@ -422,23 +422,23 @@ Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
 Name: CacheWipe
 
 Package: com.BADR.callbarxs
-Version: 3.2-17
+Version: 3.2-50
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12)
 Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/com.BADR.callbarxs_3.2-17_iphoneos-arm.deb
-Size: 491408
-MD5sum: 23f1c00e4e5b94081125c054f94a2352
-SHA1: af9cea7de9a8d3ef850f42cabbb6ce3e95e4ad14
-SHA256: cf1cdae37078127eb13cec2ab75cf7478a87d6231877eb7f5e27d1a3916e9f6d
+Filename: ./debs/com.BADR.callbarxs_3.2-50_iphoneos-arm.deb
+Size: 506586
+MD5sum: 1f6f4e0bc913ab87c16b76ddea85ee87
+SHA1: 84dac643b42f86c467ea8035a3749a15207ebb7d
+SHA256: 026855c6a4e2a62563492310134914d5aa15a7e07527e8e2dcaffc66a5fff932
 Section: Tweaks
 Description: لاتدع المكالمات الواردة تقاطعك ! في شاشتك او متصفك او عندما تتصفح تويتر🔥
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Installed-Size: 1520
+Installed-Size: 1588
 Name: CallBar XS (iOS 12/13)
 
 Package: com.BADR.camcontrolsx

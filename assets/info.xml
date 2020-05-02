@@ -1247,9 +1247,9 @@
 </package>
 
 <package>
-	<id>com.BADR.callbarxs_3.2-17_iphoneos-arm.deb</id>
+	<id>com.BADR.callbarxs_3.2-50_iphoneos-arm.deb</id>
 	<name>CallBar XS (iOS 12/13)</name>
-	<version>3.2-17</version>
+	<version>3.2-50</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>

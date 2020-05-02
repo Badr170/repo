@@ -4635,7 +4635,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "3.2-17",
+				"text": "3.2-50",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -4688,7 +4688,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "3.2-17",
+				"title": "3.2-50",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
