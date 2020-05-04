@@ -415,9 +415,9 @@
 </package>
 
 <package>
-	<id>com.BADR.edge_2.2.1_iphoneos-arm.deb</id>
+	<id>com.BADR.edge_2.3_iphoneos-arm.deb</id>
 	<name>Edge</name>
-	<version>2.2.1</version>
+	<version>2.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -597,9 +597,9 @@
 </package>
 
 <package>
-	<id>com.BADR.safarifeatures_1.2-1_iphoneos-arm.deb</id>
+	<id>com.BADR.safarifeatures_1.3.1_iphoneos-arm.deb</id>
 	<name>Safari Features</name>
-	<version>1.2-1</version>
+	<version>1.3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1117,9 +1117,9 @@
 </package>
 
  <package>
-	<id>com.BADR.systeminfo_2.3.4-5+debug_iphoneos-arm.deb</id>
+	<id>com.BADR.systeminfo_2.7.2_iphoneos-arm.deb</id>
 	<name>System Info</name>
-	<version>2.3.4-5+debug</version>
+	<version>2.7.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1247,9 +1247,9 @@
 </package>
 
 <package>
-	<id>com.BADR.callbarxs_3.2-50_iphoneos-arm.deb</id>
+	<id>com.BADR.callbarxs_3.2-67_iphoneos-arm.deb</id>
 	<name>CallBar XS (iOS 12/13)</name>
-	<version>3.2-50</version>
+	<version>3.2-67</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2027,9 +2027,9 @@
 </package>
 
 <package>
-	<id>com.BADR.prysmdevycc_1.8_iphoneos-arm.deb</id>
+	<id>com.BADR.prysmdevycc_1.9_iphoneos-arm.deb</id>
 	<name>Prysm DevyCC</name>
-	<version>1.8</version>
+	<version>1.9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2897,6 +2897,58 @@
 	</compatibility>
 	<dependencies>
 		<package>com.BADR.cephei</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.dockx_1.0.1_iphoneos-arm.deb</id>
+	<name>DockX</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.dockx</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.complications_3.1_iphoneos-arm.deb</id>
+	<name>Complications</name>
+	<version>3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.complications</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>

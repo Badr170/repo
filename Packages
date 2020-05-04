@@ -422,24 +422,27 @@ Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
 Name: CacheWipe
 
 Package: com.BADR.callbarxs
-Version: 3.2-50
+Version: 3.2-67
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions
 Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/com.BADR.callbarxs_3.2-50_iphoneos-arm.deb
-Size: 506586
-MD5sum: 1f6f4e0bc913ab87c16b76ddea85ee87
-SHA1: 84dac643b42f86c467ea8035a3749a15207ebb7d
-SHA256: 026855c6a4e2a62563492310134914d5aa15a7e07527e8e2dcaffc66a5fff932
+Filename: ./debs/com.BADR.callbarxs_3.2-67_iphoneos-arm.deb
+Size: 511834
+MD5sum: 6ece737d8291a308863ad3d9e7156051
+SHA1: 15007b20c1182161930e795874be06528b18617e
+SHA256: 38bdeb6e5dbef330ee058cb6459516abef425b4d0f71ff04c80a5f4e989f690f
 Section: Tweaks
 Description: لاتدع المكالمات الواردة تقاطعك ! في شاشتك او متصفك او عندما تتصفح تويتر🔥
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Installed-Size: 1588
+Installed-Size: 1612
 Name: CallBar XS (iOS 12/13)
+Sponsor: BADR
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: BADR
 
 Package: com.BADR.camcontrolsx
 Version: 1.0.2
@@ -612,6 +615,24 @@ Author: BADR~
 Installed-Size: 128
 Name: Compatimark
 Tag: purpose::extension, compatible_min::ios9, compatible_max::ios11.4
+
+Package: com.BADR.complications
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate
+Filename: ./debs/com.BADR.complications_3.1_iphoneos-arm.deb
+Size: 752622
+MD5sum: cafb773e62f9d49ae672c3a39f0bd0be
+SHA1: ce0aea93a030b25a2a7c5aa6611f1bab136119ac
+SHA256: d92001e998ca4472565b176a5579b0eeb725d100a41903c1aa2994aeb727bfe8
+Section: Tweaks
+Description: الحاجيات مشاهدة نظام التشغيل على شاشة القفل الخاص بك🤩
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 2624
+Name: Complications
 
 Package: com.BADR.corona-status
 Version: 1.3
@@ -787,6 +808,26 @@ Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 Installed-Size: 11712
 Name: DLEasy
 
+Package: com.BADR.dockx
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, firmware(>=12.0)
+Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar
+Filename: ./debs/com.BADR.dockx_1.0.1_iphoneos-arm.deb
+Size: 63624
+MD5sum: 21218497dfcb1f0993fbc86cf559ff38
+SHA1: 974422601a16a963d8bc14e593e601bbae8d5106
+SHA256: 47e4b0f677c653b097347294f068ab35e350d36aa93dd9159b6916d81331eca7
+Section: Tweaks
+Description: اختصارات كيبورد اللصق و نسخ و قص وتراجع افضل من الاداه مدفوعهActionBar 👻
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Installed-Size: 340
+Name: DockX
+
 Package: com.BADR.downloadbar13
 Version: 1.0
 Architecture: iphoneos-arm
@@ -827,22 +868,22 @@ SileoDepiction: Sileo.BADR.repo
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
 
 Package: com.BADR.edge
-Version: 2.2.1
+Version: 2.3
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: mobilesubstrate, firmware (>=11.0), com.spark.libsparkcolourpicker
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, firmware (>=11.0), com.spark.libsparkcolourpicker, com.opa334.ccsupport, ws.hbang.common (>=1.14)
 Conflicts: com.junesiphone.lockpluspro
-Filename: ./debs/com.BADR.edge_2.2.1_iphoneos-arm.deb
-Size: 269832
-MD5sum: 0691ff586c1b9ef682e0ad8d597165dd
-SHA1: 2a772b158ddf70a42d1c0b4d017de062415326e1
-SHA256: 8f130313fc76e8722ef9f1fb433e1201b616c74fe549174aa6fad371736a24c8
+Filename: ./debs/com.BADR.edge_2.3_iphoneos-arm.deb
+Size: 287662
+MD5sum: f7663eba46c6d1a93d70213eac1f023b
+SHA1: 5aeec6bb28dc337239f27bde60780ab2079c65b2
+SHA256: efe4889a655db9a0074117a573019c4120bad26a1e458ad70081e8b9e5ae6791
 Section: Tweaks
-Description: إضافة اطار الوان على شاشتك👻📱
+Description: إضافة اطار الوان على شاشتك👻📱 لونها🖌
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
-Installed-Size: 628
+Installed-Size: 796
 Name: Edge
 
 Package: com.BADR.fixappadmin
@@ -1566,17 +1607,17 @@ Name: PrefixUI
 Tag: role::developer
 
 Package: com.BADR.prysmdevycc
-Version: 1.8
+Version: 1.9
 Architecture: iphoneos-arm
-Maintainer: BADR~<https://badr170.github.io/repo>
-Filename: ./debs/com.BADR.prysmdevycc_1.8_iphoneos-arm.deb
-Size: 1210710
-MD5sum: 4661dbd04ab347d9b81f5d9ca6b83194
-SHA1: bc9b6bb8643fab93e7282a8bce534b51ef756652
-SHA256: 8bc9fd6f0c743f24c5594e1b562d4560d73761b3f017eb325d1f4ec85b880b35
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.prysmdevycc_1.9_iphoneos-arm.deb
+Size: 1224432
+MD5sum: 6ce65391294ebc00ec375f9aba98d6f5
+SHA1: 2d2beb4432fbb9d6a41f0aa9f1b178eb03bf0b23
+SHA256: 4e5d702f58323662d6973a93e0fa19249bf9380b24f50ad661304e8cd7979c4c
 Section: Themes
 Description: بأجمل أسلوب لي مركز تحكم🔥
-Author: BADR~
+Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: Prysm DevyCC
@@ -1639,22 +1680,22 @@ Homepage: https://www.sarhne.com/badr170
 Name: roundPrefs
 
 Package: com.BADR.safarifeatures
-Version: 1.2-1
+Version: 1.3.1
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.BADR.safarifeatures_1.2-1_iphoneos-arm.deb
-Size: 45106
-MD5sum: 6e69a9cda784ee2ea503a82c8d6218a5
-SHA1: d15c29b81b2dc0270742527787ea4424e10a7575
-SHA256: 7d80a6d16d0aa2e6cca29064b9ff1a396c99d6d8d8d0e9adfc5a0d546b6db3eb
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.BADR.safarifeatures_1.3.1_iphoneos-arm.deb
+Size: 48078
+MD5sum: 447ae8a23a409a38211b190a9507e413
+SHA1: b70bda4c08b9e7ce3bc116a9c3d3657550bc7fd4
+SHA256: 8f3af4fbb2e23dde700db056e129f2ded8cf578a03c9ca3c215c46e2c4b07368
 Section: Tweaks
-Description: تتفعل تلقائي بدون اعدادات زي تصفح ايباد🔥
+Description: تخصيص ميزات سفاري في أجهزة ايفون📱 و ايباد والتي تدعم ايباد iOS 12 - 13👻
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/SafariFeatures.bundle/Icons/Safari@3x.png
-Installed-Size: 239
+Installed-Size: 245
 Name: Safari Features
 Sponsor: BADR
 Tag: purpose::extension, compatible::ios13
@@ -1847,22 +1888,22 @@ Installed-Size: 544
 Name: Switcher
 
 Package: com.BADR.systeminfo
-Version: 2.3.4-5+debug
+Version: 2.7.2
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate
-Filename: ./debs/com.BADR.systeminfo_2.3.4-5+debug_iphoneos-arm.deb
-Size: 583504
-MD5sum: 744258df1393bedcf7f110c352b65044
-SHA1: b0397357b43cd154e68fa5c8c6d9e19e04d6acd3
-SHA256: f2512054486f0c9b2dea8d9e128fcd40acc66715c032170a5a11ae1dd5630d7d
+Filename: ./debs/com.BADR.systeminfo_2.7.2_iphoneos-arm.deb
+Size: 426972
+MD5sum: a2c32f5c3125df09dc19e0dd87a2ca04
+SHA1: 40fbb99dd95769aab5e2041376db9dd3dd3fbc04
+SHA256: 08b5deb4dd4891837336f542a434921164b1bda6a738481804487fcc3b7b0053
 Section: Tweaks
-Description: معلومات النظام في تطبيق الإعدادات> عام> حول ، وغيرها لعرض معلومات ايفون
-Author: BADR~
-Installed-Size: 1948
+Description: معلومات النظام في تطبيق الإعدادات> عام> حول وأقسام أخرى. قم بتعيين التمهيد  حفظ ، وحفظ ومعلومات البطارية SHSH البطارية ، إلخ
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 1316
 Name: System Info
-Tags: settings, specs, system data
-Targets: {"Settings App":["About View"]}
 
 Package: com.BADR.topphone2
 Version: 1.0-4
