@@ -809,23 +809,23 @@ Installed-Size: 11712
 Name: DLEasy
 
 Package: com.BADR.dockx
-Version: 1.0.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, firmware(>=12.0)
-Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar
-Filename: ./debs/com.BADR.dockx_1.0.1_iphoneos-arm.deb
-Size: 63624
-MD5sum: 21218497dfcb1f0993fbc86cf559ff38
-SHA1: 974422601a16a963d8bc14e593e601bbae8d5106
-SHA256: 47e4b0f677c653b097347294f068ab35e350d36aa93dd9159b6916d81331eca7
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.BADR.dockx_1.1.1_iphoneos-arm.deb
+Size: 83620
+MD5sum: 40e39a81a33ff8208593df10ec222c64
+SHA1: f793864df1c5c7b9abecfe5e7299c45cfd96fe40
+SHA256: 3f24ea643b77c61e5764335732cbd301bc2420727df5c87f5da1ab752638e7fa
 Section: Tweaks
 Description: اختصارات كيبورد اللصق و نسخ و قص وتراجع افضل من الاداه مدفوعهActionBar 👻
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Installed-Size: 340
+Installed-Size: 404
 Name: DockX
 
 Package: com.BADR.downloadbar13
@@ -1161,6 +1161,27 @@ Sponsor: BADR
 Tag: purpose::extension, compatible::ios10, compatible::ios11
 dev: BADR
 
+Package: com.BADR.kalm
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum
+Filename: ./debs/com.BADR.kalm_1.3.4_iphoneos-arm.deb
+Size: 314380
+MD5sum: eaed7379cbbb3e9692440d0c9f5be691
+SHA1: d797e60c85d1597838ee052ec619a6e529fb5bdc
+SHA256: b5af2d5dab42d855ba9938e621d526e553d3f423aa5863c93ca9d7b5a9f436d8
+Section: Tweaks
+Description: اعادة تصميم شاشةالقفل ‏لتصبح بشكل جميل وأنيق جداً👻
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Installed-Size: 980
+Name: Kalm
+Tag: cydia::commercial, compatible::ios12, compatible::ios13
+
 Package: com.BADR.karenlocalizer
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -1183,21 +1204,58 @@ Tag: purpose::library, cydia::obsolete, compatible::ios9, compatible::ios10, com
 dev: Pasithea 2 (iOS 10 to 13)
 
 Package: com.BADR.KarlaDiazCircle13
-Version: 1.1.5
+Version: 1.1.6
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.5_iphoneos-arm.deb
-Size: 22037098
-MD5sum: eaf3144ec34b134b336a9f932f6b1e0e
-SHA1: faf70c5cb979025bd7f10fda1161039ac191bece
-SHA256: 2c39dd89dcb1d5d0d023d1ae6c6ed678208374d77cb75af0781e8bcc9b4dff07
+Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.6_iphoneos-arm.deb
+Size: 22713872
+MD5sum: 0bc791b1a969c27895c0537348782890
+SHA1: da3f0df52a54f424eabdf12961113c4dbbd236ec
+SHA256: ce98d4770edfb8246c90519e7140be690426e6dbfae30c17d75e16ff09848515
 Section: Themes
-Description: موضوع بسيط وحديث خلفية جميل والوضع داكن🌟
+Description: موضوع بسيط وحديث ثيم جميل والوضع داكن🌟
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/Themes/KarlaDiaz Circle 13.theme/icon@3x.png
 Name: KarlaDiaz Circle 13
+
+Package: com.BADR.KarlaDiaz
+Version: 3.7.7
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.KarlaDiaz_3.7.7_iphoneos-arm.deb
+Size: 12896166
+MD5sum: 691fd14839d919d07c55f02bd183e78f
+SHA1: beab2f1791ba71b42b533a3caa9ed692a53c5248
+SHA256: e403a62786a4017607f65f5e39d05169444c925fb961ec8eaa19df63a46adde6
+Section: Themes
+Description: موضوع بسيط وحديث ثيم جميل والوضع داكن👻
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/Themes/Darkx.theme/icon@3x.png
+Name: KarlaDiaz
+
+Package: com.BADR.keyboardcolor
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.BADR.keyboardcolor_1.0-2_iphoneos-arm.deb
+Size: 744606
+MD5sum: bb712c9c88ecdcc5fd3316bbd3d4ee3d
+SHA1: 060586c00edc06626e5b7a73882cd263e95e37c8
+SHA256: 8de42a1928f7fe67658fa8ac547179de73a9fedc8112d0e0e44d5a0ae45f4760
+Section: Tweaks
+Description: تخصيص ألوان لوحة المفاتيح واضافة ميزة نسخ ولصق🔥تفعيلها من داخل اداه
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 996
+Name: KeyboardColor
+Priority: optional
+dev: BADR
 
 Package: com.BADR.lastlook
 Version: 1.1
@@ -1816,16 +1874,16 @@ Priority: optional
 dev: BADR
 
 Package: com.BADR.shadow13
-Version: 1.3.7
+Version: 1.3.8
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.shadow13_1.3.7_iphoneos-arm.deb
-Size: 40838130
-MD5sum: 7fe8ff6b2990185035a04ad946c1a505
-SHA1: 74252ed55b3e05663d749cdce37a0317b1dcb0cf
-SHA256: 6fa651d180afcf14da6ef7bdb91c6f527175d4aea2fcdbb15b7ab5ba7bfb3345
+Filename: ./debs/com.BADR.shadow13_1.3.8_iphoneos-arm.deb
+Size: 40971366
+MD5sum: 2158fe4098b9d8992d1e108c56a4deac
+SHA1: 72dd66879d0482608c2241312d355669e9f4a51f
+SHA256: c7b59240fbcbb34219baf2852065669d83da594aa859cb0340454f5476498d13
 Section: Themes
-Description: موضوع بسيط وحديث خلفية جميل الوضع داكن😍🔥
+Description: موضوع بسيط وحديث ثيم جميل الوضع داكن😍🔥
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
@@ -1962,23 +2020,6 @@ Name: TwiCol
 Priority: optional
 dev: BADR
 
-Package: com.BADR.unalkuru
-Version: 3.7.6
-Architecture: iphoneos-arm
-Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.unalkuru_3.7.6_iphoneos-arm.deb
-Size: 12751108
-MD5sum: 4e023e65c5db4c54d98509fcd3ce8acb
-SHA1: 0fe75d00b94b0b8adce017c00cf69f98b8d5967c
-SHA256: 5a9930d500b90fb39edb55416362b4577b5862ead848daa1984dbf725cc51e14
-Section: Themes
-Description: موضوع لي شاشتك بسيط وحديث خلفية جميل 😍شكل داكن
-Author: BADR
-Depiction: Cydia.BADR.repo
-Homepage: https://www.sarhne.com/badr170
-Icon: file:///Library/Themes/Darkx.theme/icon@3x.png
-Name: KarlaDiaz
-
 Package: com.BADR.videoswipes
 Version: 1.4-1
 Architecture: iphoneos-arm
@@ -2096,14 +2137,14 @@ Priority: optional
 dev: BADR
 
 Package: com.BADR.Wheel13
-Version: 1.3.3
+Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.Wheel13_1.3.3_iphoneos-arm.deb
-Size: 100915880
-MD5sum: 9307540ab1801687e16066175b07b04f
-SHA1: 9d4fb868ea52c47fbe062de189efbf50bc43e2fe
-SHA256: 5f90e109ec5bf109f5ea65898fa47ed1cf2ee17e166d34c1ba599fa6fdc97e7a
+Filename: ./debs/com.BADR.Wheel13_1.3.4_iphoneos-arm.deb
+Size: 101283836
+MD5sum: b881858a269fdce41066727e5ea7e3ec
+SHA1: dde10a57c9e6e060b774c86003b6de353cacf2a8
+SHA256: 7cc7327501bf3e7b85cf3171506e8ca405ffe5f2b12206c249b8cb63f063f231
 Section: Themes
 Description: موضوع بسيط وحديث خلفية جميل الوضع داكن🔥😍(مطوره)
 Author: BADR
