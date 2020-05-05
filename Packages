@@ -809,16 +809,16 @@ Installed-Size: 11712
 Name: DLEasy
 
 Package: com.BADR.dockx
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, firmware(>=12.0)
 Conflicts: com.restiveconch.actionbar
-Filename: ./debs/com.BADR.dockx_1.1.1_iphoneos-arm.deb
-Size: 83620
-MD5sum: 40e39a81a33ff8208593df10ec222c64
-SHA1: f793864df1c5c7b9abecfe5e7299c45cfd96fe40
-SHA256: 3f24ea643b77c61e5764335732cbd301bc2420727df5c87f5da1ab752638e7fa
+Filename: ./debs/com.BADR.dockx_1.1.2_iphoneos-arm.deb
+Size: 84998
+MD5sum: 0ff241f6fdacb35bef42fcaad5da0f45
+SHA1: 989527bf50db89ad79a850f58946f281b5462e10
+SHA256: 4fc49b943cb00b274d78e9ccfb13e61cd7e4bf2945f608f8ea9be271e0849f2c
 Section: Tweaks
 Description: اختصارات كيبورد اللصق و نسخ و قص وتراجع افضل من الاداه مدفوعهActionBar 👻
 Author: BADR

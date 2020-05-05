@@ -2911,9 +2911,9 @@
 </package>
 
 <package>
-	<id>com.BADR.dockx_1.1.1_iphoneos-arm.deb</id>
+	<id>com.BADR.dockx_1.1.2_iphoneos-arm.deb</id>
 	<name>DockX</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>

@@ -10779,7 +10779,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.1.1",
+				"text": "1.1.2",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -10832,7 +10832,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.1.1",
+				"title": "1.1.2",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
