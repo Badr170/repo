@@ -698,7 +698,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.11-1",
+				"text": "1.13-1",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -751,7 +751,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.11-1",
+				"title": "1.13-1",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -1467,7 +1467,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.2.7",
+				"text": "1.2.8-1",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -1520,7 +1520,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.2.7",
+				"title": "1.2.8-1",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -1659,7 +1659,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "4.4-22",
+				"text": "4.4-45",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -1712,7 +1712,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "4.4-22",
+				"title": "4.4-45",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -6651,7 +6651,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "0.0.6",
+				"text": "0.0.9",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -6704,7 +6704,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "0.0.6",
+				"title": "0.0.9",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -8475,7 +8475,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.3",
+				"text": "1.4",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -8528,7 +8528,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.3",
+				"title": "1.4",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -9627,7 +9627,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "5.1.17",
+				"text": "5.1.18",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -9680,7 +9680,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "5.1.17",
+				"title": "5.1.18",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -9915,7 +9915,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.1.6",
+				"text": "1.1.8",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -9968,7 +9968,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.1.6",
+				"title": "1.1.8",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -10000,7 +10000,7 @@
 			},
 			{
 				"class": "DepictionMarkdownView",
-				"markdown": "libMRYIPC"
+				"markdown": "nControl"
 			},
 			{
 				"class": "DepictionSeparatorView"
@@ -10011,7 +10011,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.0",
+				"text": "1.4.0-19",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -10064,7 +10064,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.0",
+				"title": "1.4.0-19",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -10107,7 +10107,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.0.0",
+				"text": "1.1.0",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -10160,7 +10160,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.0.0",
+				"title": "1.1.0",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -10192,7 +10192,7 @@
 			},
 			{
 				"class": "DepictionMarkdownView",
-				"markdown": "Scorpion"
+				"markdown": "pubc"
 			},
 			{
 				"class": "DepictionSeparatorView"
@@ -10203,7 +10203,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.1",
+				"text": "1.8.2-22",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -10256,7 +10256,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.1",
+				"title": "1.8.2-22",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -10395,7 +10395,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "3.7.7",
+				"text": "3.7.8",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -10448,7 +10448,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "3.7.7",
+				"title": "3.7.8",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -10587,7 +10587,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "2.8.2-1",
+				"text": "3.0-9",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -10640,7 +10640,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "2.8.2-1",
+				"title": "3.0-9",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -10779,7 +10779,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.1.2",
+				"text": "1.2.0.1",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -10832,7 +10832,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.1.2",
+				"title": "1.2.0.1",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"

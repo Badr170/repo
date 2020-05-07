@@ -181,9 +181,9 @@
 </package>
 
 <package>
-	<id>com.BADR.sareth_1.11-1_iphoneos-arm.deb</id>
+	<id>com.BADR.sareth_1.13-1_iphoneos-arm.deb</id>
 	<name>Sareth</name>
-	<version>1.11-1</version>
+	<version>1.13-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -389,9 +389,9 @@
 </package>
 
 <package>
-	<id>com.BADR.lynx_1.2.7_iphoneos-arm.deb</id>
+	<id>com.BADR.lynx_1.2.8-1_iphoneos-arm.deb</id>
 	<name>Lynx</name>
-	<version>1.2.7</version>
+	<version>1.2.8-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -441,9 +441,9 @@
 </package>
 
 <package>
-	<id>com.BADR.bioprotectxs_4.4-22_iphoneos-arm.deb</id>
+	<id>com.BADR.bioprotectxs_4.4-45_iphoneos-arm.deb</id>
 	<name>BioProtect XS (iOS 12/13)</name>
-	<version>4.4-22</version>
+	<version>4.4-45</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -1793,9 +1793,9 @@
 </package>
 
 <package>
-	<id>com.BADR.blots_0.0.6_iphoneos-arm.deb</id>
+	<id>com.BADR.blots_0.0.9_iphoneos-arm.deb</id>
 	<name>Blots</name>
-	<version>0.0.6</version>
+	<version>0.0.9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2287,9 +2287,9 @@
 </package>
 
 <package>
-	<id>com.BADR.arch_1.3_iphoneos-arm.deb</id>
+	<id>com.BADR.arch_1.4_iphoneos-arm.deb</id>
 	<name>Arch</name>
-	<version>1.3</version>
+	<version>1.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2599,9 +2599,9 @@
 </package>
 
 <package>
-	<id>com.BADR.cercube_5.1.17_iphoneos-arm.deb</id>
+	<id>com.BADR.cercube_5.1.18_iphoneos-arm.deb</id>
 	<name>Cercube for YouTube</name>
-	<version>5.1.17</version>
+	<version>5.1.18</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2677,9 +2677,9 @@
 </package>
 
 <package>
-	<id>com.BADR.KarlaDiazCircle13_1.1.6_iphoneos-arm.deb</id>
+	<id>com.BADR.KarlaDiazCircle13_1.1.8_iphoneos-arm.deb</id>
 	<name>KarlaDiaz Circle 13</name>
-	<version>1.1.6</version>
+	<version>1.1.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2703,9 +2703,9 @@
 </package>
 
 <package>
-	<id>com.BADR.libmryipc_1.0_iphoneos-arm.deb</id>
-	<name>libMRYIPC</name>
-	<version>1.0</version>
+	<id>com.BADR.ncontrol_1.4.0-19_iphoneos-arm.deb</id>
+	<name>nControl</name>
+	<version>1.4.0-19</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2714,7 +2714,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.BADR.libmryipc</package>
+		<package>com.BADR.ncontrol</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
@@ -2729,9 +2729,9 @@
 </package>
 
 <package>
-	<id>com.BADR.multipla_1.0.0_iphoneos-arm.deb</id>
+	<id>com.BADR.multipla_1.1.0_iphoneos-arm.deb</id>
 	<name>Multipla</name>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2755,9 +2755,9 @@
 </package>
 
 <package>
-	<id>com.BADR.scorpion_1.1_iphoneos-arm.deb</id>
-	<name>Scorpion</name>
-	<version>1.1</version>
+	<id>com.BADR.pubc_1.8.2-22_iphoneos-arm.deb</id>
+	<name>pubc</name>
+	<version>1.8.2-22</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2766,7 +2766,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.BADR.scorpion</package>
+		<package>com.BADR.pubc</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
@@ -2807,9 +2807,9 @@
 </package>
 
 <package>
-	<id>com.BADR.KarlaDiaz_3.7.7_iphoneos-arm.deb</id>
+	<id>com.BADR.KarlaDiaz_3.7.8_iphoneos-arm.deb</id>
 	<name>KarlaDiaz</name>
-	<version>3.7.7</version>
+	<version>3.7.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2859,9 +2859,9 @@
 </package>
 
 <package>
-	<id>com.BADR.youtubekiller_2.8.2-1_iphoneos-arm.deb</id>
+	<id>com.BADR.youtubekiller_3.0-9_iphoneos-arm.deb</id>
 	<name>YouTubeKiller</name>
-	<version>2.8.2-1</version>
+	<version>3.0-9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -2911,9 +2911,9 @@
 </package>
 
 <package>
-	<id>com.BADR.dockx_1.1.2_iphoneos-arm.deb</id>
+	<id>com.BADR.dockx_1.2.0.1_iphoneos-arm.deb</id>
 	<name>DockX</name>
-	<version>1.1.2</version>
+	<version>1.2.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
