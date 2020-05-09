@@ -1438,25 +1438,26 @@ Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Name: MImport
 
 Package: com.BADR.multipla
-Version: 1.1.0
+Version: 1.1.1
 Architecture: iphoneos-arm
-Maintainer: BADR <https://badr170.github.io/repo/>
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts: com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta
-Filename: ./debs/com.BADR.multipla_1.1.0_iphoneos-arm.deb
-Size: 1169210
-MD5sum: dded345ddaaf83c02df192e276736e14
-SHA1: 841dd1abcb59c2d9b36f6eed9c1ace82b9146d19
-SHA256: 3621f979770ed9bb3722edd9c8219e4b0ac421605a38713d37107b9f53532574
+Conflicts: xyz.burritoz.thomz.multiplalite, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, com.blakeboxberger.bazzi2, com.blakeboxberger.bazzi
+Replaces: xyz.burritoz.thomz.multiplalite
+Filename: ./debs/com.BADR.multipla_1.1.1_iphoneos-arm.deb
+Size: 1219180
+MD5sum: 9b875e72128518d296eec806027f17c4
+SHA1: e8a182237be6403c3fdf1aacd6420d67e3411e98
+SHA256: 14bae1125e35d07572fe6b94203c63184eb2a97a120169ed97a3f92e8bc51d68
 Section: Tweaks
-Description: شريط دوك اختصارات اكثر🤩
+Description: شريط دوك اختصارات اكثر🤩مميزات
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
-Installed-Size: 2115
+Installed-Size: 2155
 Name: Multipla
-Tag: cydia::commercial, compatible::ios11, compatible::ios12, compatible::ios13
+Tag: cydia::commercial, compatible_min::ios11.0
 
 Package: com.BADR.myiapcracker2
 Version: 0.0.5
