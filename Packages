@@ -66,20 +66,6 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 416
 Name: ActionBar
 
-Package: com.BADR.adb
-Version: 1.4-1
-Architecture: iphoneos-arm
-Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.adb_1.4-1_iphoneos-arm.deb
-Size: 16088
-MD5sum: 081dad949ba881a37d3379b93650a528
-SHA1: 59c14001b78e3b38068dba0036866198ed597f54
-SHA256: 09ef4217c86a0fb9e16e13e2882aa95f004c6d9ba1ee6fe35f2ff6af24661c03
-Section: Tweaks
-Description: اداه مساعد لي اداهYoutubekiller👻
-Author: BADR
-Name: YKAdb
-
 Package: com.BADR.addsource
 Version: 2.3.1
 Architecture: iphoneos-arm
@@ -542,10 +528,11 @@ Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
 Filename: ./debs/com.BADR.cercube_5.1.18_iphoneos-arm.deb
-Size: 5632660
-MD5sum: 1135b773291fae2acaf6bb46d6c0f4c6
-SHA1: cadb4722f059c867bb059ab2171ce5fcb9d47397
-SHA256: 545f1b590fb6cb3ecb9dc23929f4a14dbc6d7c4c24f88d705ddbe42f95417ad4
+Size: 5632676
+MD5sum: 6b3fd2201ebc126e9e623e47f798dac1
+SHA1: 01f8d741fec55da090a5a0deb2dda0b9d42e0cc2
+SHA256: 433241261d88997f76b73f6bfeb0d362d445fec5821b9db418ab24c56507ff01
+Section: Tweaks
 Description: قم بتنزيل مقاطع فيديو من يوتيوب YouTubeKiller ☜مساعد لي الاداه
 Author: BADR
 Depiction: Cydia.BADR.repo
@@ -553,7 +540,7 @@ Homepage: https://www.sarhne.com/badr170
 Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Installed-Size: 15104
 Name: Cercube for YouTube
-Priority: BADR
+Priority: optional
 SileoDepiction: Sileo.BADR.repo
 
 Package: com.BADR.choicy
@@ -867,16 +854,16 @@ SileoDepiction: Sileo.BADR.repo
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
 
 Package: com.BADR.edge
-Version: 2.3
+Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, firmware (>=11.0), com.spark.libsparkcolourpicker, com.opa334.ccsupport, ws.hbang.common (>=1.14)
 Conflicts: com.junesiphone.lockpluspro
-Filename: ./debs/com.BADR.edge_2.3_iphoneos-arm.deb
-Size: 287662
-MD5sum: f7663eba46c6d1a93d70213eac1f023b
-SHA1: 5aeec6bb28dc337239f27bde60780ab2079c65b2
-SHA256: efe4889a655db9a0074117a573019c4120bad26a1e458ad70081e8b9e5ae6791
+Filename: ./debs/com.BADR.edge_2.4_iphoneos-arm.deb
+Size: 289160
+MD5sum: ef23126230ac2f3d4d7557e7e6149725
+SHA1: d3e53c9effe01be7051a85278a2198134d074e39
+SHA256: e732d4226493b0723b353f1703305197900072f86413cafc5a096ad30603e076
 Section: Tweaks
 Description: إضافة اطار الوان على شاشتك👻📱 لونها🖌
 Author: BADR
@@ -1137,6 +1124,27 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 200
 Name: Instagram AutoScroll
 
+Package: com.BADR.ithemer
+Version: 2.0.0-2
+Architecture: iphoneos-arm
+Maintainer: BADR <https://badr170.github.io/repo/>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Filename: ./debs/com.BADR.ithemer_2.0.0-2_iphoneos-arm.deb
+Size: 331254
+MD5sum: 06852b421e003eabf8f46dec3162a6b6
+SHA1: 37581616fb17753b320f76b2dadd3c04acf4c5b7
+SHA256: 456dc7f190eaea076d3e043fbb2dc066e12394369162dcae59326acf1e66e7ad
+Section: Tweaks
+Description: SnowBoard افضل اداه على طلاق🤩يجب حذف الاداه قبل تثبيت
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 1852
+Name: iThemer
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+
 Package: com.BADR.itranslate
 Version: 0.0.1-6
 Architecture: iphoneos-arm
@@ -1203,14 +1211,14 @@ Tag: purpose::library, cydia::obsolete, compatible::ios9, compatible::ios10, com
 dev: Pasithea 2 (iOS 10 to 13)
 
 Package: com.BADR.KarlaDiazCircle13
-Version: 1.1.8
+Version: 1.1.9
 Architecture: iphoneos-arm
-Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.8_iphoneos-arm.deb
-Size: 23513948
-MD5sum: 66ecb386a26309b46507c7a417edfb5d
-SHA1: 4708d8048e27d98b223802eac0870e30de88f062
-SHA256: 3adae7c4387a9d967018a08bd0f0a00d5f7f2ea120a29b6ee00ee48e807d951b
+Maintainer: BADR <https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.9_iphoneos-arm.deb
+Size: 24069072
+MD5sum: 9eca0795e48357ac5dae99725afad9e3
+SHA1: 2865462939f6707369c5980862af9750d1449fa3
+SHA256: 331fd8845cb171e7da96de5a6dba3cd4472a51db21dd75d52cfca7a1a61b1322
 Section: Themes
 Description: موضوع بسيط وحديث ثيم جميل والوضع داكن🌟
 Author: BADR
@@ -1257,22 +1265,22 @@ Priority: optional
 dev: BADR
 
 Package: com.BADR.lastlook
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: BADR <https://badr170.github.io/repo/>
+Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12.0)
-Filename: ./debs/com.BADR.lastlook_1.1_iphoneos-arm.deb
-Size: 146164
-MD5sum: cd0365899a68c2c6ad8b1eabd48f0211
-SHA1: 4dc7a559254964995bd44cdb41edfd28c13184f8
-SHA256: 2db90ae8294f43fb09c05ba296617eb1ba2c2a278cd23b89a651183d75558be0
+Filename: ./debs/com.BADR.lastlook_1.2_iphoneos-arm.deb
+Size: 159152
+MD5sum: 49d98002cdfd09f220eb92e62e8bf9bc
+SHA1: d4c85c4c97ad406f4c779a7dd2a69da99b3b1a63
+SHA256: 95f07ad50d035ee3f1d2ff05c673595802fc77d1532668d3b2de04ea88b7cba9
 Section: Tweaks
 Description: نظرةأخيرة على مركز الإشعارات الخاص بك عندما تقوم بقفل هاتفك 😁
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/LastLookPrefs.bundle/icon@2x.png
-Installed-Size: 576
+Installed-Size: 588
 Name: LastLook
 
 Package: com.BADR.libcscolorpicker
@@ -1372,16 +1380,16 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 dev: BADR
 
 Package: com.BADR.lynx
-Version: 1.2.8-1
+Version: 1.2.8-2
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
 Conflicts: 
-Filename: ./debs/com.BADR.lynx_1.2.8-1_iphoneos-arm.deb
-Size: 522590
-MD5sum: 5d09dbe7dd712bf33361d68d7fadb341
-SHA1: ac73d768965501ea25ff342805a968ed32184fc2
-SHA256: c599617599d866fdd7d8d3a7e66797ea0537db476f04deb28306a423557ae377
+Filename: ./debs/com.BADR.lynx_1.2.8-2_iphoneos-arm.deb
+Size: 522574
+MD5sum: b95885e3778cbee225d2b52d0480f39a
+SHA1: c7c20edd996a6fd4ee3d206c4376f50707f66116
+SHA256: 9b038495e6be85daf19229a84702ff2913c1e11271062342b04147ebc5a24d44
 Section: Tweaks
 Description: جميع التخصيص المطلق للجهازك تغنيك عن اكثر من الادوات 🔥تم تعريب
 Author: BADR
@@ -1738,6 +1746,28 @@ Name: PullOver Pro
 Priority: optional
 dev: BADR
 
+Package: com.BADR.ringertoggle
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.BADR.ringertoggle_0.1-1_iphoneos-arm.deb
+Size: 22358
+MD5sum: 3e4d627aca6169ddeaa534f8adc908e9
+SHA1: eca2d086c56b33f062677e6021595098929c851e
+SHA256: 3392fd9e70080580800602cb5dfb1bc42cb70c31dc1ecda0c1e3491734237f02
+Section: Addons (ControlCenter)
+Description: قم بتشغيل / إيقاف تشغيل التبديل الصامت اختصار لمركز التحكم وضع صامت😍📵
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/ControlCenter/Bundles/RingerToggle.bundle/SettingsIcon@2x.png
+Installed-Size: 164
+Name: RingerToggle (CCSupport)
+Pre-Depends: firmware (>= 11.0)
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: BADR
+
 Package: com.BADR.roundprefs
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -1800,17 +1830,17 @@ Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, 
 dev: BADR
 
 Package: com.BADR.sareth
-Version: 1.13-1
+Version: 1.14-1
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Depends: mobilesubstrate, ws.hbang.common, ws.hbang.alderis, firmware (>= 12.0)
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Filename: ./debs/com.BADR.sareth_1.13-1_iphoneos-arm.deb
-Size: 2507692
-MD5sum: 2c1103cfaf2416910529a4cb750419e5
-SHA1: b39e6626dbc303de89755a584bf372aafc47fbea
-SHA256: e91e0d5d0fc010e70552137f21485bcc32e5fe256bf043c86435ef0d203ff330
+Filename: ./debs/com.BADR.sareth_1.14-1_iphoneos-arm.deb
+Size: 2507954
+MD5sum: 1ed2eca4e6ffe217ac5f52dc0a3c5ace
+SHA1: e519e54842cddc7a23b08a1f8b5985484b544150
+SHA256: 4095c50861033762ec81d1124723dc17fff287fa26c1d907c2586a62c68bddad
 Section: Tweaks
 Description: يمكنك ضع صوره في مركز التحكم الخاص بك!🔥وتم حل😁مشكله
 Author: BADR
@@ -1876,14 +1906,14 @@ Priority: optional
 dev: BADR
 
 Package: com.BADR.shadow13
-Version: 1.3.8
+Version: 1.3.9
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.shadow13_1.3.8_iphoneos-arm.deb
-Size: 40971366
-MD5sum: 2158fe4098b9d8992d1e108c56a4deac
-SHA1: 72dd66879d0482608c2241312d355669e9f4a51f
-SHA256: c7b59240fbcbb34219baf2852065669d83da594aa859cb0340454f5476498d13
+Filename: ./debs/com.BADR.shadow13_1.3.9_iphoneos-arm.deb
+Size: 41031044
+MD5sum: c6d36c7963572f9c9c2c82b48f60414d
+SHA1: 019f915626d0993710d007ffd9b9b22f42ca5a28
+SHA256: 3ad0b82aabd8ee203e9fed4da4c415134a154fbce2880f6bfbb15db394a3dd71
 Section: Themes
 Description: موضوع بسيط وحديث ثيم جميل الوضع داكن😍🔥
 Author: BADR
@@ -1912,6 +1942,24 @@ Name: SimpleActivationActions
 Sponsor: com.BADR.repo
 Tag: purpose::extension, cydia::obsolete, compatible::ios12
 dev: BADR
+
+Package: com.BADR.smarterlpm
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Filename: ./debs/com.BADR.smarterlpm_1.0.4_iphoneos-arm.deb
+Size: 74190
+MD5sum: 8df7451e5fc90cd618deac66f4c49ba9
+SHA1: 4395d6e3f7d802681ceae6fab53dcc2c8197c599
+SHA256: b63d7e552817ca9bcc70becb4b5cdaf0e762cf8d49a40054b42b16702813b240
+Section: Tweaks
+Description: وضع تخصيص طاقة منخفضة ذكية🔋لتوفير لبطارية مما يفيد في استنزاف البطارية والمحافظه على شحن البطارية📱
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 524
+Name: SmarterLPM
 
 Package: com.BADR.snapper2cc
 Version: 1.0
@@ -2194,20 +2242,36 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 1072
 Name: XenInfo
 
-Package: com.BADR.youtubekiller
-Version: 3.0-9
+Package: com.BADR.youtubekillers
+Version: 3.1-2
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
-Filename: ./debs/com.BADR.youtubekiller_3.0-9_iphoneos-arm.deb
-Size: 280086
-MD5sum: cc8615e2207c733a60a98b8b3a6d2c61
-SHA1: 81fa32a3474ae40e7deedc626d7df259112b3c68
-SHA256: 24010a5ac937f6c49697859ee16772ea0983b497224718beda98636ceb6c4eb8
+Filename: ./debs/com.BADR.youtubekillers_3.1-2_iphoneos-arm.deb
+Size: 303558
+MD5sum: a9595ebac3c8bf3efa78933e04eb7009
+SHA1: 5574cc64d53e15fa8687892f6b8061a2eb70d6ac
+SHA256: 498ceed339f8ed744e3db537e683debd6684a20ede6702ca1ea1b6e87b502396
 Section: Tweaks
 Description: تطبيق يوتيوب بدون إعلانات وتشغيل الخلفية وأسلوب واجهة مستخدم ايباد!😍ولكثير من مميزات
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: YouTubeKiller
+
+Package: com.BADR.yswitchtheme
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.yswitchtheme_2.0_iphoneos-arm.deb
+Size: 392460
+MD5sum: 005483352d4bad672957378832355eed
+SHA1: 1a33417806c113a28cf252024bfd62639e96e670
+SHA256: 89352cfc4d1eb85826c536d00c8d31de8531996112fc211c4404b477de2a29e6
+Section: Themes
+Description: تغير السمة شكل مفاتيح الإعداد عن طريق أداة  IThemer 
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Name: Y.Switch.Theme
 
