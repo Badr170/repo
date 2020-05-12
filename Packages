@@ -296,24 +296,27 @@ Tag: purpose::extension, compatible::ios12, compatible::ios13
 dev: BADR
 
 Package: com.BADR.bioprotectxs
-Version: 4.4-45
+Version: 4.4-51
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/com.BADR.bioprotectxs_4.4-45_iphoneos-arm.deb
-Size: 822622
-MD5sum: 50fb3050b1bc96d2b12b55604fb5fdef
-SHA1: 399b29ad4a16d359df26ea5821dd41b3f6e97335
-SHA256: 2a8352f34c70db1b330c1e653a1c1f1d8476a369bc02e2a257e9c46801064670
+Filename: ./debs/com.BADR.bioprotectxs_4.4-51_iphoneos-arm.deb
+Size: 822640
+MD5sum: 6ae4cc7d8f3a76416697e5075d742343
+SHA1: 4b92358c3dc9465ebda435e2327c71d69fd9416d
+SHA256: 16ea350698b1942331f7b97b7b32140395273c6fdb71e4b2a780c67626388253
 Section: Tweaks
-Description: قفل الكثير من خصائص الجهاز التطبيقات مركز التحكم اعادة تشغيل المجلدات الإعدادات والكثير  يدعم البصمة و بصمه الوجه حماية تطبيقاتك 😁
+Description: قفل الكثير من خصائص الجهاز التطبيقات مركز التحكم اعادة تشغيل المجلدات الإعدادات والكثير يدعم البصمة و بصمه الوجه حماية تطبيقاتك 😁
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
-Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
-Installed-Size: 2268
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
+Installed-Size: 2224
 Name: BioProtect XS (iOS 12/13)
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+dev: BADR
 
 Package: com.BADR.blots
 Version: 0.0.9
@@ -854,16 +857,16 @@ SileoDepiction: Sileo.BADR.repo
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
 
 Package: com.BADR.edge
-Version: 2.4
+Version: 2.4.3
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Depends: mobilesubstrate, firmware (>=11.0), com.spark.libsparkcolourpicker, com.opa334.ccsupport, ws.hbang.common (>=1.14)
+Depends: mobilesubstrate, firmware (>=11.0), com.spark.libsparkcolourpicker, com.opa334.ccsupport
 Conflicts: com.junesiphone.lockpluspro
-Filename: ./debs/com.BADR.edge_2.4_iphoneos-arm.deb
-Size: 289160
-MD5sum: ef23126230ac2f3d4d7557e7e6149725
-SHA1: d3e53c9effe01be7051a85278a2198134d074e39
-SHA256: e732d4226493b0723b353f1703305197900072f86413cafc5a096ad30603e076
+Filename: ./debs/com.BADR.edge_2.4.3_iphoneos-arm.deb
+Size: 287908
+MD5sum: c065633e6b8e2aa602562df683a21505
+SHA1: 2b4c39c5e7c836d77b84c8cd653918c9b36108a0
+SHA256: 3ca117429e5b1c487cf493a5adaf38f2c5bb76ef9ac99eeb79db4926d8830e89
 Section: Tweaks
 Description: إضافة اطار الوان على شاشتك👻📱 لونها🖌
 Author: BADR
@@ -1211,14 +1214,14 @@ Tag: purpose::library, cydia::obsolete, compatible::ios9, compatible::ios10, com
 dev: Pasithea 2 (iOS 10 to 13)
 
 Package: com.BADR.KarlaDiazCircle13
-Version: 1.1.9
+Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: BADR <https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.KarlaDiazCircle13_1.1.9_iphoneos-arm.deb
-Size: 24069072
-MD5sum: 9eca0795e48357ac5dae99725afad9e3
-SHA1: 2865462939f6707369c5980862af9750d1449fa3
-SHA256: 331fd8845cb171e7da96de5a6dba3cd4472a51db21dd75d52cfca7a1a61b1322
+Maintainer: BADR<https://badr170.github.io/repo/>
+Filename: ./debs/com.BADR.KarlaDiazCircle13_1.2.0_iphoneos-arm.deb
+Size: 24320200
+MD5sum: 1aec4b430ae0f937c1166438519278e8
+SHA1: 25dbb8b701cc6a4289d20199e000250d57612412
+SHA256: 47f29c92d377d2775ee575c064f19c9ac2e3505847ea3a6a5237653db757e41e
 Section: Themes
 Description: موضوع بسيط وحديث ثيم جميل والوضع داكن🌟
 Author: BADR
@@ -1265,22 +1268,22 @@ Priority: optional
 dev: BADR
 
 Package: com.BADR.lastlook
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12.0)
-Filename: ./debs/com.BADR.lastlook_1.2_iphoneos-arm.deb
-Size: 159152
-MD5sum: 49d98002cdfd09f220eb92e62e8bf9bc
-SHA1: d4c85c4c97ad406f4c779a7dd2a69da99b3b1a63
-SHA256: 95f07ad50d035ee3f1d2ff05c673595802fc77d1532668d3b2de04ea88b7cba9
+Filename: ./debs/com.BADR.lastlook_1.2.1_iphoneos-arm.deb
+Size: 153232
+MD5sum: 50a15a582bdcc74b6facbb3935ae1197
+SHA1: f4040c43eb80c50a1e382403e91d20e252b6c54e
+SHA256: b5e48ecd7b68947037e94bf2969cc2d8a2df585ca900cb9a674300d98daa13e8
 Section: Tweaks
-Description: نظرةأخيرة على مركز الإشعارات الخاص بك عندما تقوم بقفل هاتفك 😁
+Description: نظرة الأخيرة على مركز الإشعارات الخاص بك عندما تقوم بقفل هاتفك 😁
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/LastLookPrefs.bundle/icon@2x.png
-Installed-Size: 588
+Installed-Size: 524
 Name: LastLook
 
 Package: com.BADR.libcscolorpicker
@@ -1380,16 +1383,16 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 dev: BADR
 
 Package: com.BADR.lynx
-Version: 1.2.8-2
+Version: 1.2.8-3
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
 Conflicts: 
-Filename: ./debs/com.BADR.lynx_1.2.8-2_iphoneos-arm.deb
-Size: 522574
-MD5sum: b95885e3778cbee225d2b52d0480f39a
-SHA1: c7c20edd996a6fd4ee3d206c4376f50707f66116
-SHA256: 9b038495e6be85daf19229a84702ff2913c1e11271062342b04147ebc5a24d44
+Filename: ./debs/com.BADR.lynx_1.2.8-3_iphoneos-arm.deb
+Size: 522086
+MD5sum: 8fca5efd068c3044481b0da798fe031d
+SHA1: 599804e97a210fd5f5ac2863f96f699776970fef
+SHA256: 8ea699ab2f8cced92cb1244b2d58c718e8eefafc87fcc41971fe35954108bd26
 Section: Tweaks
 Description: جميع التخصيص المطلق للجهازك تغنيك عن اكثر من الادوات 🔥تم تعريب
 Author: BADR
@@ -1676,14 +1679,14 @@ Name: PrefixUI
 Tag: role::developer
 
 Package: com.BADR.prysmdevycc
-Version: 1.9
+Version: 1.9.1
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.prysmdevycc_1.9_iphoneos-arm.deb
-Size: 1224432
-MD5sum: 6ce65391294ebc00ec375f9aba98d6f5
-SHA1: 2d2beb4432fbb9d6a41f0aa9f1b178eb03bf0b23
-SHA256: 4e5d702f58323662d6973a93e0fa19249bf9380b24f50ad661304e8cd7979c4c
+Filename: ./debs/com.BADR.prysmdevycc_1.9.1_iphoneos-arm.deb
+Size: 1224882
+MD5sum: 23724106494f3bf2f01da02cec5ead01
+SHA1: 30fe3f4f772dce08c22e017fdeb159c270f65095
+SHA256: 76d3f77fa025e6e94d725d6f5190c24c07d20f9380488fde993061e5bfba2c9f
 Section: Themes
 Description: بأجمل أسلوب لي مركز تحكم🔥
 Author: BADR
@@ -1907,14 +1910,14 @@ Priority: optional
 dev: BADR
 
 Package: com.BADR.shadow13
-Version: 1.3.9
+Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
-Filename: ./debs/com.BADR.shadow13_1.3.9_iphoneos-arm.deb
-Size: 41031044
-MD5sum: c6d36c7963572f9c9c2c82b48f60414d
-SHA1: 019f915626d0993710d007ffd9b9b22f42ca5a28
-SHA256: 3ad0b82aabd8ee203e9fed4da4c415134a154fbce2880f6bfbb15db394a3dd71
+Filename: ./debs/com.BADR.shadow13_1.4.1_iphoneos-arm.deb
+Size: 41389484
+MD5sum: 8093844a6e29e4fc6ed03f27dc415dd4
+SHA1: 2697b84338c3d97f23bf6d43ea78fe28a483b6fa
+SHA256: 5b3472f0003cf776c04e714c03e7aee0c38491ceb8935f0ad819a8d766a2ec79
 Section: Themes
 Description: موضوع بسيط وحديث ثيم جميل الوضع داكن😍🔥
 Author: BADR
@@ -2071,6 +2074,28 @@ Name: TwiCol
 Priority: optional
 dev: BADR
 
+Package: com.BADR.unicorn
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/com.BADR.unicorn_4.1_iphoneos-arm.deb
+Size: 369696
+MD5sum: a03bf5724f7a809736a9381582ee53f3
+SHA1: 12cb759350787244063835bc0b9bdb96cf86d610
+SHA256: 5100d433bdf77939eebe82eb2b059cffb60a2609239dd88d9d794a15c1e163d9
+Section: Tweaks
+Description: قم بتنزيل فيديوهات من تيك توك والعديد من التحسينات الأخرى! بدون العلامه تيك توك وتعليقات أكثر من 90 حرفا لجميع فيديوهات وتحميل صوره الملف الشخصي للمستخدم ولكثير الاداه توجد لها اعدادات داخل اعدادات تيك توك👻
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 1213
+Name: Unicorn
+Priority: optional
+Sponsor: BADR
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+dev: BADR
+
 Package: com.BADR.videoswipes
 Version: 1.4-1
 Architecture: iphoneos-arm
@@ -2203,6 +2228,26 @@ Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/Themes/Wheel 13.theme/icon@3x.png
 Name: Wheel 13
+
+Package: com.BADR.wonderbar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: BADR<https://badr170.github.io/repo/>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis
+Filename: ./debs/com.BADR.wonderbar_1.0.0_iphoneos-arm.deb
+Size: 33040
+MD5sum: 9e54aef38f62a248d2075aa1c9718e82
+SHA1: f8cae0bab16efa7487e2d65239decee5cfe9365f
+SHA256: 43fa4d64554a105de7c6aad245289f480d349346276f99f9e00385c676d8fae5
+Section: Tweaks
+Description: التخصيص البطاية وتغيير لون ايقونه بطارية ولحواف وتغير ايضا لون نسبه مئوية😍ولون لساعة لونها🖌👻
+Author: BADR
+Depiction: Cydia.BADR.repo
+Homepage: https://www.sarhne.com/badr170
+Icon: https://chariz.com/cdn/icon/wonderbar/icon@3x.png
+Installed-Size: 396
+Name: Wonderbar
+Tag: compatible::ios12, compatible::ios13
 
 Package: com.BADR.xenhtml
 Version: 1.1.5~release
