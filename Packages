@@ -2235,12 +2235,12 @@ Architecture: iphoneos-arm
 Maintainer: BADR<https://badr170.github.io/repo/>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis
 Filename: ./debs/com.BADR.wonderbar_1.0.0_iphoneos-arm.deb
-Size: 33040
-MD5sum: 9e54aef38f62a248d2075aa1c9718e82
-SHA1: f8cae0bab16efa7487e2d65239decee5cfe9365f
-SHA256: 43fa4d64554a105de7c6aad245289f480d349346276f99f9e00385c676d8fae5
+Size: 33036
+MD5sum: 1187e7c66a528cc206d9e51a0e5bf9d6
+SHA1: cc8a36d3ab9a9c122623fac793c36f6ef24a83e2
+SHA256: 4312e0f34043f0aaeacb5500bb3355e3e0a0ef9f2441fa3b6686da221aed6c01
 Section: Tweaks
-Description: التخصيص البطاية وتغيير لون ايقونه بطارية ولحواف وتغير ايضا لون نسبه مئوية😍ولون لساعة لونها🖌👻
+Description: التخصيص البطارية وتغيير لون ايقونه بطارية ولحواف وتغير ايضا لون نسبه مئوية😍ولون ساعة لونها🖌👻
 Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
