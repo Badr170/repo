@@ -60,7 +60,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.2.8-3</version>
+		<version>1.3-4</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -76,7 +76,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>7.0.9</version>
+		<version>7.1.0</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -156,7 +156,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.5.1-10</version>
+		<version>1.5.3-2</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -184,7 +184,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.0.2</version>
+		<version>1.1.0</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -220,7 +220,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.0.18</version>
+		<version>1.0.19</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -420,7 +420,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.1.1</version>
+		<version>1.2.0-1</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -448,7 +448,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.2.0.1</version>
+		<version>1.2.2</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -480,7 +480,39 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>2.4.2</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.4</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.16~beta7</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.9.13~beta11</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>0.1.1</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
 		<change>Initial release</change>
 	</changes>
 </changelog>
