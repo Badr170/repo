@@ -76,7 +76,7 @@
 		<change>Initial release</change>
 	</changes>
 	<changes>
-		<version>7.1.0</version>
+		<version>7.1.1</version>
 		<change>Initial release</change>
 	</changes>
 	<changes>
@@ -513,6 +513,18 @@
 	</changes>
 	<changes>
 		<version>0.0.3</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0~beta5</version>
+		<change>Initial release</change>
+	</changes>
+	<changes>
+		<version>1.0-20OA082310i</version>
 		<change>Initial release</change>
 	</changes>
 </changelog>

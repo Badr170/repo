@@ -493,9 +493,9 @@
 </package>
 
 <package>
-	<id>com.BADR.cydown_7.1.0_iphoneos-arm.deb</id>
+	<id>com.BADR.cydown_7.1.1_iphoneos-arm.deb</id>
 	<name>CyDown</name>
-	<version>7.1.0</version>
+	<version>7.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -3339,6 +3339,84 @@
 	</compatibility>
 	<dependencies>
 		<package>com.BADR.kernbypass</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.notubeads_1.0.0_iphoneos-arm.deb</id>
+	<name>NoTubeADS</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.notubeads</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.swipeselection_1.0~beta5_iphoneos-arm.deb</id>
+	<name>SwipeSelection</name>
+	<version>1.0~beta5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.swipeselection</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.Legizmo_1.0-20OA082310i_iphoneos-arm.deb</id>
+	<name>Legizmo</name>
+	<version>1.0-20OA082310i</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.Legizmo</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>

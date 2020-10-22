@@ -764,19 +764,19 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 dev: lucaluca86
 
 Package: com.BADR.cydown
-Version: 7.1.0
+Version: 7.1.1
 Architecture: iphoneos-arm
-Maintainer: BADR<https://badr170.github.io/repo/>
+Maintainer: BADR
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debs/com.BADR.cydown_7.1.0_iphoneos-arm.deb
-Size: 4328756
-MD5sum: 14bd5c20629a3242f104b6e2b561b921
-SHA1: df12a414b84e76d24b8408c3a5f52d163bd42abb
-SHA256: 3243449004384d5ce25a3208827370edbe0d1e621e622bb7b0fc827827c6a0d6
+Filename: ./debs/com.BADR.cydown_7.1.1_iphoneos-arm.deb
+Size: 4358124
+MD5sum: 645a281c586e07d5cdc042a015b26236
+SHA1: ee8840adf16fdb89f230fea72355258558675d17
+SHA256: 99ceebc357fdc4057f68eb8dc0ec414b77d182792f7554250b2990f2b52365c6
 Section: Tweaks
-Description: اي اداه بفلوس تحملها ببلاش بعض الادوات تقبل وتقدر من خلالها اصلاح سيديا🤔
+Description: مدير تنزيل Cydia وميزات إضافية!اي اداه بفلوس تحملها ببلاش بعض الادوات😃
 Author: BADR
-Depiction: Cydia.BADR.repo
+Depiction: BADR
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
@@ -1408,6 +1408,25 @@ Icon: file:///Library/PreferenceBundles/LastLookPrefs.bundle/icon@2x.png
 Installed-Size: 524
 Name: LastLook
 
+Package: com.BADR.Legizmo
+Version: 1.0-20OA082310i
+Architecture: iphoneos-arm
+Maintainer: lunotech11
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.BADR.Legizmo_1.0-20OA082310i_iphoneos-arm.deb
+Size: 984298
+MD5sum: 18e0a96076098c8f24a97bb492512133
+SHA1: 52fb3cacba4400a9777675841bd3e1b3f447a116
+SHA256: d155c7c43ea2f040ca63871c61e27d244c5f786c2433db06dd1b2c89eaaac3dc
+Section: Tweaks
+Description: 😍اسمح لنظام iOS بالاقتران مع الإصدارات الأحدث لساعه ابل تدعم 12.0/13.7 تم تعريب اداه بشكل كامل
+Author: BADR
+Homepage: https://www.sarhne.com/badr170
+Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
+Installed-Size: 2148
+Name: Legizmo (تحديث ساعه ابل)
+Tag: cydia::commercial
+
 Package: com.BADR.libcscolorpicker
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -1696,6 +1715,23 @@ Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Installed-Size: 440
 Name: no revoke
+
+Package: com.BADR.notubeads
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: BADR
+Depends: mobilesubstrate
+Filename: ./debs/com.BADR.notubeads_1.0.0_iphoneos-arm.deb
+Size: 16504
+MD5sum: e3dc1071caa9c00a8029892fe9336b14
+SHA1: db98b4c203b635db61048ef563b7c0e3efaebc93
+SHA256: ce3109b6dd5251f9e2a56cba01568d76ca503dca0fb63567ec5ae3f7e618ec8f
+Section: Tweaks
+Description: إزالة إعلانات YouTube!
+Author: BADR
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 753
+Name: NoTubeADS (إزالةإعلانات يوتيوب)
 
 Package: com.BADR.onlinenotify
 Version: 3.2.1
@@ -2139,6 +2175,26 @@ Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Installed-Size: 1232
 Name: Snapper 2
+
+Package: com.BADR.swipeselection
+Version: 1.0~beta5
+Architecture: iphoneos-arm
+Maintainer: BADR
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro
+Filename: ./debs/com.BADR.swipeselection_1.0~beta5_iphoneos-arm.deb
+Size: 235220
+MD5sum: cc7641d084aa4e11dbaa706760fca25f
+SHA1: 84406cbfaa0e0e9def07b9ea87f05d96676832d6
+SHA256: 396c2b2dc491bedcf678c5b9b5f2aa1a5b8a5d19edde777f958a10819658e83f
+Section: Tweaks
+Description: حدد النص وحرك المؤشر باستخدام الكيبورد على لوحة المفاتيح😍.
+Author: BADR
+Depiction: BADR
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 756
+Name: SwipeSelection
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 
 Package: com.BADR.switcher
 Version: 1.1.4
