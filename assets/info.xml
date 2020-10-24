@@ -3429,3 +3429,29 @@
 	</changelog>
 	<links></links>
 </package>
+
+<package>
+	<id>com.BADR.notubeads_1.0.0_iphoneos-arm.deb</id>
+	<name>NoTubeADS</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.notubeads</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

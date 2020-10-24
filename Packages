@@ -1716,6 +1716,23 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 440
 Name: no revoke
 
+Package: com.BADR.notubeads
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: BADR
+Depends: mobilesubstrate
+Filename: ./debs/com.BADR.notubeads_1.0.0_iphoneos-arm.deb
+Size: 16608
+MD5sum: d46e44d85e34b29f18ade0cca3577e1d
+SHA1: d64b593eea90745de1c8459137b366f454a9304b
+SHA256: 3d448dcc0aa10154e5bc4498d200a1a2f4dc11e9667727591e76b3e6e6b4e187
+Section: Tweaks
+Description: اخفاء إعلانات يوتيوب الاداة لاتوجد اعدادات تشتغل تلقائي اداة جيد وتم تجربتها انصح بها الاداه ميزتها فقط اخفاء اعلانات YouTube!
+Author: BADR
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 753
+Name: NoTubeADS(اخفاءاعلانات)
+
 Package: com.BADR.onlinenotify
 Version: 3.2.1
 Architecture: iphoneos-arm
