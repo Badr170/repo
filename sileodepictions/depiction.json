@@ -12400,7 +12400,7 @@
 			},
 			{
 				"class": "DepictionMarkdownView",
-				"markdown": "NoTubeADS"
+				"markdown": "YTplus"
 			},
 			{
 				"class": "DepictionSeparatorView"
@@ -12411,7 +12411,7 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.0.0",
+				"text": "2.5.2",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -12464,7 +12464,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.0.0",
+				"title": "2.5.2",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"

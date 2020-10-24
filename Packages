@@ -1716,23 +1716,6 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 440
 Name: no revoke
 
-Package: com.BADR.notubeads
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: BADR
-Depends: mobilesubstrate
-Filename: ./debs/com.BADR.notubeads_1.0.0_iphoneos-arm.deb
-Size: 16504
-MD5sum: e3dc1071caa9c00a8029892fe9336b14
-SHA1: db98b4c203b635db61048ef563b7c0e3efaebc93
-SHA256: ce3109b6dd5251f9e2a56cba01568d76ca503dca0fb63567ec5ae3f7e618ec8f
-Section: Tweaks
-Description: إزالة إعلانات YouTube!
-Author: BADR
-Homepage: https://www.sarhne.com/badr170
-Installed-Size: 753
-Name: NoTubeADS (إزالةإعلانات يوتيوب)
-
 Package: com.BADR.onlinenotify
 Version: 3.2.1
 Architecture: iphoneos-arm
@@ -2534,4 +2517,21 @@ Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: Y.Switch.Theme
+
+Package: com.BADR.ytplus
+Version: 2.5.2
+Architecture: iphoneos-arm
+Maintainer: Mudi47
+Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common, co.azozzalfiras.azflibrary
+Filename: ./debs/com.BADR.ytplus_2.5.2_iphoneos-arm.deb
+Size: 312566
+MD5sum: 636029d2300dbb7449a0e20a3e262c0b
+SHA1: 2c36dbe5df3236cc259bf0605d90d9dbfe93b5a8
+SHA256: d0a17f92cdd1320a9dcdbfce3967810a374ecf9acd9c22b7068b0e0b1fa66373
+Section: Tweaks
+Description: اخفاء علانات ، تشغيل في خلفية، تطبيق موسيقى ،اخفاء اعلانات وميزة تشغيل في خلفية كلها في اداة واحدة===أفضل اداة جميع مميزات يوتيوب😍الاداة باللغة العربية
+Author: BADR
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 964
+Name: YTplus(مميزات يوتيوب)
 
