@@ -3405,13 +3405,13 @@
 </package>
 
 <package>
-	<id>com.BADR.Legizmo_1.0-20OA082310i_iphoneos-arm.deb</id>
+	<id>com.BADR.Legizmo_1.0-21JA031345i_iphoneos-arm.deb</id>
 	<name>Legizmo</name>
-	<version>1.0-20OA082310i</version>
+	<version>1.0-21JA031345i</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.7</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -3421,7 +3421,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>re formatted correct</description>
-    <description>ios13.0-ios13.4</description>
+    <description>ios12.0-ios13.7</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

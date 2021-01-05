@@ -1409,23 +1409,22 @@ Installed-Size: 524
 Name: LastLook
 
 Package: com.BADR.Legizmo
-Version: 1.0-20OA082310i
+Version: 1.0-21JA031345i
 Architecture: iphoneos-arm
-Maintainer: lunotech11
+Maintainer: BADR
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.BADR.Legizmo_1.0-20OA082310i_iphoneos-arm.deb
-Size: 984298
-MD5sum: 18e0a96076098c8f24a97bb492512133
-SHA1: 52fb3cacba4400a9777675841bd3e1b3f447a116
-SHA256: d155c7c43ea2f040ca63871c61e27d244c5f786c2433db06dd1b2c89eaaac3dc
+Filename: ./debs/com.BADR.Legizmo_1.0-21JA031345i_iphoneos-arm.deb
+Size: 883490
+MD5sum: 6fea6467d8ab1b336451cc79955b1520
+SHA1: 4d9c4eb0ff74d4d25e691317e363dd4fc6b27237
+SHA256: 0129edaeaf0346072dd44b408149aba4f09414c4d1861afede06d56f89bb7cd5
 Section: Tweaks
-Description: 😍اسمح لنظام iOS بالاقتران مع الإصدارات الأحدث لساعه ابل تدعم 12.0/13.7 تم تعريب اداه بشكل كامل
+Description: 😍اسمح لنظام iOS بالاقتران مع الإصدارات الأحدث لساعه ابل تدعم 12.0/13.7 تم تعريب اداه بشكل كامل قوم ترقية بشكل طبيعي 
 Author: BADR
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
-Installed-Size: 2148
-Name: Legizmo (تحديث ساعه ابل)
-Tag: cydia::commercial
+Installed-Size: 1628
+Name: Legizmo (تحديث ساعة ابل)
 
 Package: com.BADR.libcscolorpicker
 Version: 1.0.3
