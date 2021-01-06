@@ -2501,6 +2501,25 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 1072
 Name: XenInfo
 
+Package: com.BADR.youtube-reborn
+Version: 1.0.7.3
+Architecture: iphoneos-arm
+Maintainer: BADR
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip
+Replaces: net.sarahh12099.youtubereborn
+Filename: ./debs/com.BADR.youtube-reborn_1.0.7.3_iphoneos-arm.deb
+Size: 183436
+MD5sum: 14435e0b7968662ee07b3308bf96e621
+SHA1: 401277d59abb25684396a6775e9b69fb54d746eb
+SHA256: f373d00c3b88a489d4bb77ffa692933ea7e3e555a7299cf66c1019ca04c1a840
+Section: Tweaks
+Description: تم تعريب بواسطة بيدرو❤️ميزة يوتيوب اخفاء اعلانات ==== مميزات اكثر😍
+Author: BADR
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 944  
+Name: YouTube Reborn
+
 Package: com.BADR.youtubekillers
 Version: 3.1-2
 Architecture: iphoneos-arm
@@ -2533,21 +2552,4 @@ Author: BADR
 Depiction: Cydia.BADR.repo
 Homepage: https://www.sarhne.com/badr170
 Name: Y.Switch.Theme
-
-Package: com.BADR.ytplus
-Version: 2.5.2
-Architecture: iphoneos-arm
-Maintainer: Mudi47
-Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common, co.azozzalfiras.azflibrary
-Filename: ./debs/com.BADR.ytplus_2.5.2_iphoneos-arm.deb
-Size: 312566
-MD5sum: 636029d2300dbb7449a0e20a3e262c0b
-SHA1: 2c36dbe5df3236cc259bf0605d90d9dbfe93b5a8
-SHA256: d0a17f92cdd1320a9dcdbfce3967810a374ecf9acd9c22b7068b0e0b1fa66373
-Section: Tweaks
-Description: اخفاء علانات ، تشغيل في خلفية، تطبيق موسيقى ،اخفاء اعلانات وميزة تشغيل في خلفية كلها في اداة واحدة===أفضل اداة جميع مميزات يوتيوب😍الاداة باللغة العربية
-Author: BADR
-Homepage: https://www.sarhne.com/badr170
-Installed-Size: 964
-Name: YTplus(مميزات يوتيوب)
 

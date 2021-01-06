@@ -3353,23 +3353,23 @@
 </package>
 
 <package>
-	<id>com.BADR.ytplus_2.5.2_iphoneos-arm.deb</id>
-	<name>YTplus</name>
-	<version>2.5.2</version>
+	<id>com.BADR.youtube-reborn_1.0.7.3_iphoneos-arm.deb</id>
+	<name>YouTube Reborn</name>
+	<version>1.0.7.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
+			<miniOS>12.0</miniOS>
+			<maxiOS>14.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.BADR.ytplus</package>
+		<package>com.BADR.youtube-reborn</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>re formatted correct</description>
-    <description>ios13.0-ios13.4</description>
+    <description>ios12.0-ios14.1</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

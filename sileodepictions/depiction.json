@@ -12400,7 +12400,7 @@
 			},
 			{
 				"class": "DepictionMarkdownView",
-				"markdown": "YTplus"
+				"markdown": "YouTube Reborn"
 			},
 			{
 				"class": "DepictionSeparatorView"
@@ -12411,12 +12411,12 @@
 			},
 			{
 				"title": "Version",
-				"text": "2.5.2",
+				"text": "1.0.7.3",
 				"class": "DepictionTableTextView"
 			},
 			{
 				"title": "Last Updated",
-				"text": "14, 2020",
+				"text": "06, 2021",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -12426,7 +12426,7 @@
 			},
 			{
 				"title": "Compatibility",
-				"text": "ios13.0 - 13.4",
+				"text": "ios12.0 - 14.1",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -12464,7 +12464,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "2.5.2",
+				"title": "1.0.7.3",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
