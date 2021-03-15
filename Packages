@@ -919,6 +919,24 @@ Homepage: https://www.sarhne.com/badr170
 Installed-Size: 796
 Name: Edge
 
+Package: com.BADR.fancyselection
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: BADR
+Depends: firmware (>=13.4), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.BADR.fancyselection_1.5_iphoneos-arm.deb
+Size: 626578
+MD5sum: b4991d215f924421c4e963f8f2a16e2c
+SHA1: fbbef8fdfadfa135aeefc1ffb6bc4fadd37fc7d6
+SHA256: 09dc574838466515095a86897d23323ae56fd55edcc1a6f227ba51b6c2f6d4d4
+Section: Tweaks
+Description: قم بتغيير قائمة تحديد نص iOS إلى شيء خيالي تم تعريب الاداه بشكل كامل من بيدرو 
+Author: BADR
+Homepage: https://www.sarhne.com/badr170
+Installed-Size: 10
+Name: FancySelection
+Tag: purpose::extension, compatible_min::ios13.4, compatible_max::ios14
+
 Package: com.BADR.fixappadmin
 Version: 1.0.1-1
 Architecture: iphoneos-arm
@@ -1409,21 +1427,21 @@ Installed-Size: 524
 Name: LastLook
 
 Package: com.BADR.Legizmo
-Version: 1.0-21JA251906i
+Version: 1.0-21MA071416i
 Architecture: iphoneos-arm
 Maintainer: BADR
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.BADR.Legizmo_1.0-21JA251906i_iphoneos-arm.deb
-Size: 403876
-MD5sum: cc1d1ceea815c66e395b4a4b64ac9d2f
-SHA1: dde6cdaa065d4334f3b37d5e867e54a94cb1f492
-SHA256: ec8e2caca878c77fd994cf29c3f6789cdddd60e48e55d392d4342020117e42dc
+Filename: ./debs/com.BADR.Legizmo_1.0-21MA071416i_iphoneos-arm.deb
+Size: 403404
+MD5sum: 3b94b6c13e7bebf4c048f640b83cb4f1
+SHA1: e7d3132ae4c6a70e52e25556264d45952acf9158
+SHA256: a5b229732054276baa5f036eea1e7adc0f1e3efc2bb5fa5b003c5b1d655c8da8
 Section: Tweaks
-Description: 😍اسمح لنظام iOS بالاقتران مع الإصدارات الأحدث لساعه ابل تدعم 12.0/13.7 تم تعريب اداه بشكل كامل انتبه يجب الغاء تثبيت مكونات من داخل تطبيق الاداه وبعدها اعاده تثبيته 
+Description: 😍اسمح لنظام iOS بالاقتران مع الإصدارات الأحدث لساعه ابل تدعم 12.0/14.0 تم تعريب اداه بشكل كامل انتبه يجب 
 Author: BADR
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
-Installed-Size: 1784
+Installed-Size: 1840
 Name: Legizmo (تحديث ساعة ابل)
 
 Package: com.BADR.libcscolorpicker

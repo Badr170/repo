@@ -3405,13 +3405,13 @@
 </package>
 
 <package>
-	<id>com.BADR.Legizmo_1.0-21JA251906i_iphoneos-arm.deb</id>
+	<id>com.BADR.Legizmo_1.0-21MA071416i_iphoneos-arm.deb</id>
 	<name>Legizmo</name>
-	<version>1.0-21JA251906i</version>
+	<version>1.0-21MA071416i</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-			<maxiOS>13.7</maxiOS>
+			<maxiOS>14.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -3421,7 +3421,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>re formatted correct</description>
-    <description>ios12.0-ios13.7</description>
+    <description>ios12.0-ios14.0</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
@@ -3443,6 +3443,32 @@
 	</compatibility>
 	<dependencies>
 		<package>com.BADR.notubeads</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>re formatted correct</description>
+    <description>ios13.0-ios13.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
+
+<package>
+	<id>com.BADR.fancyselection_1.5_iphoneos-arm.deb</id>
+	<name>FancySelection</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.BADR.fancyselection</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
