@@ -1936,7 +1936,7 @@
 			},
 			{
 				"class": "DepictionMarkdownView",
-				"markdown": "Watusi 2 for WhatsApp"
+				"markdown": "Watusi 3 for WhatsApp"
 			},
 			{
 				"class": "DepictionSeparatorView"
@@ -1947,12 +1947,12 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.2.40",
+				"text": "0.10.2k",
 				"class": "DepictionTableTextView"
 			},
 			{
 				"title": "Last Updated",
-				"text": "14, 2020",
+				"text": "04, 2021",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -2000,7 +2000,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.2.40",
+				"title": "0.10.2k",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -2043,12 +2043,12 @@
 			},
 			{
 				"title": "Version",
-				"text": "2.1.21",
+				"text": "2.2.3k",
 				"class": "DepictionTableTextView"
 			},
 			{
 				"title": "Last Updated",
-				"text": "14, 2020",
+				"text": "04, 2021",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -2096,7 +2096,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "2.1.21",
+				"title": "2.2.3k",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"
@@ -2619,12 +2619,12 @@
 			},
 			{
 				"title": "Version",
-				"text": "3.2.1",
+				"text": "3.3.4",
 				"class": "DepictionTableTextView"
 			},
 			{
 				"title": "Last Updated",
-				"text": "14, 2020",
+				"text": "04, 2021",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -2634,7 +2634,7 @@
 			},
 			{
 				"title": "Compatibility",
-				"text": "ios13.0 - 13.4",
+				"text": "ios12.0 - 14.3",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -2672,7 +2672,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "3.2.1",
+				"title": "3.3.4",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"

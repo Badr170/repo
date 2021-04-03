@@ -519,9 +519,9 @@
 </package>
 
 <package>
-	<id>com.BADR.watusi_1.2.40_iphoneos-arm.deb</id>
-	<name>Watusi 2 for WhatsApp</name>
-	<version>1.2.40</version>
+	<id>com.BADR.watusi3_0.10.2k_iphoneos-arm.deb</id>
+	<name>Watusi 3 for WhatsApp</name>
+	<version>0.10.2k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -530,7 +530,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.BADR.watusi</package>
+		<package>com.BADR.watusi3</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
@@ -545,9 +545,9 @@
 </package>
 
 <package>
-	<id>com.BADR.watusitools_2.1.21_iphoneos-arm.deb</id>
+	<id>com.BADR.watusitools_2.2.3k_iphoneos-arm.deb</id>
 	<name>WatusiTools</name>
-	<version>2.1.21</version>
+	<version>2.2.3k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.4</miniOS>
@@ -701,13 +701,13 @@
 </package>
 
 <package>
-	<id>com.BADR.onlinenotify_3.2.1_iphoneos-arm.deb</id>
+	<id>com.BADR.onlinenotify_3.3.4_iphoneos-arm.deb</id>
 	<name>OnlineNotify</name>
-	<version>3.2.1</version>
+	<version>3.3.4</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
+			<miniOS>12.0</miniOS>
+			<maxiOS>14.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
