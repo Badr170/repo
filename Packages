@@ -2399,15 +2399,15 @@ Homepage: https://www.sarhne.com/badr170
 Name: Watusi 3 for WhatsApp
 
 Package: com.BADR.watusitools
-Version: 2.2.3k
+Version: 2.2.3kk
 Architecture: iphoneos-arm
 Maintainer: BADR
 Depends: firmware (>= 9.0), darwintools
-Filename: ./debs/com.BADR.watusitools_2.2.3k_iphoneos-arm.deb
-Size: 14031316
-MD5sum: a4f3138b7c051e0608f7cd3bbae34de6
-SHA1: 07b887f499b111de518eff1aaed4e498f29dc78d
-SHA256: 2a390a13fba3ad8e7f8a1a8f61dc184740fbdf5a6c3a7f46c6ef93e28f63f8cb
+Filename: ./debs/com.BADR.watusitools_2.2.3kk_iphoneos-arm.deb
+Size: 14031318
+MD5sum: 1a7e62b9aca0c397dbc433312df40eff
+SHA1: 5f112b88e2c0510abcc087b9a67c58b717d05985
+SHA256: a64dd48664d599035532335d21ba700a060151a12080656006df6dfe593a1c30
 Section: Development
 Description: الاداه مساعد لي واتسي 3 لتشغيل الاداه صوره صحيحه Watusi 3 
 Author: BADR
