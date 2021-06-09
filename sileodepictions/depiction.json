@@ -12603,12 +12603,12 @@
 			},
 			{
 				"title": "Version",
-				"text": "1.0-21MA071416i",
+				"text": "1.0-21MB081325i",
 				"class": "DepictionTableTextView"
 			},
 			{
 				"title": "Last Updated",
-				"text": "16, 2021",
+				"text": "09, 2021",
 				"class": "DepictionTableTextView"
 			},
 			{
@@ -12656,7 +12656,7 @@
 		"tabname": "Changelog",
 		"views": [
 			{
-				"title": "1.0-21MA071416i",
+				"title": "1.0-21MB081325i",
 				"useBoldText": true,
 				"useBottomMargin": true,
 				"class": "DepictionSubheaderView"

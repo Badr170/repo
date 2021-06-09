@@ -3405,9 +3405,9 @@
 </package>
 
 <package>
-	<id>com.BADR.Legizmo_1.0-21MA071416i_iphoneos-arm.deb</id>
+	<id>com.BADR.Legizmo_1.0-21MB081325i_iphoneos-arm.deb</id>
 	<name>Legizmo</name>
-	<version>1.0-21MA071416i</version>
+	<version>1.0-21MB081325i</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
