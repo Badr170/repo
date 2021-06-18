@@ -519,13 +519,13 @@
 </package>
 
 <package>
-	<id>com.BADR.watusi3_0.10.2k_iphoneos-arm.deb</id>
+	<id>com.BADR.watusi3_1.0.3_iphoneos-arm.deb</id>
 	<name>Watusi 3 for WhatsApp</name>
-	<version>0.10.2k</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -535,7 +535,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>re formatted correct</description>
-    <description>ios12.0-ios13.4</description>
+    <description>ios9.0-ios14.0</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
@@ -545,13 +545,13 @@
 </package>
 
 <package>
-	<id>com.BADR.watusitools_2.2.3kk_iphoneos-arm.deb</id>
+	<id>com.BADR.watusitools_2.2.5_iphoneos-arm.deb</id>
 	<name>WatusiTools</name>
-	<version>2.2.3kk</version>
+	<version>2.2.5</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.4</miniOS>
-			<maxiOS>13.4</maxiOS>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -561,7 +561,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>re formatted correct</description>
-    <description>ios12.0-ios13.4</description>
+    <description>ios9.0-ios14.0</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
@@ -701,13 +701,13 @@
 </package>
 
 <package>
-	<id>com.BADR.onlinenotify_3.3.4_iphoneos-arm.deb</id>
+	<id>com.BADR.onlinenotify_3.3.5_iphoneos-arm.deb</id>
 	<name>OnlineNotify</name>
-	<version>3.3.4</version>
+	<version>3.3.5</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.0</miniOS>
-			<maxiOS>14.3</maxiOS>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -717,7 +717,7 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>re formatted correct</description>
-    <description>ios13.0-ios13.4</description>
+    <description>ios9.0-ios14.0</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
@@ -3405,9 +3405,9 @@
 </package>
 
 <package>
-	<id>com.BADR.Legizmo_1.0-21MB081325i_iphoneos-arm.deb</id>
+	<id>com.BADR.Legizmo_1.1-21JB072139i_iphoneos-arm.deb</id>
 	<name>Legizmo</name>
-	<version>1.0-21MB081325i</version>
+	<version>1.1-21JB072139i</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>

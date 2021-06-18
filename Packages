@@ -1427,21 +1427,20 @@ Installed-Size: 524
 Name: LastLook
 
 Package: com.BADR.Legizmo
-Version: 1.0-21MB081325i
+Version: 1.1-21JB072139i
 Architecture: iphoneos-arm
 Maintainer: BADR
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.BADR.Legizmo_1.0-21MB081325i_iphoneos-arm.deb
-Size: 406920
-MD5sum: eb9575e0656a10b0764fe410837c9955
-SHA1: 8742884a0ea602bc1ce2358c66a7ac898f68c01b
-SHA256: 086d0b61422f6105d0d6c007a524ab715ddf0d809e8c6a4b706c53c9249a13ef
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.BADR.Legizmo_1.1-21JB072139i_iphoneos-arm.deb
+Size: 421728
+MD5sum: 1bf1058f596dc1160571691c29b04a2b
+SHA1: 44c05cb44163f93db0b90bfc3dbbae6f2b876804
+SHA256: 8cca39d0b02926a2bf451a75e115f35b0c0104271a2396cda4c79e854ac4599d
 Section: Tweaks
-Description: 😍اسمح لنظام iOS بالاقتران مع الإصدارات الأحدث لساعه ابل تدعم 12.0/14.0 تم تعريب اداه بشكل كامل المنفذ الرئيسية من بيدرو للاداه🤪
+Description: 😍اسمح لنظام iOS بالاقتران مع الإصدارات الأحدث لساعه ابل تدعم 12.0/14.0 تم تعريب اداه بشكل كامل المنفذ الرئيسية من بيدرو للاداه🤫
 Author: BADR
-Homepage: https://www.sarhne.com/badr170
 Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
-Installed-Size: 1840
+Installed-Size: 90
 Name: Legizmo (تحديث ساعه ابل)
 
 Package: com.BADR.libcscolorpicker
@@ -1751,35 +1750,17 @@ Installed-Size: 753
 Name: NoTubeADS(اخفاءاعلانات)
 
 Package: com.BADR.onlinenotify
-Version: 3.2.1
+Version: 3.3.5
 Architecture: iphoneos-arm
-Maintainer: BADR~https://badr170.github.io/repo/
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.18), preferenceloader, applist, com.rpetrich.rocketbootstrap
-Filename: ./debs/com.BADR.onlinenotify_3.2.1_iphoneos-arm.deb
-Size: 657712
-MD5sum: e04bed8760e2dfd82c2e368553fdcca4
-SHA1: 303230b84560838d4748b7abb98cefb9e9bf418e
-SHA256: 154355dfda615cc50897031bd40865851905c2de673ad127972190e1fd085a08
+Maintainer: BADR 
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.1.24), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.BADR.onlinenotify_3.3.5_iphoneos-arm.deb
+Size: 619222
+MD5sum: b13dbf4dd78cdc606af784feaa768e69
+SHA1: 4bf68e6167773449f7d2d97342372b441e167dc5
+SHA256: 44e3bdec54a95f7b1e0b031c8e50c205683a3fb0e9f762ab8b002678943935a5
 Section: Tweaks
-Description: مميزات البلس تطبيق واتساب اخفاء ظهور او ارسال مقطع طويله يلزم تسجيل في نفس الاداه اي حساب كان يتم تشغيلها
-Author: BADR~
-Depiction: Cydia.BADR.repo
-Homepage: https://www.sarhne.com/badr170
-Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
-Name: OnlineNotify
-
-Package: com.BADR.onlinenotify
-Version: 3.3.4
-Architecture: iphoneos-arm
-Maintainer: BADR
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), org.mr.watusitools (>= 2.2.2), com.rpetrich.rocketbootstrap
-Filename: ./debs/com.BADR.onlinenotify_3.3.4_iphoneos-arm.deb
-Size: 618378
-MD5sum: 144c4dd9c7a15bcef5800de7e640d9b2
-SHA1: 019d6e378719979f735a3d2f99484ec53818e505
-SHA256: 25c99cea7aac2450fd2cefe14efead5aedfe109b2188be58482d6fc7a96646d6
-Section: Tweaks
-Description: تتبع أصدقائك على الواتساب تم اصلاح لتوافق مع الاداه جديد للواتساب [انتباه يجب حذف الاداه بشكل كامل]  الوظيفة الاداه لمعرفة متصلين من جهات اتصالك  واشعارات وخيارات اكثرWatusi 3 for WhatsApp متوافقة مع
+Description: تتبع أصدقائك على الواتساب ماسنجر ومعرفة شخص متصل او حتى اذا قام بتفعيل خاصية عدم الظهور سوف يكون ظهرا عند تحميل هذا الاداه😍!
 Author: BADR
 Homepage: https://www.sarhne.com/badr170
 Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/logo@2x.png
@@ -2383,33 +2364,36 @@ Installed-Size: 152
 Name: WA NoSuggestions
 
 Package: com.BADR.watusi3
-Version: 0.10.2k
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: BADR
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), org.mr.watusitools (>= 2.2.3), com.rpetrich.rocketbootstrap
-Filename: ./debs/com.BADR.watusi3_0.10.2k_iphoneos-arm.deb
-Size: 2930686
-MD5sum: 5ade8f15b5c890d482ed4ee30aaa94a6
-SHA1: 8fd88f05f73c64da3c229482a7f7f4a64915ba14
-SHA256: 1a6182438306bda9223514ea7d7e9171ff471708feba753c2df9f549d4ba6d90
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.2.4), com.rpetrich.rocketbootstrap
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.BADR.watusi3_1.0.3_iphoneos-arm.deb
+Size: 4329192
+MD5sum: 2f5908261cc44b76fdbaa4892b848398
+SHA1: 7649ba0c8831b27dbd4d12b2d4bf41896bfd16fb
+SHA256: 8e7403c8d1db54c6bddd1be9d73602e56d3e94f5936f528d93c60d04802ee823
 Section: Tweaks
-Description: الاداه واتسي 3 الجديد ولخيارات اكثر ومميزات اكثر 🔥😍
+Description: الاداه واتسي 3 الجديد ولخيارات اكثر ومميزات اكثر🤩
 Author: BADR
 Homepage: https://www.sarhne.com/badr170
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 Name: Watusi 3 for WhatsApp
 
 Package: com.BADR.watusitools
-Version: 2.2.3kk
+Version: 2.2.5
 Architecture: iphoneos-arm
 Maintainer: BADR
 Depends: firmware (>= 9.0), darwintools
-Filename: ./debs/com.BADR.watusitools_2.2.3kk_iphoneos-arm.deb
-Size: 14031318
-MD5sum: 1a7e62b9aca0c397dbc433312df40eff
-SHA1: 5f112b88e2c0510abcc087b9a67c58b717d05985
-SHA256: a64dd48664d599035532335d21ba700a060151a12080656006df6dfe593a1c30
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.BADR.watusitools_2.2.5_iphoneos-arm.deb
+Size: 13955030
+MD5sum: 04d636934f27ae48642e5c6853c42f29
+SHA1: c2258bfeaa7a97a46531e169160bd8fa55ccb456
+SHA256: 0eb72941a6005d7df38d921a08fe02addcbed44b6db9d8af25e8c56e205037f6
 Section: Development
-Description: الاداه مساعد لي واتسي 3 لتشغيل الاداه صوره صحيحه Watusi 3 
+Description: الاداه مساعد لي واتسي 3 لتشغيل الاداه صوره صحيحه Watusi 3
 Author: BADR
 Homepage: https://www.sarhne.com/badr170
 Name: WatusiTools
